@@ -1,2 +1,5 @@
 ##.js-stickyFooter
 www.theguardian.com##.contributions__epic
+www.booking.com##.sr_rooms_left_wrap.only_x_left
+www.booking.com##.sr-booked-x-times.clearfix.lbsr
+www.booking.com##.soldout_property
