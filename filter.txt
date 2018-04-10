@@ -4,3 +4,4 @@ www.booking.com##.sr_rooms_left_wrap.only_x_left
 www.booking.com##.sr-booked-x-times.clearfix.lbsr
 www.booking.com##.soldout_property
 www.bloomberg.com##.video-player
+moneysavingexpert.com###fixed-cross-site-tipbox
