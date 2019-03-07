@@ -23,3 +23,30 @@ booking.com##.urgency_message_red.altHotels_most_recent_booking
 booking.com##.fe_banner__w-icon-large.fe_banner__w-icon.fe_banner
 booking.com##.smaller-low-av-msg_wrapper
 booking.com##.small_warning.wxp-sr-banner.js-wxp-sr-banner
+bloomberg.com##.right-rail-v1.right-rail
+bloomberg.com##figure
+nytimes.com###story-ad-1-wrapper
+deadspin.com##.sidebar
+theverge.com##.l-article-body-segment.l-segment.l-sidebar-fixed > .l-col__sidebar
+sploid.gizmodo.com##.sidebar
+sites.google.com##.BCtCv
+theverge.com##.c-entry-hero__image
+spectator.co.uk##.middle-promo
+singletrackworld.com##.dt_sidebar.col-md-4
+hackernoon.com##.u-tintSpectrum
+hackernoon.com##.u-xs-height95
+parkers.co.uk###sp_message_id1548165423809
+parkers.co.uk##.sp_veil1548165423809
+parkers.co.uk##.clearfix.site-header
+autoexpress.co.uk###sidebar-first
+economictimes.indiatimes.com##.gaDone.article_block > .sideBar.flr
+worcesternews.co.uk###sp_message_panel_id1548337069830
+autotrader.co.uk##.js-standout-listing
+wired.com##.most-popular-side-bar-component
+autotrader.co.uk##.js-standout-listing
+autotrader.co.uk##.search-page__result:nth-of-type(1)
+cpubenchmark.net###blocker
+thesun.co.uk###sidebar
+booking.com##.hprt-price-deal-badge
+booking.com##.hp-rt-recently-booked
+booking.com##.sr_item_car_rental
