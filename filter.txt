@@ -50,4 +50,3 @@ thesun.co.uk###sidebar
 booking.com##.hprt-price-deal-badge
 booking.com##.hp-rt-recently-booked
 booking.com##.sr_item_car_rental
-hotjar.com
