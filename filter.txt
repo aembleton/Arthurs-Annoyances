@@ -54,3 +54,5 @@ thepiratebay.se.net###sky-center
 dailymail.co.uk##.has-button-share.floating-buttons
 gizmochina.com##.td-ss-main-sidebar
 ryanair.com##.flights-table-price__notice
+theguardian.com##.contributions__epic
+theguardian.com##.js-discussion-top-comments.discussion__top-comments
