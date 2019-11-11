@@ -50,3 +50,7 @@ thesun.co.uk###sidebar
 booking.com##.hprt-price-deal-badge
 booking.com##.hp-rt-recently-booked
 booking.com##.sr_item_car_rental
+thepiratebay.se.net###sky-center
+dailymail.co.uk##.has-button-share.floating-buttons
+gizmochina.com##.td-ss-main-sidebar
+ryanair.com##.flights-table-price__notice
