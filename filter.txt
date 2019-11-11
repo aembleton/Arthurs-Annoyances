@@ -75,4 +75,3 @@ bbcgoodfood.com##.section-comments__header
 bbcgoodfood.com##.carousel.editorial-offers-container
 bbcgoodfood.com##.ad-banner-container
 manchestereveningnews.co.uk###div-gpt-ad-sticky-bottom-banner
-manchestereveningnews.co.uk###div-gpt-ad-in-article-slot
