@@ -77,3 +77,4 @@ bbcgoodfood.com##.ad-banner-container
 manchestereveningnews.co.uk###div-gpt-ad-sticky-bottom-banner
 manchestereveningnews.co.uk###div-gpt-ad-in-article-slot
 ##.ad__block
+theverge.com##.c-float-right
