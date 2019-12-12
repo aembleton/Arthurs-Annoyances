@@ -87,4 +87,3 @@ www.spiked-online.com##.sellWrapper
 www.spiked-online.com##.slimSellWrapper
 www.spiked-online.com##.quote
 www.spiked-online.com###stickySharing
-*##div:has-text(/^adblock/i)
