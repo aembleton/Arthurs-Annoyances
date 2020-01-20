@@ -87,3 +87,14 @@ spiked-online.com##.slimSellWrapper
 spiked-online.com##.quote
 spiked-online.com###stickySharing
 cyberciti.biz##div[id*='blocker']
+cleantechnica.com###omc-full-article > center
+morningstaronline.co.uk##.modal-pay-wall-body
+morningstaronline.co.uk###myModal
+morningstaronline.co.uk##.pane-menu-menu-cta.pane-block.panel-pane > .menu
+independent.co.uk###footerPrompt
+independent.co.uk##.inline-related
+independent.co.uk###newsletter-component
+independent.co.uk##.tp-modal
+independent.co.uk##.tp-backdrop
+theguardian.com##.element
+kimovil.com##.kau
