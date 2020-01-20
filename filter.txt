@@ -98,3 +98,4 @@ independent.co.uk##.tp-modal
 independent.co.uk##.tp-backdrop
 theguardian.com##.element
 kimovil.com##.kau
+wired.com$script
