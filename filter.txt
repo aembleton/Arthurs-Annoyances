@@ -99,3 +99,15 @@ independent.co.uk##.tp-backdrop
 theguardian.com##.element
 kimovil.com##.kau
 wired.com$script
+blogs.spectator.co.uk$script
+foreignpolicy.com$script
+inews.co.uk$script
+morningstaronline.co.uk$script
+qz.com$script
+news.yahoo.com$script
+express.co.uk$script
+newstatesman.com$script
+nytimes.com$script
+spiked-online.com$script
+technologyreview.com$script
+anyclip.com
