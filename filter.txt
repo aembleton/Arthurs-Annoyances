@@ -40,7 +40,6 @@ parkers.co.uk##.sp_veil1548165423809
 parkers.co.uk##.clearfix.site-header
 autoexpress.co.uk###sidebar-first
 economictimes.indiatimes.com##.gaDone.article_block > .sideBar.flr
-worcesternews.co.uk###sp_message_panel_id1548337069830
 autotrader.co.uk##.js-standout-listing
 wired.com##.most-popular-side-bar-component
 autotrader.co.uk##.js-standout-listing
