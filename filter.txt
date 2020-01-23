@@ -154,3 +154,4 @@ dailymail.co.uk###vjs_video_3
 manchestereveningnews.co.uk###kinzenApp
 manchestereveningnews.co.uk##.read-next
 theguardian.com##.element
+||www.ultimedia.com^$script
