@@ -141,7 +141,6 @@ theboltonnews.co.uk,malverngazette.co.uk##.top-nav
 theboltonnews.co.uk,malverngazette.co.uk##.nav-container
 theboltonnews.co.uk,malverngazette.co.uk##.primary-nav
 theboltonnews.co.uk,malverngazette.co.uk##.top-socialbar
-theboltonnews.co.uk,malverngazette.co.uk##div[id*='sp_message']
 manchestereveningnews.co.uk##.click-track.shop-window.teaser
 manchestereveningnews.co.uk###div-gpt-ad-rh-slot
 dailymail.co.uk##.see-more
