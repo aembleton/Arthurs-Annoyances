@@ -157,3 +157,4 @@ manchestereveningnews.co.uk##.read-next
 theguardian.com##.element
 ||www.ultimedia.com^$script
 ||assets.bwbx.io^$script,domain=bloomberg.com
+||yimg.com^$script,domain=techcrunch.com
