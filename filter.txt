@@ -158,3 +158,5 @@ theguardian.com##.element
 ||assets.bwbx.io^$script,domain=bloomberg.com
 theverge.com##.adblock-whitelist-messaging__article-wrapper
 slate.com##.slate-ad
+techradar.com##.region_redirect_popup
+techradar.com##.jw-carousel
