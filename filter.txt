@@ -161,3 +161,4 @@ slate.com##.slate-ad
 techradar.com##.region_redirect_popup
 techradar.com##.jw-carousel
 thescottishsun.co.uk##.advert-wrapper
+||cdn-client.medium.com^$script,1p
