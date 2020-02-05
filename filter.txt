@@ -162,3 +162,16 @@ techradar.com##.region_redirect_popup
 techradar.com##.jw-carousel
 thescottishsun.co.uk##.advert-wrapper
 ||cdn-client.medium.com^$script,1p
+profile.theguardian.com##.subscription-banner--holder
+theguardian.com##.element-embed.element
+nationalrail.co.uk##.c1.main
+wired.com##.callout
+booking.com##.thisRoomAvailabilityNew
+independent.co.uk###footerPrompt
+medium.com##.ph
+manchestereveningnews.co.uk###kinzenApp
+sfchronicle.com##.relatedStories
+themanc.com##.sidebar
+dailymail.co.uk##.mol-video
+medium.com##.nm
+dailymail.co.uk##.related-carousel
