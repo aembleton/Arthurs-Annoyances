@@ -177,4 +177,3 @@ medium.com##.nm
 dailymail.co.uk##.related-carousel
 dailymail.co.uk###most-watched-videos-lazy-container
 dailymail.co.uk##.shareArticles
-###smartbanner
