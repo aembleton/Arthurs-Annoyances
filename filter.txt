@@ -180,3 +180,5 @@ dailymail.co.uk##.shareArticles
 smashingmagazine.com##.feature-panel-container
 metro.co.uk###we-need-monies
 metro.co.uk###share-buttons-floaty
+metro.co.uk###swipe-next-dots
+metro.co.uk##.ad-slot-container
