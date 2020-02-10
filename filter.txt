@@ -178,3 +178,5 @@ dailymail.co.uk##.related-carousel
 dailymail.co.uk###most-watched-videos-lazy-container
 dailymail.co.uk##.shareArticles
 smashingmagazine.com##.feature-panel-container
+metro.co.uk###we-need-monies
+metro.co.uk###share-buttons-floaty
