@@ -182,3 +182,7 @@ metro.co.uk###we-need-monies
 metro.co.uk###share-buttons-floaty
 metro.co.uk###swipe-next-dots
 metro.co.uk##.ad-slot-container
+sky.com###leaderboard
+sky.com##.sdc-site-layout-sticky-region__mask
+sky.com##.sdc-article-body > .sdc-site-layout-sticky-region
+sky.com##.sdc-article-related-stories
