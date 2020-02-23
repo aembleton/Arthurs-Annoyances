@@ -188,3 +188,4 @@ sky.com##.sdc-article-body > .sdc-site-layout-sticky-region
 sky.com##.sdc-article-related-stories
 dev.to###article-show-primary-sticky-nav
 techcrunch.com##.share-main
+dailymail.co.uk###dms-txt
