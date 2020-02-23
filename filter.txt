@@ -189,3 +189,5 @@ sky.com##.sdc-article-related-stories
 dev.to###article-show-primary-sticky-nav
 techcrunch.com##.share-main
 dailymail.co.uk###dms-txt
+thepiratebay.se.net###foot
+thepiratebay.se.net##table#searchResult:nth-of-type(1)
