@@ -192,3 +192,4 @@ dailymail.co.uk###dms-txt
 thepiratebay.se.net###foot
 thepiratebay.se.net##table#searchResult:nth-of-type(1)
 theguardian.com##.selection-sharing
+cambrian-news.co.uk##Cloudflare-app
