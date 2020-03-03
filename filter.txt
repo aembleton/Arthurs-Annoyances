@@ -195,3 +195,4 @@ theguardian.com##.selection-sharing
 cambrian-news.co.uk##Cloudflare-app
 theverge.com##.c-float-left
 theverge.com##.c-read-more
+||cdn.jwplayer.com^
