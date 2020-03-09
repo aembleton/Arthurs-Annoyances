@@ -199,3 +199,4 @@ theverge.com##.c-read-more
 ||tinypass.com^
 threadreaderapp.com##.sharingfooter
 ||akamaihd.net^
+||www.economist.com^$script,1p
