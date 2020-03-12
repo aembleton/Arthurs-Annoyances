@@ -200,3 +200,4 @@ theverge.com##.c-read-more
 threadreaderapp.com##.sharingfooter
 ||akamaihd.net^
 ||www.economist.com^$script,1p
+||brightcove.net^$script
