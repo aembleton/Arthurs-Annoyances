@@ -203,3 +203,4 @@ threadreaderapp.com##.sharingfooter
 forbes.com##.video-player
 ||mindtools.com^$script,1p
 medium.com##.rv
+||embed.tawk.to^
