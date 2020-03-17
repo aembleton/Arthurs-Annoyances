@@ -1,3 +1,5 @@
+! Title: Arthur's Annoyances
+
 ##.js-stickyFooter
 theguardian.com##.contributions__epic
 theguardian.com##.js-ad-slot
