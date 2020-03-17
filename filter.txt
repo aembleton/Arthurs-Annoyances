@@ -202,3 +202,4 @@ threadreaderapp.com##.sharingfooter
 ||brightcove.net^$script
 forbes.com##.video-player
 ||mindtools.com^$script,1p
+medium.com##.rv
