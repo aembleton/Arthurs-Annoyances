@@ -161,7 +161,6 @@ slate.com##.slate-ad
 techradar.com##.region_redirect_popup
 techradar.com##.jw-carousel
 thescottishsun.co.uk##.advert-wrapper
-||cdn-client.medium.com^$script,1p
 profile.theguardian.com##.subscription-banner--holder
 theguardian.com##.element-embed.element
 nationalrail.co.uk##.c1.main
