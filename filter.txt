@@ -207,3 +207,4 @@ forbes.com##.video-player
 medium.com##.rv
 ||embed.tawk.to^
 cnx-software.com###secondary
+||consensu.org^$script
