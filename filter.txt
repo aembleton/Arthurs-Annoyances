@@ -99,7 +99,6 @@ independent.co.uk##.inline-related
 independent.co.uk###newsletter-component
 independent.co.uk##.tp-modal
 independent.co.uk##.tp-backdrop
-theguardian.com##.element
 kimovil.com##.kau
 wired.com$script
 blogs.spectator.co.uk$script
@@ -155,7 +154,6 @@ dailymail.co.uk##.mol-ads-label
 dailymail.co.uk###vjs_video_3
 manchestereveningnews.co.uk###kinzenApp
 manchestereveningnews.co.uk##.read-next
-theguardian.com##.element
 ||www.ultimedia.com^$script
 ||assets.bwbx.io^$script,domain=bloomberg.com
 theverge.com##.adblock-whitelist-messaging__article-wrapper
@@ -164,7 +162,6 @@ techradar.com##.region_redirect_popup
 techradar.com##.jw-carousel
 thescottishsun.co.uk##.advert-wrapper
 profile.theguardian.com##.subscription-banner--holder
-theguardian.com##.element-embed.element
 nationalrail.co.uk##.c1.main
 wired.com##.callout
 booking.com##.thisRoomAvailabilityNew
