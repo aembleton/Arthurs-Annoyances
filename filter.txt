@@ -205,3 +205,6 @@ medium.com##.rv
 ||embed.tawk.to^
 cnx-software.com###secondary
 ||consensu.org^$script
+standard.co.uk###top-container-wrapper
+standard.co.uk###gs-wrapper
+standard.co.uk##.sidebar
