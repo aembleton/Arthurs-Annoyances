@@ -208,3 +208,4 @@ cnx-software.com###secondary
 standard.co.uk###top-container-wrapper
 standard.co.uk###gs-wrapper
 standard.co.uk##.sidebar
+medium.com##.branch-journeys-top
