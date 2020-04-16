@@ -212,3 +212,4 @@ standard.co.uk###gs-wrapper
 standard.co.uk##.sidebar
 medium.com##.branch-journeys-top
 7news.com.au##.ad-leaderboard-billboard-one
+7news.com.au##.ad-no-notice
