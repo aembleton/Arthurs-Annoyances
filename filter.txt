@@ -1,4 +1,6 @@
 ! Title: Arthur's Annoyances
+! Last modified: 16 Apr 2020 16:13 UTC
+! Expires: 1 days (update frequency)
 
 ##.js-stickyFooter
 theguardian.com##.contributions__epic
@@ -209,3 +211,4 @@ standard.co.uk###top-container-wrapper
 standard.co.uk###gs-wrapper
 standard.co.uk##.sidebar
 medium.com##.branch-journeys-top
+7news.com.au##.ad-leaderboard-billboard-one
