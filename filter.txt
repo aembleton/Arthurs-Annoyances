@@ -28,7 +28,6 @@ booking.com##.fe_banner__w-icon-large.fe_banner__w-icon.fe_banner
 booking.com##.smaller-low-av-msg_wrapper
 booking.com##.small_warning.wxp-sr-banner.js-wxp-sr-banner
 bloomberg.com##.right-rail-v1.right-rail
-bloomberg.com##figure
 nytimes.com###story-ad-1-wrapper
 deadspin.com##.sidebar
 theverge.com##.l-article-body-segment.l-segment.l-sidebar-fixed > .l-col__sidebar
