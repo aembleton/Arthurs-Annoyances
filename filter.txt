@@ -212,3 +212,4 @@ medium.com##.branch-journeys-top
 7news.com.au##.ad-no-notice
 qz.com##div[aria-labelledby="bottom-bar-primary-text"]
 bloomberg.com###banner-outlet
+irishtimes.com###content_right
