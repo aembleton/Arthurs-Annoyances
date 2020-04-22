@@ -195,7 +195,6 @@ theverge.com##.c-read-more
 ||cdn.jwplayer.com^
 ||tinypass.com^
 threadreaderapp.com##.sharingfooter
-||akamaihd.net^
 ||www.economist.com^$script,1p
 ||brightcove.net^$script
 forbes.com##.video-player
