@@ -197,3 +197,11 @@ theguardian.com##.site-message
 cbsnews.com###smart-banner-download
 ||thesun.co.uk/assets/client/*carousel*$script,domain=thesun.co.uk
 smh.com.au##.noPrint
+mirror.co.uk,manchestereveningnews.co.uk##.video-float-wrapper
+mirror.co.uk,manchestereveningnews.co.uk##.skinny-signup
+mirror.co.uk,manchestereveningnews.co.uk###recommendations-topbox
+mirror.co.uk,manchestereveningnews.co.uk##.brand-hint-bg
+mirror.co.uk,manchestereveningnews.co.uk###takeover
+mirror.co.uk,manchestereveningnews.co.uk##.secondary
+mirror.co.uk,manchestereveningnews.co.uk##.top-sharebar
+mirror.co.uk,manchestereveningnews.co.uk###comments-wrapper
