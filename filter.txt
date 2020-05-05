@@ -216,3 +216,4 @@ audioxpress.com##aside
 theguardian.com##.site-message
 cbsnews.com###smart-banner-download
 ||thesun.co.uk/assets/client/*carousel*$script,domain=thesun.co.uk
+smh.com.au##.noPrint
