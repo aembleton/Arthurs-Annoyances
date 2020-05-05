@@ -205,3 +205,5 @@ mirror.co.uk,manchestereveningnews.co.uk###takeover
 mirror.co.uk,manchestereveningnews.co.uk##.secondary
 mirror.co.uk,manchestereveningnews.co.uk##.top-sharebar
 mirror.co.uk,manchestereveningnews.co.uk###comments-wrapper
+mirror.co.uk,manchestereveningnews.co.uk###kinzenApp
+mirror.co.uk,manchestereveningnews.co.uk##h3 > [href]
