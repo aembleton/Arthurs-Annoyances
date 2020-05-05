@@ -77,14 +77,8 @@ bbcgoodfood.com###ad-mpu-premium-2-narrow
 bbcgoodfood.com##.section-comments__header
 bbcgoodfood.com##.carousel.editorial-offers-container
 bbcgoodfood.com##.ad-banner-container
-manchestereveningnews.co.uk###div-gpt-ad-sticky-bottom-banner
-manchestereveningnews.co.uk###div-gpt-ad-in-article-slot
 ##.ad__block
 theverge.com##.c-float-right
-manchestereveningnews.co.uk###hot-jobs
-manchestereveningnews.co.uk##.skinny-signup
-manchestereveningnews.co.uk##section.brand-hint-bg
-manchestereveningnews.co.uk##.html-embed
 last.fm##.content-top
 spiked-online.com##.sellWrapper
 spiked-online.com##.slimSellWrapper
@@ -126,24 +120,13 @@ bbcgoodfood.com###ad-mpu-premium-2-narrow
 bbcgoodfood.com##.section-comments__header
 bbcgoodfood.com##.carousel.editorial-offers-container
 bbcgoodfood.com##.ad-banner-container
-manchestereveningnews.co.uk###div-gpt-ad-sticky-bottom-banner
-manchestereveningnews.co.uk###div-gpt-ad-in-article-slot
-manchestereveningnews.co.uk##.swipe-prompt
-manchestereveningnews.co.uk##.article-body > h3
-manchestereveningnews.co.uk##aside.read-more-links
-manchestereveningnews.co.uk###div-gpt-ad-in-article-slot-long
 ||inyourarea.co.uk$subdocument
-manchestereveningnews.co.uk##.sharebar
-manchestereveningnews.co.uk##.skinny-signup
-manchestereveningnews.co.uk##.factbox
 theboltonnews.co.uk,malverngazette.co.uk###nextUpMobileContainer
 theboltonnews.co.uk,malverngazette.co.uk##.dfp-ad
 theboltonnews.co.uk,malverngazette.co.uk##.top-nav
 theboltonnews.co.uk,malverngazette.co.uk##.nav-container
 theboltonnews.co.uk,malverngazette.co.uk##.primary-nav
 theboltonnews.co.uk,malverngazette.co.uk##.top-socialbar
-manchestereveningnews.co.uk##.click-track.shop-window.teaser
-manchestereveningnews.co.uk###div-gpt-ad-rh-slot
 dailymail.co.uk##.see-more
 dailymail.co.uk##.adHolder
 dailymail.co.uk###swipeIndicator
@@ -152,8 +135,6 @@ dailymail.co.uk##.more
 dailymail.co.uk##.mobile-sharing
 dailymail.co.uk##.mol-ads-label
 dailymail.co.uk###vjs_video_3
-manchestereveningnews.co.uk###kinzenApp
-manchestereveningnews.co.uk##.read-next
 ||www.ultimedia.com^$script
 theverge.com##.adblock-whitelist-messaging__article-wrapper
 slate.com##.slate-ad
@@ -166,7 +147,6 @@ wired.com##.callout
 booking.com##.thisRoomAvailabilityNew
 independent.co.uk###footerPrompt
 medium.com##.ph
-manchestereveningnews.co.uk###kinzenApp
 sfchronicle.com##.relatedStories
 themanc.com##.sidebar
 dailymail.co.uk##.mol-video
