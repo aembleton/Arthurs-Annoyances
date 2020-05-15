@@ -2,6 +2,8 @@
 ! Last modified: 16 Apr 2020 16:13 UTC
 ! Expires: 1 days (update frequency)
 
+hindustantimes.com##.rightSec
+theguardian.com###slot-body-end
 ##.js-stickyFooter
 theguardian.com##.contributions__epic
 theguardian.com##.js-ad-slot
