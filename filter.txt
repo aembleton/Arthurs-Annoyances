@@ -37,7 +37,6 @@ sploid.gizmodo.com##.sidebar
 sites.google.com##.BCtCv
 theverge.com##.c-entry-hero__image
 spectator.co.uk##.middle-promo
-spectator.co.uk$script
 singletrackworld.com##.dt_sidebar.col-md-4
 hackernoon.com##.u-tintSpectrum
 hackernoon.com##.u-xs-height95
