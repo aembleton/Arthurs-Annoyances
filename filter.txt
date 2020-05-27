@@ -2,6 +2,7 @@
 ! Last modified: 16 Apr 2020 16:13 UTC
 ! Expires: 1 days (update frequency)
 
+theatlantic.com##.c-nudge__container
 gamefromscratch.com###sidepanel
 hindustantimes.com##.rightSec
 theguardian.com###slot-body-end
