@@ -2,6 +2,7 @@
 ! Last modified: 16 Apr 2020 16:13 UTC
 ! Expires: 1 days (update frequency)
 
+latimes.com##.Enhancement
 ||reachplc.com$subdocument
 bloomberg.com##.right-rail
 theatlantic.com##.c-nudge__container
