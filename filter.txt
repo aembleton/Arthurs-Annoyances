@@ -2,6 +2,7 @@
 ! Last modified: 16 Apr 2020 16:13 UTC
 ! Expires: 1 days (update frequency)
 
+reuters.com##.video
 theartnewspaper.com##.paywall-inline-container
 zerohedge.com##.ad__wrapper-element
 zerohedge.com##.layout-featured
