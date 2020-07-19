@@ -2,6 +2,11 @@
 ! Last modified: 16 Apr 2020 16:13 UTC
 ! Expires: 1 days (update frequency)
 
+independent.co.uk##.mobile-cta
+independent.co.uk##.hero-wrapper
+independent.co.uk##.breadcrumb
+independent.co.uk##.article-actions
+daznservices.com$script
 sendtonews.com$script
 reddit.com##span:has-text(promoted):upward(8)
 reuters.com##.video
