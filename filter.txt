@@ -2,6 +2,18 @@
 ! Last modified: 16 Apr 2020 16:13 UTC
 ! Expires: 1 days (update frequency)
 
+||adservice.google.com^$script
+||doubleclick.net^$script
+||ezodn.com^$script
+||googlesyndication.com^$script
+||ezoic.net^$script
+||getdrip.com^$script
+||criteo.net^$script
+||quantserve.com^$script
+||scorecardresearch.com^$script
+||akamaiedge.net^$script
+baeldung.com###ezmobfooter
+baeldung.com##.ezoic-ad
 akamaized.net$script
 independent.co.uk##.mobile-cta
 independent.co.uk##.hero-wrapper
