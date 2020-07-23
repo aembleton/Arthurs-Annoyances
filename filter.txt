@@ -2,6 +2,7 @@
 ! Last modified: 16 Apr 2020 16:13 UTC
 ! Expires: 1 days (update frequency)
 
+ebay.co.uk##.mfe-card
 ||adservice.google.com^$script
 ||doubleclick.net^$script
 ||ezodn.com^$script
