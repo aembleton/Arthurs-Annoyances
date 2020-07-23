@@ -11,7 +11,6 @@
 ||criteo.net^$script
 ||quantserve.com^$script
 ||scorecardresearch.com^$script
-||akamaiedge.net^$script
 baeldung.com###ezmobfooter
 baeldung.com##.ezoic-ad
 akamaized.net$script
