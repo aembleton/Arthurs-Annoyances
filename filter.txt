@@ -15,7 +15,6 @@ ebay.co.uk##.mfe-card
 ||scorecardresearch.com^$script
 baeldung.com###ezmobfooter
 baeldung.com##.ezoic-ad
-akamaized.net$script
 independent.co.uk##.mobile-cta
 independent.co.uk##.hero-wrapper
 independent.co.uk##.breadcrumb
