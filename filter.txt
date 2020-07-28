@@ -2,6 +2,10 @@
 ! Last modified: 16 Apr 2020 16:13 UTC
 ! Expires: 1 days (update frequency)
 
+nationalpost.com##.sso-btns
+nationalpost.com###featured-video
+nationalpost.com##.ad__section-border
+nationalpost.com##.more-topic
 ebay.co.uk###FootPanel
 ebay.co.uk##.mfe-card
 ||adservice.google.com^$script
