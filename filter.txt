@@ -2,6 +2,7 @@
 ! Last modified: 16 Apr 2020 16:13 UTC
 ! Expires: 1 days (update frequency)
 
+wired.com##.ad
 nationalpost.com##.sso-btns
 nationalpost.com###featured-video
 nationalpost.com##.ad__section-border
