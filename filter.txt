@@ -158,7 +158,6 @@ morningstaronline.co.uk$script
 news.yahoo.com$script
 express.co.uk$script
 newstatesman.com$script
-nytimes.com$script
 spiked-online.com$script
 technologyreview.com$script
 anyclip.com
