@@ -1,15 +1,15 @@
 ! Title: Arthur's Annoyances
-! Last modified: 16 Apr 2020 16:13 UTC
+! Last modified: 5 August 2020
 ! Expires: 1 days (update frequency)
 
-springserve.com$script
-googletagmanager.com$script
-pub.network$script
-cloudflareinsights.com$script
-analysis.fi$script
-firstimpression.io$script
-dapperdiscussion.com$script
-connatix.com$script
+springserve.com$script,redirect=noop.js
+googletagmanager.com$script,redirect=noop.js
+pub.network$script,redirect=noop.js
+cloudflareinsights.com$script,redirect=noop.js
+analysis.fi$script,redirect=noop.js
+firstimpression.io$script,redirect=noop.js
+dapperdiscussion.com$script,redirect=noop.js
+connatix.com$script,redirect=noop.js
 bloomberg.com###graphics-paywall-overlay
 kimovil.com##.un:matches-css(display: block):upward(6):has(.item-wrap)
 wired.com##.ad
@@ -19,23 +19,23 @@ nationalpost.com##.ad__section-border
 nationalpost.com##.more-topic
 ebay.co.uk###FootPanel
 ebay.co.uk##.mfe-card
-||adservice.google.com^$script
-||doubleclick.net^$script
-||ezodn.com^$script
-||googlesyndication.com^$script
-||ezoic.net^$script
-||getdrip.com^$script
-||criteo.net^$script
-||quantserve.com^$script
-||scorecardresearch.com^$script
+||adservice.google.com^$script,redirect=noop.js
+||doubleclick.net^$script,redirect=noop.js
+||ezodn.com^$script,redirect=noop.js
+||googlesyndication.com^$script,redirect=noop.js
+||ezoic.net^$script,redirect=noop.js
+||getdrip.com^$script,redirect=noop.js
+||criteo.net^$script,redirect=noop.js
+||quantserve.com^$script,redirect=noop.js
+||scorecardresearch.com^$script,redirect=noop.js
 baeldung.com###ezmobfooter
 baeldung.com##.ezoic-ad
 independent.co.uk##.mobile-cta
 independent.co.uk##.hero-wrapper
 independent.co.uk##.breadcrumb
 independent.co.uk##.article-actions
-daznservices.com$script
-sendtonews.com$script
+daznservices.com$script,redirect=noop.js
+sendtonews.com$script,redirect=noop.js
 reddit.com##span:has-text(promoted):upward(8)
 reuters.com##.video
 theartnewspaper.com##.paywall-inline-container
@@ -159,16 +159,16 @@ independent.co.uk###newsletter-component
 independent.co.uk##.tp-modal
 independent.co.uk##.tp-backdrop
 kimovil.com##.kau
-wired.com$script
-blogs.spectator.co.uk$script
-foreignpolicy.com$script
-inews.co.uk$script
-morningstaronline.co.uk$script
-news.yahoo.com$script
-express.co.uk$script
-newstatesman.com$script
-spiked-online.com$script
-technologyreview.com$script
+wired.com$script,redirect=noop.js
+blogs.spectator.co.uk$script,redirect=noop.js
+foreignpolicy.com$script,redirect=noop.js
+inews.co.uk$script,redirect=noop.js
+morningstaronline.co.uk$script,redirect=noop.js
+news.yahoo.com$script,redirect=noop.js
+express.co.uk$script,redirect=noop.js
+newstatesman.com$script,redirect=noop.js
+spiked-online.com$script,redirect=noop.js
+technologyreview.com$script,redirect=noop.js
 anyclip.com
 theguardian.com##.contributions__epic
 theguardian.com##.js-discussion-top-comments.discussion__top-comments
@@ -192,7 +192,7 @@ dailymail.co.uk##.more
 dailymail.co.uk##.mobile-sharing
 dailymail.co.uk##.mol-ads-label
 dailymail.co.uk###vjs_video_3
-||www.ultimedia.com^$script
+||www.ultimedia.com^$script,redirect=noop.js
 theverge.com##.adblock-whitelist-messaging__article-wrapper
 slate.com##.slate-ad
 techradar.com##.region_redirect_popup
@@ -233,13 +233,13 @@ theverge.com##.c-read-more
 ||tinypass.com^
 threadreaderapp.com##.sharingfooter
 ||www.economist.com^$script,1p
-||brightcove.net^$script
+||brightcove.net^$script,redirect=noop.js
 forbes.com##.video-player
 ||mindtools.com^$script,1p
 medium.com##.rv
 ||embed.tawk.to^
 cnx-software.com###secondary
-||consensu.org^$script
+||consensu.org^$script,redirect=noop.js
 standard.co.uk###top-container-wrapper
 standard.co.uk###gs-wrapper
 standard.co.uk##.sidebar
