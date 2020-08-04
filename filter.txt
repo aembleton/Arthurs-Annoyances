@@ -3,7 +3,7 @@
 ! Expires: 1 days (update frequency)
 
 bloomberg.com###graphics-paywall-overlay
-kimovil.com##.un:matches-css(display:block):upward(6)
+kimovil.com##.un:matches-css(display: block):upward(6):has(.item-wrap)
 wired.com##.ad
 nationalpost.com##.sso-btns
 nationalpost.com###featured-video
