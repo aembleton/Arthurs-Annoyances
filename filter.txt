@@ -2,6 +2,7 @@
 ! Last modified: 16 Apr 2020 16:13 UTC
 ! Expires: 1 days (update frequency)
 
+bloomberg.com###graphics-paywall-overlay
 kimovil.com##.un:matches-css(display:block):upward(6)
 wired.com##.ad
 nationalpost.com##.sso-btns
