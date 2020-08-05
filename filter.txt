@@ -27,7 +27,6 @@
 @@bwbx.io$script
 @@typekit.net$script
 @@sstatic.net$script
-bloomberg.com###graphics-paywall-overlay
 kimovil.com##.un:matches-css(display: block):upward(6):has(.item-wrap)
 wired.com##.ad
 nationalpost.com##.sso-btns
