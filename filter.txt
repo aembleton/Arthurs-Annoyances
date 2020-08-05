@@ -2,6 +2,7 @@
 ! Last modified: 5 August 2020
 ! Expires: 1 days (update frequency)
 
+@@amazonaws.com$script
 @@hearstapps.com$script
 @@stripe.com$script
 @@||assets.bwbx.io/s3/javelin/public/javelin/js/components/*$script,domain=bloomberg.com
