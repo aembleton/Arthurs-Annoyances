@@ -2,6 +2,10 @@
 ! Last modified: 5 August 2020
 ! Expires: 1 days (update frequency)
 
+privy.com$script,redirect=noop.js
+optimizely.com$script,redirect=noop.js
+branch.io$script,redirect=noop.js
+usefathom.com$script,redirect=noop.js
 permutive.com$script,redirect=noop.js
 brandmetrics.com$script,redirect=noop.js
 ads-twitter.com$script,redirect=noop.js
