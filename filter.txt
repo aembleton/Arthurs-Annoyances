@@ -2,6 +2,7 @@
 ! Last modified: 5 August 2020
 ! Expires: 1 days (update frequency)
 
+bbcgoodfood.com##+js(aopr, Drupal.behaviors.smartBanner)
 medium.com##.branch-journeys-top:upward(3)
 @@fbcdn.net$script,domain=messenger.com|facebook.com
 @@futurecdn.net$script
