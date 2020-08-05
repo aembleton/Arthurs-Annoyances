@@ -2,6 +2,9 @@
 ! Last modified: 5 August 2020
 ! Expires: 1 days (update frequency)
 
+permutive.com$script,redirect=noop.js
+brandmetrics.com$script,redirect=noop.js
+ads-twitter.com$script,redirect=noop.js
 h-bid.com$script,redirect=noop.js
 chartbeat.com$script,redirect=noop.js
 additionant.com$script,redirect=noop.js
