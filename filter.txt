@@ -2,6 +2,7 @@
 ! Last modified: 5 August 2020
 ! Expires: 1 days (update frequency)
 
+chartbeat.com$script,redirect=noop.js
 additionant.com$script,redirect=noop.js
 amplitude.com$script,redirect=noop.js
 newrelic.com$script,redirect=noop.js
