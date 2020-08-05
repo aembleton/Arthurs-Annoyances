@@ -5,6 +5,11 @@
 additionant.com$script,redirect=noop.js
 amplitude.com$script,redirect=noop.js
 newrelic.com$script,redirect=noop.js
+google-analytics.com$script,redirect=noop.js
+plausible.io$script,redirect=noop.js
+additionant.com$script,redirect=noop.js
+amplitude.com$script,redirect=noop.js
+newrelic.com$script,redirect=noop.js
 webcontentassessor.com$script,redirect=noop.js
 adsafeprotected.com$script,redirect=noop.js
 kinzen.com$script,redirect=noop.js
