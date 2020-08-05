@@ -2,6 +2,19 @@
 ! Last modified: 5 August 2020
 ! Expires: 1 days (update frequency)
 
+webcontentassessor.com$script,redirect=noop.js
+adsafeprotected.com$script,redirect=noop.js
+kinzen.com$script,redirect=noop.js
+tm-awx.com$script,redirect=noop.js
+indexww.com$script,redirect=noop.js
+amazon-adsystem.com$script,redirect=noop.js
+grapeshot.co.uk$script,redirect=noop.js
+hotjar.com$script,redirect=noop.js
+crwdcntrl.net$script,redirect=noop.js
+aswpsdkus.com$script,redirect=noop.js
+convrse.media$script,redirect=noop.js
+gigya.com$script,redirect=noop.js
+adnxs.com$script,redirect=noop.js
 springserve.com$script,redirect=noop.js
 googletagmanager.com$script,redirect=noop.js
 pub.network$script,redirect=noop.js
