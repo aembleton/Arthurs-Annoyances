@@ -2,6 +2,7 @@
 ! Last modified: 5 August 2020
 ! Expires: 1 days (update frequency)
 
+@@||assets.bwbx.io/s3/javelin/public/javelin/js/components/*$script,domain=bloomberg.com
 *$script,redirect=noop.js,3p
 @@*$cname
 @@bbci.co.uk$script,domain=bbc.co.uk|bbc.com
@@ -24,7 +25,6 @@
 @@alipayobjects.com$script,domain=aliexpress.com
 @@alibaba.com$script,domain=aliexpress.com
 @@awsstatic.com$script,domain=amazon.com
-@@bwbx.io$script,domain=bloomberg.com
 @@typekit.net$script
 @@sstatic.net$script
 @@atl-paas.net$script,domain=atlassian.net
