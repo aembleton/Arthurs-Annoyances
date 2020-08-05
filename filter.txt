@@ -2,6 +2,9 @@
 ! Last modified: 5 August 2020
 ! Expires: 1 days (update frequency)
 
+additionant.com$script,redirect=noop.js
+amplitude.com$script,redirect=noop.js
+newrelic.com$script,redirect=noop.js
 webcontentassessor.com$script,redirect=noop.js
 adsafeprotected.com$script,redirect=noop.js
 kinzen.com$script,redirect=noop.js
