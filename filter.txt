@@ -2,6 +2,10 @@
 ! Last modified: 5 August 2020
 ! Expires: 1 days (update frequency)
 
+@@iggcdn.com$script,domain=indiegogo.com
+@@youtube.com$script
+@@ytimg.com$script
+@@bbcverticals.com$script,domain=bbc.co.uk|bbc.com
 @@ampproject.org$script
 bbcgoodfood.com##+js(aopr, Drupal.behaviors.smartBanner)
 medium.com##.branch-journeys-top:upward(3)
