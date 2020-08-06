@@ -214,11 +214,9 @@ nationalrail.co.uk##.c1.main
 wired.com##.callout
 booking.com##.thisRoomAvailabilityNew
 independent.co.uk###footerPrompt
-medium.com##.ph
 sfchronicle.com##.relatedStories
 themanc.com##.sidebar
 dailymail.co.uk##.mol-video
-medium.com##.nm
 dailymail.co.uk##.related-carousel
 dailymail.co.uk###most-watched-videos-lazy-container
 dailymail.co.uk##.shareArticles
@@ -246,13 +244,11 @@ threadreaderapp.com##.sharingfooter
 ||www.economist.com^$script,1p
 forbes.com##.video-player
 ||mindtools.com^$script,1p
-medium.com##.rv
 ||embed.tawk.to^
 cnx-software.com###secondary
 standard.co.uk###top-container-wrapper
 standard.co.uk###gs-wrapper
 standard.co.uk##.sidebar
-medium.com##.branch-journeys-top
 7news.com.au##.ad-leaderboard-billboard-one
 7news.com.au##.ad-no-notice
 qz.com##div[aria-labelledby="bottom-bar-primary-text"]
