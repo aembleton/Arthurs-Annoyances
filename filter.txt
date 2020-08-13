@@ -2,6 +2,11 @@
 ! Last modified: 5 August 2020
 ! Expires: 1 days (update frequency)
 
+@@yottaa.net$script
+@@*amazon*$script,domain=amazon.*
+@@*dpreview*$script,domain=dpreview.*
+@@*cdn*$script
+@@*static*$script
 @@parastorage.com$script
 @@dragon2000.net$script
 @@storelocatorwidgets.com$script
@@ -9,7 +14,7 @@
 @@iggcdn.com$script,domain=indiegogo.com
 @@youtube.com$script
 @@ytimg.com$script
-@@bbcverticals.com$script,domain=bbc.co.uk|bbc.com
+@@*bbc*$script,domain=bbc.*
 @@ampproject.org$script
 bbcgoodfood.com##+js(aopr, Drupal.behaviors.smartBanner)
 medium.com##.branch-journeys-top:upward(3)
@@ -21,32 +26,24 @@ medium.com##.branch-journeys-top:upward(3)
 @@||assets.bwbx.io/s3/javelin/public/javelin/js/components/*$script,domain=bloomberg.com
 *$script,redirect=noop.js,3p
 @@*$cname
-@@bbci.co.uk$script,domain=bbc.co.uk|bbc.com
 @@guim.co.uk$script,domain=theguardian.com
 @@cloudflare.com$script
 @@jsdelivr.net$script
 @@jquery.com$script
 @@google.com$script
-@@gstatic.com$script
-@@githubassets.com$script,domain=github.com
+@@*github*$script,domain=github.com
 @@cloudfront.net$script
-@@ebaystatic.com$script,domain=ebay.co.uk
-@@ebay.com$script,domain=ebay.co.uk
+@@*ebay*$script,domain=ebay.*
 @@adobedtm.com$script
 @@facebook.net$script
 @@googleapis.com$script
 @@twimg.com$script,domain=twitter.com
-@@etorostatic.com$script,domain=etoro.com
-@@alicdn.com$script,domain=aliexpress.com
+@@*etoro*$script,domain=etoro.com
 @@alipayobjects.com$script,domain=aliexpress.com
 @@alibaba.com$script,domain=aliexpress.com
-@@awsstatic.com$script,domain=amazon.com
 @@typekit.net$script
-@@sstatic.net$script
 @@atl-paas.net$script,domain=atlassian.net
-@@redditstatic.com$script,domain=reddit.com
 @@unpkg.com$script
-@@bootstrapcdn.com$script
 @@datatables.net$script
 kimovil.com##.un:matches-css(display: block):upward(6):has(.item-wrap)
 wired.com##.ad
