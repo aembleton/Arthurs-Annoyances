@@ -2,6 +2,7 @@
 ! Last modified: 15 August 2020
 ! Expires: 1 days (update frequency)
 
+@@cardinalcommerce.com$script
 @@fontawesome.com$script
 @@yottaa.net$script
 @@*amazon*$script,domain=amazon.*
