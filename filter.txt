@@ -2,6 +2,7 @@
 ! Last modified: 15 August 2020
 ! Expires: 1 days (update frequency)
 
+yahoo.com##.provider-link
 yahoo.com###YDC-Hero
 yahoo.com###YDC-UH
 yahoo.com##.sticky-outer-wrapper
