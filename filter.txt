@@ -4,7 +4,6 @@
 
 yahoo.com##.provider-link
 yahoo.com###YDC-Hero
-yahoo.com###YDC-UH
 yahoo.com##.sticky-outer-wrapper
 yahoo.com##.share-button-group
 duckduckgo.com##a[href*="dailytelegraph.com.au" i]:upward(2)
