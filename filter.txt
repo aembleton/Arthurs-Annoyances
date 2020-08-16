@@ -2,6 +2,9 @@
 ! Last modified: 15 August 2020
 ! Expires: 1 days (update frequency)
 
+@@adis.ws$script
+@@bazaarvoice.com$script
+@@google-analytics.com$script
 @@cardinalcommerce.com$script
 @@fontawesome.com$script
 @@yottaa.net$script
