@@ -1,7 +1,8 @@
 ! Title: Arthur's Annoyances
-! Last modified: 15 August 2020
+! Last modified: 17 August 2020
 ! Expires: 1 days (update frequency)
 
+hckrnews.com##a[href*="wsj.com" i]:upward(1)
 hckrnews.com##a[href*="washingtonpost.com" i]:upward(1)
 yahoo.com##.provider-link
 yahoo.com###YDC-Hero
