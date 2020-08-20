@@ -1,5 +1,5 @@
 ! Title: Arthur's Annoyances
-! Last modified: 17 August 2020
+! Last modified: 20 August 2020
 ! Expires: 1 days (update frequency)
 
 genius.com##.u-display_block
@@ -24,15 +24,12 @@ duckduckgo.com##a[href*="dailytelegraph.com.au" i]:upward(2)
 @@dragon2000.net$script
 @@storelocatorwidgets.com$script
 @@twitter.com$script
-@@iggcdn.com$script,domain=indiegogo.com
 @@youtube.com$script
 @@ytimg.com$script
 @@*bbc*$script,domain=bbc.*
 @@ampproject.org$script
 bbcgoodfood.com##+js(aopr, Drupal.behaviors.smartBanner)
 medium.com##.branch-journeys-top:upward(3)
-@@fbcdn.net$script,domain=messenger.com|facebook.com
-@@futurecdn.net$script
 @@amazonaws.com$script
 @@hearstapps.com$script
 @@stripe.com$script
