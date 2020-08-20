@@ -2,6 +2,9 @@
 ! Last modified: 20 August 2020
 ! Expires: 1 days (update frequency)
 
+facebook.com##span:has-text(Create a story):upward(13)
+facebook.com##span:has-text(Rooms):upward(9)
+facebook.com##span[aria-label="Sponsored"]:upward(21)
 genius.com##.u-display_block
 hckrnews.com##a[href*="wsj.com" i]:upward(1)
 hckrnews.com##a[href*="washingtonpost.com" i]:upward(1)
