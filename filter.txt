@@ -1,7 +1,8 @@
 ! Title: Arthur's Annoyances
-! Last modified: 20 August 2020
+! Last modified: 21 August 2020
 ! Expires: 1 days (update frequency)
 
+newyorker.com##.persistent-bottom
 @@*imdb*$script,domain=imdb.com
 facebook.com##span:has-text(Create a story):upward(13)
 facebook.com##span:has-text(Rooms):upward(9)
