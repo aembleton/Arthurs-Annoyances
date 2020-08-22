@@ -2,6 +2,7 @@
 ! Last modified: 21 August 2020
 ! Expires: 1 days (update frequency)
 
+digitaltrends.com##.dtvideosng-container
 dzone.com###acontainer
 dzone.com##+js(acis, adtoniqAlertData)
 @@wp.com$script
