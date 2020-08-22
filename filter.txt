@@ -3,7 +3,7 @@
 ! Expires: 1 days (update frequency)
 
 dzone.com###acontainer
-*##+js(acis, adtoniqAlertData)
+dzone.com##+js(acis, adtoniqAlertData)
 @@wp.com$script
 ||addthis.com/addthis_widget.js$script,redirect=addthis_widget.js
 ||amazon-adsystem.com/aax2/amzn_ads.js$script,redirect=amazon_ads.js
