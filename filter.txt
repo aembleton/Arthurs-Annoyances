@@ -2,6 +2,18 @@
 ! Last modified: 21 August 2020
 ! Expires: 1 days (update frequency)
 
+||addthis.com/addthis_widget.js$script,redirect=addthis_widget.js
+||amazon-adsystem.com/aax2/amzn_ads.js$script,redirect=amazon_ads.js
+||doubleclick.net/instream/ad_status.js$script,redirect=doubleclick_instream_ad_status.js
+||google-analytics.com/ga.js$script,redirect=google-analytics_ga.js
+||google-analytics.com/analytics.js$script,redirect=google-analytics_analytics.js
+||google-analytics.com/inpage_linkid.js$script,redirect=google-analytics_inpage_linkid.js
+||google-analytics.com/cx/api.js$script,redirect=google-analytics_cx_api.js
+||googletagservices.com/gpt.j$script,redirect=googletagservices_gpt.js
+||googletagmanager.com/gtm.js$script,redirect=googletagmanager_gtm.js
+||googlesyndication.com/adsbygoogle.js$script,redirect=googlesyndication_adsbygoogle.js
+||scorecardresearch.com/beacon.js$script,redirect=scorecardresearch_beacon.js
+||widgets.outbrain.com/outbrain.js$script,redirect=outbrain-widget.js
 newyorker.com##.persistent-bottom
 @@*imdb*$script,domain=imdb.com
 facebook.com##span:has-text(Create a story):upward(13)
@@ -17,7 +29,6 @@ yahoo.com##.share-button-group
 duckduckgo.com##a[href*="dailytelegraph.com.au" i]:upward(2)
 @@adis.ws$script
 @@bazaarvoice.com$script
-@@google-analytics.com$script
 @@cardinalcommerce.com$script
 @@fontawesome.com$script
 @@yottaa.net$script
