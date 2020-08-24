@@ -2,6 +2,8 @@
 ! Last modified: 21 August 2020
 ! Expires: 1 days (update frequency)
 
+@@||infogram.com^$script
+booking.com##span:has-text(left on our site)
 digitaltrends.com##.dtvideosng-container
 dzone.com###acontainer
 dzone.com##+js(acis, adtoniqAlertData)
