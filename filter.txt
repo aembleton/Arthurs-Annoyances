@@ -3,7 +3,7 @@
 ! Expires: 1 days (update frequency)
 
 @@||squarespace.com$script
-@@||s-nbcnews.com$script,domain=nbcnews.com
+@@*nbcnews*$script,domain=nbcnews.com
 @@||infogram.com^$script
 booking.com##span:has-text(left on our site)
 digitaltrends.com##.dtvideosng-container
