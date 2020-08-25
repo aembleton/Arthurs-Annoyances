@@ -2,6 +2,8 @@
 ! Last modified: 21 August 2020
 ! Expires: 1 days (update frequency)
 
+nytimes.com##.expanded-dock
+nytimes.com##p:has-text(Advertisement):upward(2)
 @@||squarespace.com$script
 @@*nbcnews*$script,domain=nbcnews.com
 @@||infogram.com^$script
