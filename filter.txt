@@ -68,7 +68,7 @@ medium.com##.branch-journeys-top:upward(3)
 @@cloudflare.com$script
 @@jsdelivr.net$script
 @@jquery.com$script
-@@google.com$script
+@@||google.com$script,domain=~medium.com
 @@*github*$script,domain=github.com
 @@cloudfront.net$script
 @@*ebay*$script,domain=ebay.*
