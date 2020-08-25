@@ -2,6 +2,8 @@
 ! Last modified: 21 August 2020
 ! Expires: 1 days (update frequency)
 
+@@||squarespace.com$script
+@@||s-nbcnews.com$script,domain=nbcnews.com
 @@||infogram.com^$script
 booking.com##span:has-text(left on our site)
 digitaltrends.com##.dtvideosng-container
