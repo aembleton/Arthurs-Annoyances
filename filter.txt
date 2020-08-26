@@ -2,6 +2,9 @@
 ! Last modified: 21 August 2020
 ! Expires: 1 days (update frequency)
 
+wired.com##.expandable-growler-wrapper
+wired.com##.paywall-container-component
+@@||highcharts.com^$script
 @@||github.com^$script
 @@||virtualearth.net^$script
 nytimes.com##.expanded-dock
