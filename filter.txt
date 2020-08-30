@@ -2,6 +2,7 @@
 ! Last modified: 21 August 2020
 ! Expires: 1 days (update frequency)
 
+@@||paypalobjects.com^$script
 placenorthwest.co.uk##.ad
 @@*plotaroute*$domain=plotaroute.com
 @@||dslr.net$domain=dslreports.com
