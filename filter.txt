@@ -2,6 +2,8 @@
 ! Last modified: 21 August 2020
 ! Expires: 1 days (update frequency)
 
+texasmonthly.com##._inline-subscribe-tout
+@@||datatrans.com$script
 @@||paypalobjects.com^$script
 placenorthwest.co.uk##.ad
 @@*plotaroute*$domain=plotaroute.com
