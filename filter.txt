@@ -1,7 +1,8 @@
 ! Title: Arthur's Annoyances
-! Last modified: 6 September 2020
+! Last modified: 7 September 2020
 ! Expires: 1 days (update frequency)
 
+@@||instagram.com^$script
 @@||freetobook.com^$script
 texasmonthly.com##._inline-subscribe-tout
 @@||datatrans.com^$script
