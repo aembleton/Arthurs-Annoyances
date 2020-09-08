@@ -2,6 +2,8 @@
 ! Last modified: 8 September 2020
 ! Expires: 1 days (update frequency)
 
+@@||macphun.com^$domain=skylum.com
+@@||vimeo.com^$script
 @@||altapaysecure.com^$script
 @@||mapbox.com^$script
 @@||instagram.com^$script
