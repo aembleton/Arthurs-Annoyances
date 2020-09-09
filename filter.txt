@@ -1,7 +1,8 @@
 ! Title: Arthur's Annoyances
-! Last modified: 8 September 2020
+! Last modified: 9 September 2020
 ! Expires: 1 days (update frequency)
 
+@@||fsdn.com$domain=sourceforge.net
 @@||macphun.com^$domain=skylum.com
 @@||vimeo.com^$script
 @@||altapaysecure.com^$script
