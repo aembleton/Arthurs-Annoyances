@@ -2,6 +2,7 @@
 ! Last modified: 19 September 2020
 ! Expires: 1 days (update frequency)
 
+thesun.co.uk##.social
 cnn.com##.Hero__videoWrapper
 cnn.com##.RelatedArticle__component
 cnn.com##.Article__head
