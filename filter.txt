@@ -1,5 +1,5 @@
 ! Title: Arthur's Annoyances
-! Last modified: 19 September 2020
+! Last modified: 20 September 2020
 ! Expires: 1 days (update frequency)
 
 thesun.co.uk##.social
@@ -119,7 +119,6 @@ independent.co.uk##.mobile-cta
 independent.co.uk##.hero-wrapper
 independent.co.uk##.breadcrumb
 independent.co.uk##.article-actions
-reddit.com##span:has-text(promoted):upward(8)
 reuters.com##.video
 theartnewspaper.com##.paywall-inline-container
 zerohedge.com##.ad__wrapper-element
