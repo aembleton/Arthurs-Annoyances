@@ -1,7 +1,8 @@
 ! Title: Arthur's Annoyances
-! Last modified: 20 September 2020
+! Last modified: 24 September 2020
 ! Expires: 1 days (update frequency)
 
+@@||wikipedia.org$script
 thesun.co.uk##.social
 cnn.com##.Hero__videoWrapper
 cnn.com##.RelatedArticle__component
