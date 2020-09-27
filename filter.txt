@@ -2,6 +2,7 @@
 ! Last modified: 27 September 2020
 ! Expires: 1 days (update frequency)
 
+@@||surveymonkey.com$script,domain=surveymonkey.*
 @@||myftpupload.com$script
 @@||wikipedia.org$script
 thesun.co.uk##.social
