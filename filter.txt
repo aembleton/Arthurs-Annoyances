@@ -1,7 +1,8 @@
 ! Title: Arthur's Annoyances
-! Last modified: 27 September 2020
+! Last modified: 2 October 2020
 ! Expires: 1 days (update frequency)
 
+@@*hermes*$domain=myhermes.*
 businessinsider.com##.ad
 @@||ordnancesurvey.co.uk$
 @@||surveymonkey.com$script,domain=surveymonkey.*
