@@ -2,6 +2,7 @@
 ! Last modified: 2 October 2020
 ! Expires: 1 days (update frequency)
 
+@@*pin*$domain=pinterest.*
 @@*hermes*$domain=myhermes.*
 businessinsider.com##.ad
 @@||ordnancesurvey.co.uk$
