@@ -1,7 +1,10 @@
 ! Title: Arthur's Annoyances
-! Last modified: 2 October 2020
+! Last modified: 4 October 2020
 ! Expires: 1 days (update frequency)
 
+deccanherald.com##.sticky_footer
+@@||woosmap.com$
+@@||paypal.com$
 @@*pin*$domain=pinterest.*
 @@*hermes*$domain=myhermes.*
 businessinsider.com##.ad
