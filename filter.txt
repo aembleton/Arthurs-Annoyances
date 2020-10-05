@@ -2,6 +2,7 @@
 ! Last modified: 4 October 2020
 ! Expires: 1 days (update frequency)
 
+@@||termible.io$
 deccanherald.com##.sticky_footer
 @@||woosmap.com$
 @@||paypal.com$
