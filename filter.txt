@@ -1,7 +1,10 @@
 ! Title: Arthur's Annoyances
-! Last modified: 21 October 2020
+! Last modified: 24 October 2020
 ! Expires: 1 days (update frequency)
 
+thisismoney.co.uk##.beta
+thelondoneconomic.com##.jnews_inline_related_post
+@@||nflxext.com$domain=netflix.com
 @@||bauersecure.com$
 @@||termible.io$
 deccanherald.com##.sticky_footer
