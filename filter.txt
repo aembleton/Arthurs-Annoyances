@@ -1,7 +1,9 @@
 ! Title: Arthur's Annoyances
-! Last modified: 24 October 2020
+! Last modified: 28 October 2020
 ! Expires: 1 days (update frequency)
 
+theguardian.com##.css-np6tgl-Row > svg
+@@*aldi*$domain=aldi.*
 thisismoney.co.uk##.beta
 thelondoneconomic.com##.jnews_inline_related_post
 @@||nflxext.com$domain=netflix.com
