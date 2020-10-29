@@ -2,6 +2,8 @@
 ! Last modified: 28 October 2020
 ! Expires: 1 days (update frequency)
 
+@@||nhs.uk$domain=blood.co.uk
+@@||msecnd.net$
 theguardian.com##.css-np6tgl-Row > svg
 @@*aldi*$domain=aldi.*
 thisismoney.co.uk##.beta
