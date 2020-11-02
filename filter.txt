@@ -1,7 +1,10 @@
 ! Title: Arthur's Annoyances
-! Last modified: 28 October 2020
+! Last modified: 2 November 2020
 ! Expires: 1 days (update frequency)
 
+independent.co.uk##.video-hero
+news.com.au##.tabbed
+news.com.au##.sticky-show
 @@||nhs.uk$domain=blood.co.uk
 @@||msecnd.net$
 theguardian.com##.css-np6tgl-Row > svg
