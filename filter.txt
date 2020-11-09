@@ -91,7 +91,7 @@ duckduckgo.com##a[href*="dailytelegraph.com.au" i]:upward(2)
 @@*amazon*$script,domain=amazon.*
 @@*dpreview*$script,domain=dpreview.*
 @@*cdn*$script
-@@*static*$script
+@@*static*$script,domain=~dailymail.co.uk
 @@parastorage.com$script
 @@dragon2000.net$script
 @@storelocatorwidgets.com$script
