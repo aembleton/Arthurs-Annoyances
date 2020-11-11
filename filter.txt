@@ -1,7 +1,8 @@
 ! Title: Arthur's Annoyances
-! Last modified: 2 November 2020
+! Last modified: 11 November 2020
 ! Expires: 1 days (update frequency)
 
+linuxize.com##.ezoic-ad
 independent.co.uk##.video-hero
 news.com.au##.tabbed
 news.com.au##.sticky-show
