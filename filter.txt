@@ -1,7 +1,8 @@
 ! Title: Arthur's Annoyances
-! Last modified: 13 November 2020
+! Last modified: 16 November 2020
 ! Expires: 1 days (update frequency)
 
+@@||wistia.com$
 @@||flowplayer.com$
 @@||*ao*$domain=ao.com
 linuxize.com##.ezoic-ad
