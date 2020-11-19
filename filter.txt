@@ -94,7 +94,7 @@ duckduckgo.com##a[href*="dailytelegraph.com.au" i]:upward(2)
 @@yottaa.net$script
 @@*amazon*$script,domain=amazon.*
 @@*dpreview*$script,domain=dpreview.*
-@@*cdn*$script
+@@*cdn*$script,domain=~taboola.com,~jwplayer.com
 @@*static*$script
 @@parastorage.com$script
 @@dragon2000.net$script
@@ -324,7 +324,6 @@ theguardian.com##.selection-sharing
 cambrian-news.co.uk##Cloudflare-app
 theverge.com##.c-float-left
 theverge.com##.c-read-more
-||cdn.jwplayer.com^
 ||tinypass.com^
 threadreaderapp.com##.sharingfooter
 ||www.economist.com^$script,1p
