@@ -1,7 +1,11 @@
 ! Title: Arthur's Annoyances
-! Last modified: 16 November 2020
+! Last modified: 19 November 2020
 ! Expires: 1 days (update frequency)
 
+@@||hicloud.com$domain=huawei.com
+forbes.com##fbs-embedly
+forbes.com##.seo
+forbes.com##.link-embed
 @@||wistia.com$
 @@||flowplayer.com$
 @@||*ao*$domain=ao.com
