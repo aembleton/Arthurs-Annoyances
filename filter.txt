@@ -2,7 +2,6 @@
 ! Last modified: 20 November 2020
 ! Expires: 1 days (update frequency)
 
-@@||quoracdn.net^$domain=quora.com
 @@||office.com^$domain=office365.com
 @@||office.net^$domain=office365.com,office.com
 wired.com##.persistent-bottom
@@ -103,7 +102,7 @@ duckduckgo.com##a[href*="dailytelegraph.com.au" i]:upward(2)
 @@yottaa.net$script
 @@*amazon*$script,domain=amazon.*
 @@*dpreview*$script,domain=dpreview.*
-@@*cdn*$script,domain=~taboola.com,~jwplayer.com
+@@*cdn*$script,domain=~taboola.com|~jwplayer.com
 @@*static*$script
 @@parastorage.com$script
 @@dragon2000.net$script
