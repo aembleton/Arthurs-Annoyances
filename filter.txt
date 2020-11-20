@@ -2,6 +2,7 @@
 ! Last modified: 20 November 2020
 ! Expires: 1 days (update frequency)
 
+@@||azureedge.net
 bbcgoodfood.com##.ad-banner
 wired.com##.persistent-bottom
 wired.com##.consumer-marketing-unit--article-mid-content
