@@ -2,6 +2,7 @@
 ! Last modified: 20 November 2020
 ! Expires: 1 days (update frequency)
 
+@@||quoracdn.net^$domain=quora.com
 @@||office.com^$domain=office365.com
 @@||office.net^$domain=office365.com
 wired.com##.persistent-bottom
