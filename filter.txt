@@ -4,7 +4,7 @@
 
 @@||quoracdn.net^$domain=quora.com
 @@||office.com^$domain=office365.com
-@@||office.net^$domain=office365.com
+@@||office.net^$domain=office365.com,office.com
 wired.com##.persistent-bottom
 wired.com##.consumer-marketing-unit--article-mid-content
 @@||hicloud.com$domain=huawei.com
