@@ -2,6 +2,8 @@
 ! Last modified: 20 November 2020
 ! Expires: 1 days (update frequency)
 
+@@||office.com^$domain=office365.com
+@@||office.net^$domain=office365.com
 wired.com##.persistent-bottom
 wired.com##.consumer-marketing-unit--article-mid-content
 @@||hicloud.com$domain=huawei.com
