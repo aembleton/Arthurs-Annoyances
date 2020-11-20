@@ -1,7 +1,9 @@
 ! Title: Arthur's Annoyances
-! Last modified: 19 November 2020
+! Last modified: 20 November 2020
 ! Expires: 1 days (update frequency)
 
+wired.com##.persistent-bottom
+wired.com##.consumer-marketing-unit--article-mid-content
 @@||hicloud.com$domain=huawei.com
 forbes.com##fbs-embedly
 forbes.com##.seo
