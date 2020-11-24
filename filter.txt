@@ -1,7 +1,10 @@
 ! Title: Arthur's Annoyances
-! Last modified: 20 November 2020
+! Last modified: 24 November 2020
 ! Expires: 1 days (update frequency)
 
+@@||fastly.net
+@@||nosto.com
+@@||boardgamearena.*$domain=boardgamearena.*
 @@||azureedge.net
 bbcgoodfood.com##.ad-banner
 wired.com##.persistent-bottom
