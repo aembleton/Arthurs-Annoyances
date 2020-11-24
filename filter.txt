@@ -119,7 +119,6 @@ medium.com##.branch-journeys-top:upward(3)
 @@stripe.com$script
 @@||assets.bwbx.io/s3/javelin/public/javelin/js/components/*$script,domain=bloomberg.com
 *$script,redirect=noop.js,3p
-@@*$cname
 @@guim.co.uk$script,domain=theguardian.com
 @@cloudflare.com$script
 @@jsdelivr.net$script
