@@ -2,6 +2,7 @@
 ! Last modified: 24 November 2020
 ! Expires: 1 days (update frequency)
 
+@@||akamaiedge.net
 @@||fastly.net
 @@||nosto.com
 @@||boardgamearena.*$domain=boardgamearena.*
