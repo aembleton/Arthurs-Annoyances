@@ -1,7 +1,8 @@
 ! Title: Arthur's Annoyances
-! Last modified: 24 November 2020
+! Last modified: 26 November 2020
 ! Expires: 1 days (update frequency)
 
+@@||slack-edge.com$domain=slack.com
 @@||brightcove.net
 @@||akamaiedge.net
 @@||fastly.net
