@@ -2,6 +2,8 @@
 ! Last modified: 26 November 2020
 ! Expires: 1 days (update frequency)
 
+@@||intellij.net$domain=jetbrains.com
+@@||office.*$domain=office365.com
 @@||slack-edge.com$domain=slack.com
 @@||brightcove.net
 @@||akamaiedge.net
