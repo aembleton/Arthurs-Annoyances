@@ -2,6 +2,7 @@
 ! Last modified: 14 December 2020
 ! Expires: 1 days (update frequency)
 
+@@||akamai.net
 @@||flourish.studio
 @@*yahoo*$domain=yahoo.*
 @@||yimg.com$domain=yahoo.*
