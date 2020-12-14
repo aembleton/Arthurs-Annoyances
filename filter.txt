@@ -1,7 +1,8 @@
 ! Title: Arthur's Annoyances
-! Last modified: 2 December 2020
+! Last modified: 14 December 2020
 ! Expires: 1 days (update frequency)
 
+@@||flourish.studio
 @@*yahoo*$domain=yahoo.*
 @@||yimg.com$domain=yahoo.*
 @@||wikimedia.org$domain=wikipedia.org
