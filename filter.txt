@@ -1,7 +1,11 @@
 ! Title: Arthur's Annoyances
-! Last modified: 20 December 2020
+! Last modified: 21 December 2020
 ! Expires: 1 days (update frequency)
 
+@@||a-msedge.net$domain=bing.com
+@@||here.com
+@@||awsnre.co.uk$domain=nationalrail.co.uk
+@@||incapdns.net
 reneweconomy.com.au##.sidebar
 @@||akamai.net
 @@||flourish.studio
