@@ -2,6 +2,7 @@
 ! Last modified: 22 December 2020
 ! Expires: 1 days (update frequency)
 
+currys.co.uk##.animated-message
 @@||buyitdirect.co.uk
 @@||reevoo.com
 reuters.com##div[class^="RCOMVideo"]
