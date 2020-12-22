@@ -1,7 +1,8 @@
 ! Title: Arthur's Annoyances
-! Last modified: 21 December 2020
+! Last modified: 22 December 2020
 ! Expires: 1 days (update frequency)
 
+reuters.com##div[class^="RCOMVideo"]
 @@||a-msedge.net$domain=bing.com
 @@||here.com
 @@||awsnre.co.uk$domain=nationalrail.co.uk
@@ -174,24 +175,6 @@ reuters.com##.video
 theartnewspaper.com##.paywall-inline-container
 zerohedge.com##.ad__wrapper-element
 zerohedge.com##.layout-featured
-inyourarea.co.uk##div>div>div:has-text(SPONSORED)
-inyourarea.co.uk##div>div>div:has-text(Local Advert)
-inyourarea.co.uk##div>div>div:has-text(Scratch card)
-inyourarea.co.uk##div>div>div:has-text(Coronavirus (COVID-19))
-inyourarea.co.uk##div>div>div:has-text(Roads)
-inyourarea.co.uk##div>div>div:has-text(Live Feed)
-inyourarea.co.uk##div>div>div:has-text(Jobs near you)
-inyourarea.co.uk##div>div>div:has-text(3 day forecast)
-inyourarea.co.uk##div>div>div:has-text(Area Ambassador)
-inyourarea.co.uk##div>div>div:has-text(, National)
-inyourarea.co.uk##div>div>div:has-text(Featured businesses)
-inyourarea.co.uk##div>div>div:has-text(Average house prices)
-inyourarea.co.uk##div>div>div:has-text(Nearby businesses)
-inyourarea.co.uk##div>div>div:has-text(Funeral notices)
-inyourarea.co.uk##div>div>div:has-text(For Sale)
-inyourarea.co.uk##div>div>div:has-text(Post a message)
-inyourarea.co.uk##div>div>div:has-text(advertise)
-inyourarea.co.uk##div>div>div:has-text(Deals)
 theguardian.com##.element-embed
 latimes.com##.Enhancement
 ||reachplc.com$subdocument
