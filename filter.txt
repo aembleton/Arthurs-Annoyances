@@ -136,7 +136,6 @@ duckduckgo.com##a[href*="dailytelegraph.com.au" i]:upward(2)
 @@*bbc*$script,domain=bbc.*
 @@ampproject.org$script
 bbcgoodfood.com##+js(aopr, Drupal.behaviors.smartBanner)
-medium.com##.branch-journeys-top:upward(3)
 @@amazonaws.com$script
 @@hearstapps.com$script
 @@stripe.com$script
