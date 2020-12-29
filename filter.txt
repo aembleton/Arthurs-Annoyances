@@ -2,6 +2,17 @@
 ! Last modified: 29 December 2020
 ! Expires: 1 days (update frequency)
 
+independent.co.uk###header
+independent.co.uk##nav
+independent.co.uk##.newsletter-component
+independent.co.uk##.related
+independent.co.uk##.sc-prorn:matches-css(text-align:center):upward(1)
+independent.co.uk##.above-article-prompt-donations
+independent.co.uk##aside
+independent.co.uk##.social-share
+independent.co.uk###comments
+independent.co.uk##div[amp-access]
+independent.co.uk##footer
 medium.com##div[id^="lo-highlight-meter"]
 @@||t-msedge.net
 currys.co.uk##.animated-message
@@ -127,7 +138,7 @@ duckduckgo.com##a[href*="dailytelegraph.com.au" i]:upward(2)
 @@*amazon*$script,domain=amazon.*
 @@*dpreview*$script,domain=dpreview.*
 @@*cdn*$script,domain=~taboola.com|~jwplayer.com
-@@*static*$script
+@@*static*$script,domain=~apester.com
 @@parastorage.com$script
 @@dragon2000.net$script
 @@storelocatorwidgets.com$script
