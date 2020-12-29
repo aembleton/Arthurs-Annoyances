@@ -2,6 +2,7 @@
 ! Last modified: 29 December 2020
 ! Expires: 1 days (update frequency)
 
+apester.com
 independent.co.uk###header
 independent.co.uk##nav
 independent.co.uk##.newsletter-component
@@ -138,7 +139,7 @@ duckduckgo.com##a[href*="dailytelegraph.com.au" i]:upward(2)
 @@*amazon*$script,domain=amazon.*
 @@*dpreview*$script,domain=dpreview.*
 @@*cdn*$script,domain=~taboola.com|~jwplayer.com
-@@*static*$script,domain=~apester.com
+@@*static*$script
 @@parastorage.com$script
 @@dragon2000.net$script
 @@storelocatorwidgets.com$script
