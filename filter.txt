@@ -2,6 +2,12 @@
 ! Last modified: 3 January 2021
 ! Expires: 1 days (update frequency)
 
+indianexpress.com###izmiddle-box
+indianexpress.com###id_newsletter_subscription_popup
+indianexpress.com##.breaking-news
+indianexpress.com##.animate-break
+indianexpress.com##.rightpanel
+indianexpress.com##.pdsc-related-modify
 eetimes.eu##aside
 @@||custhelp.com
 apester.com
@@ -160,7 +166,7 @@ bbcgoodfood.com##+js(aopr, Drupal.behaviors.smartBanner)
 @@cloudflare.com$script
 @@jsdelivr.net$script
 @@jquery.com$script
-@@||google.com$script,domain=~medium.com
+@@||google.com$script,domain=~medium.com|~indianexpress.com
 @@*github*$script,domain=github.com
 @@cloudfront.net$script
 @@*ebay*$script,domain=ebay.*
