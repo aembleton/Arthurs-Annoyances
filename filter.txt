@@ -132,7 +132,7 @@ dzone.com##+js(acis, adtoniqAlertData)
 ||widgets.outbrain.com/outbrain.js$script,redirect=outbrain-widget.js
 newyorker.com##.persistent-bottom
 @@*imdb*$script,domain=imdb.com
-facebook.com##span[aria-label="Sponsored"]:upward(21)
+facebook.com##a[aria-label="Sponsored"]:upward(20)
 genius.com##.u-display_block
 hckrnews.com##a[href*="wsj.com" i]:upward(1)
 hckrnews.com##a[href*="washingtonpost.com" i]:upward(1)
