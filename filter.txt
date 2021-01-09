@@ -175,7 +175,7 @@ bbcgoodfood.com##+js(aopr, Drupal.behaviors.smartBanner)
 @@cloudfront.net$script
 @@*ebay*$script,domain=ebay.*
 @@adobedtm.com$script
-@@facebook.net$script
+@@facebook.net$domain=facebook.com|fb.com|instagram.com|strava.com
 @@googleapis.com$script
 @@twimg.com$script,domain=twitter.com
 @@*etoro*$script,domain=etoro.com
