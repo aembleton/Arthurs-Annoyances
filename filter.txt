@@ -1,7 +1,8 @@
 ! Title: Arthur's Annoyances
-! Last modified: 7 January 2021
+! Last modified: 9 January 2021
 ! Expires: 1 days (update frequency)
 
+economictimes.com##.adContainer
 ###weebly-footer-signup-container-v3
 @@||website-files.com
 @@||alibabadns.com$domain=aliexpress.com
