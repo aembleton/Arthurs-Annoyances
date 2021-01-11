@@ -2,6 +2,7 @@
 ! Last modified: 11 January 2021
 ! Expires: 1 days (update frequency)
 
+@@||telegram.org$domain=t.me
 businessinsider.com##header
 businessinsider.com##nav
 businessinsider.com##.live-updates-module-full-width
