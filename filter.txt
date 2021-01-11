@@ -2,6 +2,10 @@
 ! Last modified: 11 January 2021
 ! Expires: 1 days (update frequency)
 
+techradar.com##.jwplayer-herowrapper
+techradar.com##.trending-wrapper
+techradar.com##aside
+techradar.com##nav
 blog.pragmaticengineer.com##.newsletter
 newstatesman.com/sites/all/modules/paywall
 newstatesman.com##.tns-modal-wrapper
