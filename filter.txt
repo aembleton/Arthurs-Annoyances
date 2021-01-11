@@ -2,6 +2,12 @@
 ! Last modified: 11 January 2021
 ! Expires: 1 days (update frequency)
 
+businessinsider.com##header
+businessinsider.com##nav
+businessinsider.com##.live-updates-module-full-width
+businessinsider.com##.post-meta
+businessinsider.com##.share-wrapper
+businessinsider.com##aside
 techradar.com##.jwplayer-herowrapper
 techradar.com##.trending-wrapper
 techradar.com##aside
