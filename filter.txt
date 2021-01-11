@@ -2,6 +2,7 @@
 ! Last modified: 11 January 2021
 ! Expires: 1 days (update frequency)
 
+dailymail.co.uk##li[class*="shareIcon-"]:upward(2)
 dailymail.co.uk##div[class^="nextBtn"]
 dailymail.co.uk###mini-carousel-wrapper
 dailymail.co.uk##.page-header
