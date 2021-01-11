@@ -2,6 +2,7 @@
 ! Last modified: 11 January 2021
 ! Expires: 1 days (update frequency)
 
+theguardian.com###most-viewed-right:upward(3)
 *##+js(rc, sg-popup-builder-content)
 reasonstobecheerful.world##header
 reasonstobecheerful.world##.sidebar-social-col
