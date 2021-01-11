@@ -2,6 +2,11 @@
 ! Last modified: 11 January 2021
 ! Expires: 1 days (update frequency)
 
+*##+js(rc, sg-popup-builder-content)
+reasonstobecheerful.world##header
+reasonstobecheerful.world##.sidebar-social-col
+reasonstobecheerful.world##.sidebar-article-wrap
+reasonstobecheerful.world##.subscribe-section
 @@||telegram.org$domain=t.me
 businessinsider.com##header
 businessinsider.com##nav
