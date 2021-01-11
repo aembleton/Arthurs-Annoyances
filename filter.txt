@@ -2,6 +2,9 @@
 ! Last modified: 10 January 2021
 ! Expires: 1 days (update frequency)
 
+forbes.com##.amp-player-wrapper
+forbes.com##.right-rail
+forbes.com##.left-rail
 nytimes.com##div[data-testid="inline-message"]
 nytimes.com##div[role="complementary"]
 telegraph.co.uk/martech
