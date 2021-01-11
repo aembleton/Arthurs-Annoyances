@@ -1,5 +1,5 @@
 ! Title: Arthur's Annoyances
-! Last modified: 10 January 2021
+! Last modified: 11 January 2021
 ! Expires: 1 days (update frequency)
 
 forbes.com##.amp-player-wrapper
