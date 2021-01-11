@@ -2,6 +2,13 @@
 ! Last modified: 11 January 2021
 ! Expires: 1 days (update frequency)
 
+blog.pragmaticengineer.com##.newsletter
+newstatesman.com/sites/all/modules/paywall
+newstatesman.com##.tns-modal-wrapper
+newstatesman.com##.site-header
+newstatesman.com##.right-sidebar
+newstatesman.com##.full-height-column
+newstatesman.com##+js(aeld, scroll)
 @@||storefeeder.com
 dailymail.co.uk##li[class*="shareIcon-"]:upward(2)
 dailymail.co.uk##div[class^="nextBtn"]
