@@ -1,7 +1,13 @@
 ! Title: Arthur's Annoyances
-! Last modified: 11 January 2021
+! Last modified: 13 January 2021
 ! Expires: 1 days (update frequency)
 
+thesun.co.uk##div[class*="header"]
+thesun.co.uk##section[class*="nav"]
+thesun.co.uk##div[id*="video"]
+thesun.co.uk##.article__content > .sun-row
+thesun.co.uk##.article__footer
+thesun.co.uk##footer
 ##div[class*="jwplayer"]
 ##div[class*="jw-player"]
 express.co.uk###maincontainer > header
