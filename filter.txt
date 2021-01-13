@@ -2,6 +2,17 @@
 ! Last modified: 11 January 2021
 ! Expires: 1 days (update frequency)
 
+##div[class*="jwplayer"]
+##div[class*="jw-player"]
+express.co.uk###maincontainer > header
+express.co.uk##aside
+express.co.uk##.breaking-news-container
+express.co.uk##.sharebar
+express.co.uk##.newsletter-pure
+express.co.uk##.box
+express.co.uk##strong:has-text(READ MORE)
+express.co.uk##strong:has-text(DON'T MISS)
+express.co.uk##.viafoura
 theguardian.com###most-viewed-right:upward(3)
 *##+js(rc, sg-popup-builder-content)
 reasonstobecheerful.world##header
@@ -15,7 +26,6 @@ businessinsider.com##.live-updates-module-full-width
 businessinsider.com##.post-meta
 businessinsider.com##.share-wrapper
 businessinsider.com##aside
-techradar.com##.jwplayer-herowrapper
 techradar.com##.trending-wrapper
 techradar.com##aside
 techradar.com##nav
