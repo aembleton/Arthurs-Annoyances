@@ -2,6 +2,7 @@
 ! Last modified: 17 January 2021
 ! Expires: 1 days (update frequency)
 
+@@||ordnancesurvey.co.uk
 euronews.com##.advertising
 *##+js(aeld, touchstart)
 euronews.com##.js-swiper-button
