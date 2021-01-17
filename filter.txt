@@ -2,6 +2,16 @@
 ! Last modified: 17 January 2021
 ! Expires: 1 days (update frequency)
 
+*##+js(aeld, touchstart)
+euronews.com##.js-swiper-button
+euronews.com###js-header:upward(1)
+euronews.com##nav
+euronews.com###article-wrapper-1354152 > .o-article__header > .c-article-labels
+euronews.com##.c-article-comments
+euronews.com##.c-social-share:upward(2)
+euronews.com##.c-font-size-switcher
+euronews.com##footer
+euronews.com##aside
 *##+js(aeld, scroll)
 dailymail.co.uk##.beta
 dailymail.co.uk##div[class^="previousBtn"]
