@@ -216,7 +216,7 @@ duckduckgo.com##a[href*="dailytelegraph.com.au" i]:upward(2)
 @@yottaa.net$script
 @@*amazon*$script,domain=amazon.*
 @@*dpreview*$script,domain=dpreview.*
-@@*cdn*$script,domain=~taboola.com|~jwplayer.com
+@@*cdn*$script,domain=~taboola.com|~jwplayer.com|~izooto.com
 @@*static*$script
 @@parastorage.com$script
 @@dragon2000.net$script
