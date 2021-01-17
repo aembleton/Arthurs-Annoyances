@@ -1,10 +1,10 @@
 ! Title: Arthur's Annoyances
-! Last modified: 16 January 2021
+! Last modified: 17 January 2021
 ! Expires: 1 days (update frequency)
 
+*##+js(aeld, scroll)
 dailymail.co.uk##.beta
 dailymail.co.uk##div[class^="previousBtn"]
-medium.com##+js(aeld, scroll)
 thesun.co.uk##div[class*="header"]
 thesun.co.uk##section[class*="nav"]
 thesun.co.uk##div[id*="video"]
@@ -44,7 +44,6 @@ newstatesman.com##.tns-modal-wrapper
 newstatesman.com##.site-header
 newstatesman.com##.right-sidebar
 newstatesman.com##.full-height-column
-newstatesman.com##+js(aeld, scroll)
 @@||storefeeder.com
 dailymail.co.uk##li[class*="shareIcon-"]:upward(2)
 dailymail.co.uk##div[class^="nextBtn"]
