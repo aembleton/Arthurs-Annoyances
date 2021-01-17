@@ -2,6 +2,7 @@
 ! Last modified: 17 January 2021
 ! Expires: 1 days (update frequency)
 
+euronews.com##.advertising
 *##+js(aeld, touchstart)
 euronews.com##.js-swiper-button
 euronews.com###js-header:upward(1)
