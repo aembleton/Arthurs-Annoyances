@@ -1,7 +1,8 @@
 ! Title: Arthur's Annoyances
-! Last modified: 17 January 2021
+! Last modified: 18 January 2021
 ! Expires: 1 days (update frequency)
 
+buynothingproject.org##.sidebar-area
 @@||alibabadns.com$domain=aliexpress.com
 @@||alicdn.com$domain=aliexpress.com
 @@||ordnancesurvey.co.uk
