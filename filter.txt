@@ -1,7 +1,8 @@
 ! Title: Arthur's Annoyances
-! Last modified: 18 January 2021
+! Last modified: 19 January 2021
 ! Expires: 1 days (update frequency)
 
+@@||shopify.com
 @@||flightcdn.com$domain=flightaware.com
 @@||cnbcfm.com$domain=cnbc.com
 @@||dixons.com$domain=currys.co.uk
