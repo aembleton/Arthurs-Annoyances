@@ -2,6 +2,8 @@
 ! Last modified: 18 January 2021
 ! Expires: 1 days (update frequency)
 
+@@||flightcdn.com$domain=flightaware.com
+@@||cnbcfm.com$domain=cnbc.com
 @@||dixons.com$domain=currys.co.uk
 @@||redditstatic.com$domain=reddit.com
 @@||whatsapp.net$domain=whatsapp.com
