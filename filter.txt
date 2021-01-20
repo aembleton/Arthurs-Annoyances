@@ -2,6 +2,7 @@
 ! Last modified: 20 January 2021
 ! Expires: 1 days (update frequency)
 
+dailymail.co.uk,thisismoney.co.uk##.related-carousel:upward(1)
 dailymail.co.uk,thisismoney.co.uk##.articleAds
 dailymail.co.uk,thisismoney.co.uk##.floating-buttons
 @@||iggcdn.com$domain=indiegogo.com
