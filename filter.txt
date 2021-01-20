@@ -1,7 +1,10 @@
 ! Title: Arthur's Annoyances
-! Last modified: 19 January 2021
+! Last modified: 20 January 2021
 ! Expires: 1 days (update frequency)
 
+@@||iggcdn.com$domain=indiegogo.com
+@@||rawgit.com
+@@||dailymail.co.uk$domain=thisismoney.co.uk
 @@||shopify.com
 @@||flightcdn.com$domain=flightaware.com
 @@||cnbcfm.com$domain=cnbc.com
@@ -26,8 +29,8 @@ euronews.com##.c-font-size-switcher
 euronews.com##footer
 euronews.com##aside
 *##+js(aeld, scroll)
-dailymail.co.uk##.beta
-dailymail.co.uk##div[class^="previousBtn"]
+dailymail.co.uk,thisismoney.co.uk##.beta
+dailymail.co.uk,thisismoney.co.uk##div[class^="previousBtn"]
 thesun.co.uk##div[class*="header"]
 thesun.co.uk##section[class*="nav"]
 thesun.co.uk##div[id*="video"]
@@ -68,11 +71,11 @@ newstatesman.com##.site-header
 newstatesman.com##.right-sidebar
 newstatesman.com##.full-height-column
 @@||storefeeder.com
-dailymail.co.uk##li[class*="shareIcon-"]:upward(2)
-dailymail.co.uk##div[class^="nextBtn"]
-dailymail.co.uk###mini-carousel-wrapper
-dailymail.co.uk##.page-header
-dailymail.co.uk###articleIconLinksContainer
+dailymail.co.uk,thisismoney.co.uk##li[class*="shareIcon-"]:upward(2)
+dailymail.co.uk,thisismoney.co.uk##div[class^="nextBtn"]
+dailymail.co.uk,thisismoney.co.uk###mini-carousel-wrapper
+dailymail.co.uk,thisismoney.co.uk##.page-header
+dailymail.co.uk,thisismoney.co.uk###articleIconLinksContainer
 forbes.com##.amp-player-wrapper
 forbes.com##.right-rail
 forbes.com##.left-rail
