@@ -1,7 +1,8 @@
 ! Title: Arthur's Annoyances
-! Last modified: 20 January 2021
+! Last modified: 21 January 2021
 ! Expires: 1 days (update frequency)
 
+@@||cdn-one.com$domain=one.com
 medium.com##.branch-journeys-top:upward(2)
 @@||gstatic.com
 dailymail.co.uk,thisismoney.co.uk##.related-carousel:upward(1)
@@ -33,7 +34,7 @@ euronews.com##.c-social-share:upward(2)
 euronews.com##.c-font-size-switcher
 euronews.com##footer
 euronews.com##aside
-*##+js(aeld, scroll)
+~hotukdeals.com,*##+js(aeld, scroll)
 dailymail.co.uk,thisismoney.co.uk##.beta
 dailymail.co.uk,thisismoney.co.uk##div[class^="previousBtn"]
 thesun.co.uk##div[class*="header"]
