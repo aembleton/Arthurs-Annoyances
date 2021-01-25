@@ -1,7 +1,15 @@
 ! Title: Arthur's Annoyances
-! Last modified: 21 January 2021
+! Last modified: 25 January 2021
 ! Expires: 1 days (update frequency)
 
+@@||substack.com
+@@||akamaihd.net
+@@||youtube.com
+@@||sndcdn.com$domain=soundcloud.com
+@@||bootstrapcdn.com
+@@||maxcdn.com
+@@||paypal.com
+@@||bcbits.com$domain=bandcamp.com
 @@||cdn-one.com$domain=one.com
 medium.com##.branch-journeys-top:upward(2)
 @@||gstatic.com
