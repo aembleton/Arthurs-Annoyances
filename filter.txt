@@ -1,7 +1,18 @@
 ! Title: Arthur's Annoyances
-! Last modified: 26 January 2021
+! Last modified: 27 January 2021
 ! Expires: 1 days (update frequency)
 
+newsweek.com##.article-videoplayer
+newsweek.com##.block-nw
+newsweek.com##.category
+newsweek.com##.social-share
+newsweek.com##.filed-under
+newsweek.com##.page-sidebar
+newsweek.com##.promo-link
+newsweek.com##.fA
+newsweek.com##.content-correction
+newsweek.com###block-ibtmedia-dfp-ibtmedia-dfp-belowcontent
+newsweek.com###block-ibtg-footer-ibtg-footer
 @@||ajax.googleapis.com^
 @@||ajax.aspnetcdn.com^
 @@||ajax.microsoft.com^
