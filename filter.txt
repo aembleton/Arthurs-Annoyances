@@ -1,7 +1,8 @@
 ! Title: Arthur's Annoyances
-! Last modified: 28 January 2021
+! Last modified: 31 January 2021
 ! Expires: 1 days (update frequency)
 
+@@||vimeocdn.com
 @@||urbanairship.com
 @@||cloudflare.net
 unherd.com##.ref-ar
