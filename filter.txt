@@ -1,7 +1,10 @@
 ! Title: Arthur's Annoyances
-! Last modified: 31 January 2021
+! Last modified: 2 February 2021
 ! Expires: 1 days (update frequency)
 
+@@||woosmap.com
+@@||gitlab-static.net$domain=gitlab.com
+@@||awsstatic.com$domain=amazon.com
 @@||kinstacdn.com
 @@||jg-cdn.com$domain=justgiving.com
 @@||vimeocdn.com
