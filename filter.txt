@@ -2,6 +2,7 @@
 ! Last modified: 2 February 2021
 ! Expires: 1 days (update frequency)
 
+medium.com##div[data-test-id="post-sidebar"]
 @@||woosmap.com
 @@||gitlab-static.net$domain=gitlab.com
 @@||awsstatic.com$domain=amazon.com
