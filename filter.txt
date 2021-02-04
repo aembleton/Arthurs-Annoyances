@@ -1,5 +1,5 @@
 ! Title: Arthur's Annoyances
-! Last modified: 3 February 2021
+! Last modified: 4 February 2021
 ! Expires: 1 days (update frequency)
 
 @@||experience.tinypass.com
@@ -520,7 +520,6 @@ theguardian.com##.selection-sharing
 cambrian-news.co.uk##Cloudflare-app
 theverge.com##.c-float-left
 theverge.com##.c-read-more
-||tinypass.com^
 threadreaderapp.com##.sharingfooter
 ||www.economist.com^$script,1p
 forbes.com##.video-player
