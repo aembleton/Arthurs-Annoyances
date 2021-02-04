@@ -204,7 +204,7 @@ reneweconomy.com.au##.sidebar
 @@||wikimedia.org$domain=wikipedia.org
 @@||facebook.com$domain=instagram.com
 @@||intellij.net$domain=jetbrains.com
-@@||*office*$domain=office365.com
+@@||*office*$domain=office365.com,microsoft.com
 @@||slack-edge.com$domain=slack.com
 @@||brightcove.net
 @@||akamaiedge.net
