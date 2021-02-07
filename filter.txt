@@ -1,7 +1,11 @@
 ! Title: Arthur's Annoyances
-! Last modified: 4 February 2021
+! Last modified: 7 February 2021
 ! Expires: 1 days (update frequency)
 
+@@||evbstatic.com$domain=eventbrite.co.uk
+@@||braintreegateway.com
+@@||windows.net
+@@||worldpay.com
 @@||experience.tinypass.com
 @@||smassets.net$domain=surveymonkey.com
 @@||wix.com
