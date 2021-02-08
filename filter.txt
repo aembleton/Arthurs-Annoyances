@@ -2,6 +2,15 @@
 ! Last modified: 7 February 2021
 ! Expires: 1 days (update frequency)
 
+rd.com##.sticky
+rd.com##.main-navigation
+rd.com###mobile-nav-banner
+rd.com###breadcrumbs
+rd.com##.social-menu-mobile
+rd.com###desktop-nav-banner
+rd.com###right-sidebar-container
+rd.com##.social-menu-desktop
+rd.com##.sticky-bottom-ad
 @@||evbstatic.com$domain=eventbrite.co.uk
 @@||braintreegateway.com
 @@||windows.net
