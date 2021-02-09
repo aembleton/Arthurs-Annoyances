@@ -1,7 +1,8 @@
 ! Title: Arthur's Annoyances
-! Last modified: 7 February 2021
+! Last modified: 9 February 2021
 ! Expires: 1 days (update frequency)
 
+@@||auth0.com
 rd.com##.sticky
 rd.com##.main-navigation
 rd.com###mobile-nav-banner
