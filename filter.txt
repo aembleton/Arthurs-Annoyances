@@ -1,7 +1,12 @@
 ! Title: Arthur's Annoyances
-! Last modified: 10 February 2021
+! Last modified: 11 February 2021
 ! Expires: 1 days (update frequency)
 
+dailymail.co.uk##.social
+dailymail.co.uk##.vjs-video-container
+dailymail.co.uk##div[class^="previewWrapper"]:upward(1)
+dailymail.co.uk##nav
+dailymail.co.uk##.puff
 @@||medium.com
 @@||licdn.com$domain=linkedin.com
 @@||auth0.com
