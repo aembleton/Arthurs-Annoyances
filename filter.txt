@@ -2,6 +2,7 @@
 ! Last modified: 11 February 2021
 ! Expires: 1 days (update frequency)
 
+@@||jwplayer.com$domain=reuters.com
 dailymail.co.uk##.social
 dailymail.co.uk##.vjs-video-container
 dailymail.co.uk##div[class^="previewWrapper"]:upward(1)
