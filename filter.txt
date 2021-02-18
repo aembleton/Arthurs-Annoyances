@@ -2,6 +2,8 @@
 ! Last modified: 11 February 2021
 ! Expires: 1 days (update frequency)
 
+@@||simpleanalyticscdn.com
+@@||gigya.com
 @@||jwplayer.com$domain=reuters.com
 dailymail.co.uk##.social
 dailymail.co.uk##.vjs-video-container
@@ -130,7 +132,7 @@ euronews.com##.c-social-share:upward(2)
 euronews.com##.c-font-size-switcher
 euronews.com##footer
 euronews.com##aside
-~hotukdeals.com,~etoro.com,~youtube.com,~aliexpress.com,*##+js(aeld, scroll)
+~hotukdeals.com,~etoro.com,~youtube.com,~aliexpress.com,~securedsigning.com*##+js(aeld, scroll)
 dailymail.co.uk,thisismoney.co.uk##.beta
 dailymail.co.uk,thisismoney.co.uk##div[class^="previousBtn"]
 thesun.co.uk##div[class*="header"]
