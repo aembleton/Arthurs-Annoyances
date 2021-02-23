@@ -1,7 +1,15 @@
 ! Title: Arthur's Annoyances
-! Last modified: 11 February 2021
+! Last modified: 23 February 2021
 ! Expires: 1 days (update frequency)
 
+@@||msauth.net$domain=microsoftonline.com
+@@||office.net$domain=office.com
+@@||atl-paas.net$domain=atlassian.com
+@@||futurecdn.net
+@@||olympus.eu$domain=olympus.*
+@@||fbcdn.net$domain=messenger.com
+@@||scdn.co$domain=spotify.com
+@@||list-manage.com
 @@||simpleanalyticscdn.com
 @@||gigya.com
 @@||jwplayer.com$domain=reuters.com
