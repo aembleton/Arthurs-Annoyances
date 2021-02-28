@@ -2,6 +2,7 @@
 ! Last modified: 28 February 2021
 ! Expires: 1 days (update frequency)
 
+@@||androidauthority$domain=androidauthority.*
 @@||msauth.net$domain=microsoftonline.com
 @@||office.net$domain=office.com
 @@||atl-paas.net$domain=atlassian.com
