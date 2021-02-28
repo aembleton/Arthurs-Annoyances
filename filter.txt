@@ -2,6 +2,7 @@
 ! Last modified: 28 February 2021
 ! Expires: 1 days (update frequency)
 
+telegraph.co.uk##.html-embed
 @@||muscache.com
 koreatimes.co.kr##.view_right_div
 @@||androidauthority$domain=androidauthority.*
