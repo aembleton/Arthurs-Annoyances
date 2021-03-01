@@ -1,7 +1,15 @@
 ! Title: Arthur's Annoyances
-! Last modified: 28 February 2021
+! Last modified: 1 March 2021
 ! Expires: 1 days (update frequency)
 
+@@||observableusercontent.com$domain=observablehq.com
+@@||static.observableusercontent.com$domain=static.observableusercontent.com
+@@||d3js.org
+@@||sstatic.net$domain=stackoverflow.com
+@@||fbcdn.net$domain=facebook.com
+@@||scribdassets.com$domain=scribd.com
+@@||opentable.co.uk
+@@||otstatic.com
 telegraph.co.uk##.html-embed
 @@||muscache.com
 koreatimes.co.kr##.view_right_div
