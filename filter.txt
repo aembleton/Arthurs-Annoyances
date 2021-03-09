@@ -1,7 +1,13 @@
 ! Title: Arthur's Annoyances
-! Last modified: 5 March 2021
+! Last modified: 9 March 2021
 ! Expires: 1 days (update frequency)
 
+inews.co.uk##.color-context
+inews.co.uk##.inews__header
+inews.co.uk##.inews__sidebar
+inews.co.uk##.inews__post-share
+inews.co.uk##.inews__email-signup
+inews.co.uk##.wp-block-embed
 @@||pipedream$domain=pipedream.*
 @@||multiscreensite.com
 nytimes.com##+js(cookie-remover,)
