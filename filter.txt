@@ -2,6 +2,7 @@
 ! Last modified: 19 March 2021
 ! Expires: 1 days (update frequency)
 
+@@||tacdn.com$domain=tripadvisor.*
 @@||segment.com
 @@||antavo.com
 @@||spatialbuzz.com
