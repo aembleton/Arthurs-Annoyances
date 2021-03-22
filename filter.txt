@@ -1,7 +1,9 @@
 ! Title: Arthur's Annoyances
-! Last modified: 21 March 2021
+! Last modified: 22 March 2021
 ! Expires: 1 days (update frequency)
 
+@@||kym-cdn.com$domain=knowyourmeme.com
+@@||fivesquid.com^$script,domain=fivesquid.com
 @@||adobe.com
 @@||huami.com$domain=amazfit.com
 @@||tacdn.com$domain=tripadvisor.*
