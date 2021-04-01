@@ -1,7 +1,13 @@
 ! Title: Arthur's Annoyances
-! Last modified: 22 March 2021
+! Last modified: 1 April 2021
 ! Expires: 1 days (update frequency)
 
+spiked-online.com##.ad-outer
+spiked-online.com##.article-overflow
+spiked-online.com##.article-overflow
+@@||a1.api.bbc.co.uk^$1p
+@@||wigglestatic.com$domain=wiggle.co.uk
+@@||cdnst.net$domain=speedtest.net
 @@||kym-cdn.com$domain=knowyourmeme.com
 @@||fivesquid.com^$script,domain=fivesquid.com
 @@||adobe.com
