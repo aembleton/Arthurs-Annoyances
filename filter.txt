@@ -1,7 +1,20 @@
 ! Title: Arthur's Annoyances
-! Last modified: 1 April 2021
+! Last modified: 9 April 2021
 ! Expires: 1 days (update frequency)
 
+fleetnews.co.uk##.side-bar
+thetimes.co.uk##div[class^="responsiveweb-"]
+thetimes.co.uk##div[class*="AdWrapper"]
+thetimes.co.uk##.Item
+@@||npmcdn.com
+bloomberg.com##aside
+bloomberg.com##footer
+bloomberg.com##.news-designed-for-consumer-media
+bloomberg.com##.leaderboard-container
+bloomberg.com##.bb-that
+bloomberg.com##nav
+bloomberg.com##.data-dashboard-sidebar-container
+bloomberg.com##.eyebrow-v2
 spiked-online.com##.ad-outer
 spiked-online.com##.article-overflow
 spiked-online.com##.article-overflow
