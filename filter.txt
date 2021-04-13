@@ -2,6 +2,13 @@
 ! Last modified: 13 April 2021
 ! Expires: 1 days (update frequency)
 
+advertiserandtimes.co.uk##.sidebar
+advertiserandtimes.co.uk##.advert
+advertiserandtimes.co.uk##header
+advertiserandtimes.co.uk###headerSpacer
+advertiserandtimes.co.uk##.leaderboard
+advertiserandtimes.co.uk##.SocialArticleIcons
+advertiserandtimes.co.uk##.articleInsert
 nytimes.com##aside
 fleetnews.co.uk##.side-bar
 thetimes.co.uk##div[class^="responsiveweb-"]
