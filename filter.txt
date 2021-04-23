@@ -2,6 +2,9 @@
 ! Last modified: 13 April 2021
 ! Expires: 1 days (update frequency)
 
+@@||netlify.app
+genius.com##div[class^="AppleMusic"]
+@@||sstatic.net$domain=stackexchange.com
 advertiserandtimes.co.uk##.sidebar
 advertiserandtimes.co.uk##.advert
 advertiserandtimes.co.uk##header
