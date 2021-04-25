@@ -2,6 +2,14 @@
 ! Last modified: 13 April 2021
 ! Expires: 1 days (update frequency)
 
+@@||staticbg.com$domain=banggood.com
+@@||redditmedia.com$domain=reddit.com
+@@||redditstatic.com$domain=redditmedia.com
+@@||djicdn.com$domain=dji.com
+@@||zoocdn.com$domain=zoopla.co.uk
+@@||squarecdn.com$domain=squareup.com
+@@||izettle.com$domain=zettle.com
+@@||arcgis.com
 @@||netlify.app
 genius.com##div[class^="AppleMusic"]
 @@||sstatic.net$domain=stackexchange.com
