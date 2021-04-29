@@ -1,7 +1,10 @@
 ! Title: Arthur's Annoyances
-! Last modified: 13 April 2021
+! Last modified: 29 April 2021
 ! Expires: 1 days (update frequency)
 
+@@||imgeng.in
+@@||nexcesscdn.net
+@@||calendly.com
 @@||staticbg.com$domain=banggood.com
 @@||redditmedia.com$domain=reddit.com
 @@||redditstatic.com$domain=redditmedia.com
