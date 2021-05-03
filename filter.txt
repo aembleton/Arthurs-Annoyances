@@ -1,7 +1,8 @@
 ! Title: Arthur's Annoyances
-! Last modified: 29 April 2021
+! Last modified: 3 May 2021
 ! Expires: 1 days (update frequency)
 
+circuitbasics.com##div[class*='sidebar']
 @@||imgeng.in
 @@||nexcesscdn.net
 @@||calendly.com
@@ -201,7 +202,7 @@ buynothingproject.org##.sidebar-area
 @@||alicdn.com$domain=aliexpress.com
 @@||ordnancesurvey.co.uk
 euronews.com##.advertising
-~etoro.com,**##+js(aeld, touchstart)
+~etoro.com,*##+js(aeld, touchstart)
 euronews.com##.js-swiper-button
 euronews.com###js-header:upward(1)
 euronews.com##nav
@@ -211,7 +212,7 @@ euronews.com##.c-social-share:upward(2)
 euronews.com##.c-font-size-switcher
 euronews.com##footer
 euronews.com##aside
-~hotukdeals.com,~etoro.com,~youtube.com,~aliexpress.com,~securedsigning.com*##+js(aeld, scroll)
+~hotukdeals.com,~etoro.com,~youtube.com,~aliexpress.com,~securedsigning.com,*##+js(aeld, scroll)
 dailymail.co.uk,thisismoney.co.uk##.beta
 dailymail.co.uk,thisismoney.co.uk##div[class^="previousBtn"]
 thesun.co.uk##div[class*="header"]
