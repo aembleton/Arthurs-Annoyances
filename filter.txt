@@ -1,7 +1,8 @@
 ! Title: Arthur's Annoyances
-! Last modified: 3 May 2021
+! Last modified: 4 May 2021
 ! Expires: 1 days (update frequency)
 
+@@||plausible.io
 aliexpress.com##div>div:has-text(Subscribe)
 aliexpress.com##.coupon-poplayer-modal
 circuitbasics.com##div[class*='sidebar']
