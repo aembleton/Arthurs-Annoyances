@@ -2,6 +2,7 @@
 ! Last modified: 5 May 2021
 ! Expires: 1 days (update frequency)
 
+@@||kinja-static.com
 @@||ststat.net
 @@||plausible.io
 aliexpress.com##div>div:has-text(Subscribe)
