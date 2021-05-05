@@ -2,6 +2,8 @@
 ! Last modified: 5 May 2021
 ! Expires: 1 days (update frequency)
 
+theguardian.com##div[data-visuals-hook='article-anniversary-atom']:upward(2)
+theguardian.com##div[data-cy='embed-block']:upward(1)
 @@||kinja-static.com
 @@||ststat.net
 @@||plausible.io
