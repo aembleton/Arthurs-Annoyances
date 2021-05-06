@@ -3,9 +3,6 @@
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances
 
-!#include https://filters.adtidy.org/android/filters/17.txt
-!#include https://raw.githubusercontent.com/DandelionSprout/adfilt/master/LegitimateURLShortener.txt
-
 theguardian.com##div[data-visuals-hook='article-anniversary-atom']:upward(2)
 theguardian.com##div[data-cy='embed-block']:upward(1)
 @@||kinja-static.com
