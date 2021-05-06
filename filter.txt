@@ -220,7 +220,7 @@ euronews.com##.c-social-share:upward(2)
 euronews.com##.c-font-size-switcher
 euronews.com##footer
 euronews.com##aside
-~hotukdeals.com,~etoro.com,~youtube.com,~aliexpress.com,~securedsigning.com,*##+js(aeld, scroll)
+~hotukdeals.com,~etoro.com,~youtube.com,~aliexpress.com,~securedsigning.com,bbc.co.uk,*##+js(aeld, scroll)
 dailymail.co.uk,thisismoney.co.uk##.beta
 dailymail.co.uk,thisismoney.co.uk##div[class^="previousBtn"]
 thesun.co.uk##div[class*="header"]
