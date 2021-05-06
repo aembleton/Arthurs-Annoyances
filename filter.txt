@@ -3,6 +3,7 @@
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances
 
+@@||pressablecdn.com
 theguardian.com##div[data-visuals-hook='article-anniversary-atom']:upward(2)
 theguardian.com##div[data-cy='embed-block']:upward(1)
 @@||kinja-static.com
