@@ -1,8 +1,13 @@
 ! Title: Arthur's Annoyances
-! TimeUpdated: 2021-06-07
+! TimeUpdated: 2021-06-11
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances
 
+@@||cdnppb.net
+@@||cryptpad.fr$domain=cryptpad.info
+mirror.co.uk##header
+mirror.co.uk##aside
+mirror.co.uk##email-slide-in
 h2-view.com##.sticky
 h2-view.com##.gws-ad-story
 @@||thcdn.com
