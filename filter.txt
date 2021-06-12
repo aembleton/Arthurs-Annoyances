@@ -1,8 +1,11 @@
 ! Title: Arthur's Annoyances
-! TimeUpdated: 2021-06-11
+! TimeUpdated: 2021-06-12
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances
 
+@@||bstatic.com$domain=booking.com
+@@||versus.io$domain=versus.com
+@@||nc-img.com$domain=namecheap.com
 @@||cdnppb.net
 @@||cryptpad.fr$domain=cryptpad.info
 mirror.co.uk##header
