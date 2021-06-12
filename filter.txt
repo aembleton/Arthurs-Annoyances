@@ -3,6 +3,10 @@
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances
 
+@@||polyfill.io
+@@||openlayers.org
+suncalc.org###legendeW
+mooncalc.org###legendeW
 @@||bstatic.com$domain=booking.com
 @@||versus.io$domain=versus.com
 @@||nc-img.com$domain=namecheap.com
