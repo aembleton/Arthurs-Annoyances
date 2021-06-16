@@ -1,8 +1,16 @@
 ! Title: Arthur's Annoyances
-! TimeUpdated: 2021-06-12
+! TimeUpdated: 2021-06-16
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances
 
+@@||r9cdn.net
+@@||skipcdn.net
+dailymail.co.uk##.moduleHalf
+dailymail.co.uk###reader-comments
+dailymail.co.uk###infinite-list
+dailymail.co.uk##.footer
+dailymail.co.uk##.page-footer
+dailymail.co.uk##.and-footer
 @@||polyfill.io
 @@||openlayers.org
 suncalc.org###legendeW
