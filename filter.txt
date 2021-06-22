@@ -3,6 +3,7 @@
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances
 
+telegraph.co.uk##aside
 @@||shopifycs.com
 @@||cdn-website.com
 @@||r9cdn.net
