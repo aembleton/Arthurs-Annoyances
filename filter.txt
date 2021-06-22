@@ -3,6 +3,7 @@
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances
 
+reddit.com##span:has-text(Stickied comment):upward(7)
 forbes.com##header
 forbes.com##.top-contrib-block
 forbes.com##.top-tweet-quotes
