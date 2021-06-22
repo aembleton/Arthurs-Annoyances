@@ -3,6 +3,11 @@
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances
 
+forbes.com##header
+forbes.com##.top-contrib-block
+forbes.com##.top-tweet-quotes
+forbes.com##.article-sharing
+@@||forbesimg.com$domain=forbes.com
 provideocoalition.com###right-sidebar
 @@||xvideos-cdn.com
 @@||powerreviews.com
@@ -254,7 +259,7 @@ euronews.com##.c-social-share:upward(2)
 euronews.com##.c-font-size-switcher
 euronews.com##footer
 euronews.com##aside
-~hotukdeals.com,~etoro.com,~youtube.com,~aliexpress.com,~securedsigning.com,~bbc.co.uk,~sofology.co.uk,~threadreaderapp,~kiwi.com,*##+js(aeld, scroll)
+~hotukdeals.com,~etoro.com,~youtube.com,~aliexpress.com,~securedsigning.com,~bbc.co.uk,~sofology.co.uk,~threadreaderapp,~kiwi.com,~forbes.com*##+js(aeld, scroll)
 dailymail.co.uk,thisismoney.co.uk##.beta
 dailymail.co.uk,thisismoney.co.uk##div[class^="previousBtn"]
 thesun.co.uk##div[class*="header"]
