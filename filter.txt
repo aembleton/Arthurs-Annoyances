@@ -3,6 +3,11 @@
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances
 
+provideocoalition.com###right-sidebar
+@@||xvideos-cdn.com
+@@||powerreviews.com
+petshop.co.uk##div[class*='upsell']
+petshop.co.uk##.order-wizard-freeitems-module
 dailymail.co.uk##.item
 telegraph.co.uk##aside
 @@||shopifycs.com
