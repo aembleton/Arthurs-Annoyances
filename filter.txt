@@ -1,8 +1,10 @@
 ! Title: Arthur's Annoyances
-! TimeUpdated: 2021-06-22
+! TimeUpdated: 2021-06-23
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances
 
+express.co.uk##.taboola-above-article
+alternativeto.net##span:has-text(Sponsored):upward(3)
 reddit.com##span:has-text(Stickied comment):upward(7)
 forbes.com##header
 forbes.com##.top-contrib-block
