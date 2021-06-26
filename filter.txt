@@ -3,6 +3,8 @@
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances
 
+@@||untappdapi.com
+@@||untappd.com
 @@||ticketweb.com$domain=ticketweb.uk
 express.co.uk##.taboola-above-article
 alternativeto.net##span:has-text(Sponsored):upward(3)
