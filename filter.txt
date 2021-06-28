@@ -1,5 +1,5 @@
 ! Title: Arthur's Annoyances
-! TimeUpdated: 2021-06-24
+! TimeUpdated: 2021-06-28
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances
 
@@ -8,7 +8,7 @@
 @@||ticketweb.com$domain=ticketweb.uk
 express.co.uk##.taboola-above-article
 alternativeto.net##span:has-text(Sponsored):upward(3)
-reddit.com##span:has-text(Stickied comment):upward(7)
+reddit.com##span:has-text(AutoModerator):upward(7)
 forbes.com##header
 forbes.com##.top-contrib-block
 forbes.com##.top-tweet-quotes
