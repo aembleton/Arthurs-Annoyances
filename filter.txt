@@ -1,8 +1,10 @@
 ! Title: Arthur's Annoyances
-! TimeUpdated: 2021-06-29
+! TimeUpdated: 2021-07-02
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances
 
+dailymail.co.uk###next-story
+@@||zohowebstatic.com$domain=zoho.com
 pressgazette.co.uk##.article-sidebar-column
 @@||visualwebsiteoptimizer.com
 @@||untappdapi.com
