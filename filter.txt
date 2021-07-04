@@ -3,6 +3,8 @@
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances
 
+@@||liveres.co.uk
+@@||wpmucdn.com
 independent.co.uk##h2:has-text(UK news in pictures):upward(3)
 dailymail.co.uk###next-story
 @@||zohowebstatic.com$domain=zoho.com
