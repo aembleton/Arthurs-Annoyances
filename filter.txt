@@ -1,8 +1,12 @@
 ! Title: Arthur's Annoyances
-! TimeUpdated: 2021-07-02
+! TimeUpdated: 2021-07-05
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances
 
+independent.co.uk##div[data-mpu1]
+independent.co.uk##.gallery-btn:upward(1)
+independent.co.uk###stickyFooterRoot
+independent.co.uk##div[id^="playinc"]:upward(1)
 @@||liveres.co.uk
 @@||wpmucdn.com
 independent.co.uk##h2:has-text(UK news in pictures):upward(3)
