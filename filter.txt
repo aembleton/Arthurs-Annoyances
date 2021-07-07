@@ -3,6 +3,8 @@
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances
 
+@@||mubicdn.net$domain=mubi.com
+@@||ikea.net$domain=ikea.com
 independent.co.uk##div[data-mpu1]
 independent.co.uk##.gallery-btn:upward(1)
 independent.co.uk###stickyFooterRoot
