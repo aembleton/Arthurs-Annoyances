@@ -1,8 +1,11 @@
 ! Title: Arthur's Annoyances
-! TimeUpdated: 2021-07-07
+! TimeUpdated: 2021-07-09
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances
 
+@@||frontapp.com
+scandasia.com##.widget-area
+theprint.in##mybot
 @@||mubicdn.net$domain=mubi.com
 @@||ikea.net$domain=ikea.com
 independent.co.uk##div[data-mpu1]
