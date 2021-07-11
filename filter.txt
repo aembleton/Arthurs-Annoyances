@@ -1,8 +1,10 @@
 ! Title: Arthur's Annoyances
-! TimeUpdated: 2021-07-09
+! TimeUpdated: 2021-07-11
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances
 
+@@||atomz.com
+@@||tnew-assets.com
 genius.com##apple-music-player
 @@||frontapp.com
 scandasia.com##.widget-area
