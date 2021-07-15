@@ -1,8 +1,11 @@
 ! Title: Arthur's Annoyances
-! TimeUpdated: 2021-07-13
+! TimeUpdated: 2021-07-15
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances
 
+theatlantic.com##.subscribeWall
+theatlantic.com##.promo-subscribe
+whathifi.com###sidebar
 @@||tmconst.com$domain=ticketmaster.*
 stylist.co.uk##div[data-widget="fondue"]
 @@||atomz.com
