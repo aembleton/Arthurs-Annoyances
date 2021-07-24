@@ -3,6 +3,15 @@
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances
 
+@@||atomz.com
+@@||tnew-assets.com
+standard.co.uk##aside
+standard.co.uk###header
+standard.co.uk##amp-base-carousel:upward(1)
+standard.co.uk##article>div:nth-of-type(1)
+standard.co.uk##nav
+standard.co.uk##.social-share:upward(1)
+@@||wsimg.com
 theatlantic.com##.subscribeWall
 theatlantic.com##.promo-subscribe
 whathifi.com###sidebar
