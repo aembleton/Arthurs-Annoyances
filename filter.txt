@@ -1,8 +1,9 @@
 ! Title: Arthur's Annoyances
-! TimeUpdated: 2021-07-27
+! TimeUpdated: 2021-07-30
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances
 
+@@||smassets.net$domain=surveymonkey.co.uk
 @@||atomz.com
 @@||tnew-assets.com
 standard.co.uk##aside
