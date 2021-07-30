@@ -493,7 +493,6 @@ yahoo.com##.provider-link
 yahoo.com###YDC-Hero
 yahoo.com##.sticky-outer-wrapper
 yahoo.com##.share-button-group
-duckduckgo.com##a[href*="dailytelegraph.com.au" i]:upward(2)
 @@adis.ws$script
 @@bazaarvoice.com$script
 @@cardinalcommerce.com$script
