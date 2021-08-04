@@ -1,8 +1,9 @@
 ! Title: Arthur's Annoyances
-! TimeUpdated: 2021-08-02
+! TimeUpdated: 2021-08-04
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances
 
+dailydot.com##footer
 @@||targetimg1.com$domain=target.com
 businessinsider.com###formContainer
 businessinsider.com##a[data-e2e-name="inline-read-more-link"]:upward(2)
