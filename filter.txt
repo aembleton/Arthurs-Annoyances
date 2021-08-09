@@ -3,6 +3,11 @@
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances
 
+makeinjava.com##.shareit
+unherd.com###mc_signup:upward(2)
+inews.co.uk##[class$="readmore"]
+inews.co.uk##button
+@@||parkrun.$domain=parkrun.*
 dailydot.com##footer
 @@||targetimg1.com$domain=target.com
 businessinsider.com###formContainer
