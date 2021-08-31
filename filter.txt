@@ -1,8 +1,9 @@
 ! Title: Arthur's Annoyances
-! TimeUpdated: 2021-08-31
+! TimeUpdated: 2021-09-01
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances
 
+dailymail.co.uk##[data-newsletter-floater]
 @@||twitchcdn.net$domain=twitch.tv
 makeinjava.com##.shareit
 unherd.com###mc_signup:upward(2)
