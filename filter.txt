@@ -1,8 +1,13 @@
 ! Title: Arthur's Annoyances
-! TimeUpdated: 2021-09-01
+! TimeUpdated: 2021-09-03
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances
 
+@@||jitsi.net$domain=jit.si
+opendemocracy.net##div[class*="cta"]
+opendemocracy.net##.related-story
+zdnet.com###onetrust-consent-sdk
+@@||meetupstatic.com$domain=meetup.com
 dailymail.co.uk##[data-newsletter-floater]
 @@||twitchcdn.net$domain=twitch.tv
 makeinjava.com##.shareit
