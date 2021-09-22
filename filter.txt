@@ -1,8 +1,29 @@
 ! Title: Arthur's Annoyances
-! TimeUpdated: 2021-09-03
+! TimeUpdated: 2021-09-22
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances
 
+@@||appmifile.com$domain=mi.com
+@@||zooplus.io
+@@||mediazs.com
+@@||kxcdn.com
+@@||everviz.com
+businessinsider.com##section[class^="content-recommendations"]
+hindustantimes.com##.openAppButton
+hindustantimes.com##.close-btn
+hindustantimes.com###header
+hindustantimes.com##.leftNav
+hindustantimes.com##.shareSticky
+hindustantimes.com##.breadcrumbs
+hindustantimes.com##.catName
+hindustantimes.com###section_news
+hindustantimes.com##.shareArticle
+hindustantimes.com##.storyTopics
+hindustantimes.com##.relatedStory
+hindustantimes.com##.subscribe
+hindustantimes.com##.trendingSlider
+hindustantimes.com##.section_news
+hindustantimes.com###more-news
 @@||jitsi.net$domain=jit.si
 opendemocracy.net##div[class*="cta"]
 opendemocracy.net##.related-story
