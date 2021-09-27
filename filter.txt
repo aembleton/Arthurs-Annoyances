@@ -1,8 +1,21 @@
 ! Title: Arthur's Annoyances
-! TimeUpdated: 2021-09-23
+! TimeUpdated: 2021-09-27
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances
 
+@@||aexp-static.com$domain=americanexpress.com
+confidentials.com##header
+@@||xhcdn.com$domain=xhamster.com
+qz.com###marquee-ad:upward(2)
+qz.com##nav
+qz.com##.afUrL:upward(1)
+qz.com##div[aria-hidden]
+qz.com##svg:upward(3)
+qz.com##button:upward(3)
+qz.com###spotlight-1:upward(2)
+qz.com##h2:upward(2)
+qz.com##ul:upward(1)
+qz.com##footer
 arcpublishing.com
 @@||g792337340.co
 @@||appmifile.com$domain=mi.com
