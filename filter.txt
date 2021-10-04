@@ -3,6 +3,7 @@
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances
 
+@@||editmysite.com
 standard.co.uk##.video:upward(1)
 @@||aexp-static.com$domain=americanexpress.com
 confidentials.com##header
