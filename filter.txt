@@ -1,8 +1,16 @@
 ! Title: Arthur's Annoyances
-! TimeUpdated: 2021-10-07
+! TimeUpdated: 2021-10-10
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances
 
+insider.com###formContainer
+insider.com##.crossword-promotion-container
+insider.com##.post-content-more
+insider.com##.post-content-category
+insider.com##footer
+insider.com##.share-wrapper
+insider.com##.post-meta
+insider.com##header
 cityam.com##.header
 cityam.com##.author-meta-upper
 cityam.com##strong:has-text(Also Read:):upward(2)
