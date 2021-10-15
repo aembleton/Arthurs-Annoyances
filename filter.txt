@@ -1,8 +1,18 @@
 ! Title: Arthur's Annoyances
-! TimeUpdated: 2021-10-13
+! TimeUpdated: 2021-10-15
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances
 
+@@||tiktokcdn.com$domain=tiktok.com
+@@||ibytedtos.com$domain=tiktok.com
+nknews.org###post_share
+nknews.org##.hide-on-mobile
+nknews.org###header-top
+nknews.org###main-navigation
+nknews.org##.footer
+nknews.org###fake_end_point
+nknews.org##.content-tags
+nknews.org##.col-lg-9:style(max-width:935px !important; margin-right:auto !important; margin-left:auto !important;)
 @@||oppwa.com
 telegraph.co.uk##.grid:style(grid-template-columns:none !important; margin-left:auto !important; margin-right:auto !important; width:960px !important;)
 telegraph.co.uk##.site-header-wrapper
