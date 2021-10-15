@@ -3,6 +3,10 @@
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances
 
+independent.co.uk##div.iAFiXf.sc-eppuIo > h3
+independent.co.uk##.taboola
+independent.co.uk##blockquote:upward(2)
+independent.co.uk##amp-twitter:upward(1):style(min-height:0 !important;)
 @@||tiktokcdn.com$domain=tiktok.com
 @@||ibytedtos.com$domain=tiktok.com
 nknews.org###post_share
