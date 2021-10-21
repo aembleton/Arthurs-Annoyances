@@ -1,8 +1,10 @@
 ! Title: Arthur's Annoyances
-! TimeUpdated: 2021-10-18
+! TimeUpdated: 2021-10-21
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances
 
+@@||ashbyhq.com
+@@||ashbyprd.com
 contractorcalculator.co.uk##aside
 contractoruk.com##.section-1
 manchestermill.co.uk##h4
@@ -615,7 +617,7 @@ bbcgoodfood.com##+js(aopr, Drupal.behaviors.smartBanner)
 @@cloudflare.com$script
 @@jsdelivr.net$script
 @@jquery.com$script
-@@||google.com$script,domain=~medium.com|~indianexpress.com|~mirror.co.uk|~express.co.uk|~dailystar.co.uk|~dailyrecord.co.uk|~sundaymail.co.uk|~walesonline.co.uk|~reachplc.com|~birminghampost.co.uk|~birminghamlive.co.uk|~sundaymercury.net|~bristolpost.co.uk|~buckinghamshireexaminer.co.uk|~coventrytelegraph.net|~derbytelegraph.co.uk|~chroniclelive.co.uk|~gazettelive.co.uk|~devonlive.com|~examiner.co.uk|~hulldailymail.co.uk|~journallive.co.uk|~leicestermercury.co.uk|~liverpoolecho.co.uk|~loughboroughecho.net|~manchestereveningnews.co.uk|~dailypost.co.uk|~nottinghampost.com|~oldhamadvertiser.co.uk|~paisleydailyexpress.co.uk|~getreading.co.uk|~rochdaleobserver.co.uk|~salfordadvertiser.co.uk|~stockportexpress.co.uk|~stokesentinel.co.uk|~southmanchesterreporter.co.uk|~walesonline.co.uk|~sundaysun.co.uk|~tamesideadvertiser.co.uk|~glossopadvertiser.co.uk|~ayrshirepost.net|~dgstandard.co.uk|~hamiltonadvertiser.co.uk|~perthshireadvertiser.co.uk|~belfasttoday.net|~donegaldemocrat.ie|~derryjournal.com|~jpimedia.co.uk|~thejournal.ie|~thenewday.co.uk|~grimsbytelegraph.co.uk|~harrowobserver.co.uk|~gloucestershirelive.co.uk|~kiwi.com
+@@||google.com$script,domain=~medium.com|~indianexpress.com|~mirror.co.uk|~express.co.uk|~dailystar.co.uk|~dailyrecord.co.uk|~sundaymail.co.uk|~walesonline.co.uk|~reachplc.com|~birminghampost.co.uk|~birminghamlive.co.uk|~sundaymercury.net|~bristolpost.co.uk|~buckinghamshireexaminer.co.uk|~coventrytelegraph.net|~derbytelegraph.co.uk|~chroniclelive.co.uk|~gazettelive.co.uk|~devonlive.com|~examiner.co.uk|~hulldailymail.co.uk|~journallive.co.uk|~leicestermercury.co.uk|~liverpoolecho.co.uk|~loughboroughecho.net|~manchestereveningnews.co.uk|~dailypost.co.uk|~nottinghampost.com|~oldhamadvertiser.co.uk|~paisleydailyexpress.co.uk|~getreading.co.uk|~rochdaleobserver.co.uk|~salfordadvertiser.co.uk|~stockportexpress.co.uk|~stokesentinel.co.uk|~southmanchesterreporter.co.uk|~walesonline.co.uk|~sundaysun.co.uk|~tamesideadvertiser.co.uk|~glossopadvertiser.co.uk|~ayrshirepost.net|~dgstandard.co.uk|~hamiltonadvertiser.co.uk|~perthshireadvertiser.co.uk|~belfasttoday.net|~donegaldemocrat.ie|~derryjournal.com|~jpimedia.co.uk|~thejournal.ie|~thenewday.co.uk|~grimsbytelegraph.co.uk|~harrowobserver.co.uk|~gloucestershirelive.co.uk|~kiwi.com|~imgur.com
 @@*github*$script,domain=github.com
 @@cloudfront.net$script
 @@*ebay*$script,domain=ebay.*
