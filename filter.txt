@@ -3,6 +3,7 @@
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances
 
+@@||media-lab.ai$domain=imgur.com
 accounts.google.com$domain=~google.*|~youtube.com|~gmail.com
 @@||ashbyhq.com
 @@||ashbyprd.com
