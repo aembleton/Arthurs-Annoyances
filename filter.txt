@@ -1,8 +1,10 @@
 ! Title: Arthur's Annoyances
-! TimeUpdated: 2021-10-21
+! TimeUpdated: 2021-10-27
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances
 
+yifyhdtorrent.com##.direct-link:style(display:none !important;)
+yifyhdtorrent.com##.non-direct:style(display:block !important;)
 @@||media-lab.ai$domain=imgur.com
 accounts.google.com$domain=~google.*|~youtube.com|~gmail.com
 @@||ashbyhq.com
