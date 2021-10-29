@@ -1,8 +1,11 @@
 ! Title: Arthur's Annoyances
-! TimeUpdated: 2021-10-28
+! TimeUpdated: 2021-10-29
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances
 
+@@||trustpilot.net$domain=trustpilot.com
+@@||sentry-cdn.com
+@@||retool-edge.com
 @@||ly200-cdn.com
 @@||comparisoncreator.com
 yifyhdtorrent.com##.direct-link:style(display:none !important;)
