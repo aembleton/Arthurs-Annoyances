@@ -3,6 +3,14 @@
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances
 
+techradar.com##.dfp-leaderboard-container
+techradar.com##.vid-present
+techradar.com##ul
+techradar.com###in-article
+techradar.com##.author-block
+techradar.com##.block-link:upward(1)
+techradar.com##footer
+techradar.com##.onesignal-customlink-container
 radiotimes.com##.widget-newsletter-sign-up:upward(1)
 techradar.com##article:style(max-width:100% !important;)
 techradar.com##.regionRedirectBanner
