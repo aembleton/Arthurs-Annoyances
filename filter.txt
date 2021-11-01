@@ -1,8 +1,11 @@
 ! Title: Arthur's Annoyances
-! TimeUpdated: 2021-10-29
+! TimeUpdated: 2021-11-01
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances
 
+radiotimes.com##.widget-newsletter-sign-up:upward(1)
+techradar.com##article:style(max-width:100% !important;)
+techradar.com##.regionRedirectBanner
 @@||trustpilot.net$domain=trustpilot.com
 @@||sentry-cdn.com
 @@||retool-edge.com
