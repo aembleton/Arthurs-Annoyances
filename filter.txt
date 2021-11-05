@@ -271,7 +271,6 @@ nytimes.com##+js(cookie-remover,)
 @@||observableusercontent.com$domain=observablehq.com
 @@||static.observableusercontent.com$domain=static.observableusercontent.com
 @@||d3js.org
-@@||sstatic.net$domain=stackoverflow.com
 @@||fbcdn.net$domain=facebook.com
 @@||scribdassets.com$domain=scribd.com
 @@||opentable.co.uk
