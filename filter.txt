@@ -222,7 +222,7 @@ circuitbasics.com##div[class*='sidebar']
 @@||arcgis.com
 @@||netlify.app
 genius.com##div[class^="AppleMusic"]
-@@||sstatic.net$domain=stackexchange.com
+@@||sstatic.net
 advertiserandtimes.co.uk##.sidebar
 advertiserandtimes.co.uk##.advert
 advertiserandtimes.co.uk##header
