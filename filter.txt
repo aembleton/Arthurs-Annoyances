@@ -1,8 +1,9 @@
 ! Title: Arthur's Annoyances
-! TimeUpdated: 2021-11-02
+! TimeUpdated: 2021-11-13
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances
 
+@@||bustle.com
 @@||lteplatform.com
 solar.lowtechmagazine.com##blockquote
 techradar.com##.dfp-leaderboard-container
