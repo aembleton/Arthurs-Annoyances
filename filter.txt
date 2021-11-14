@@ -1,8 +1,12 @@
 ! Title: Arthur's Annoyances
-! TimeUpdated: 2021-11-13
+! TimeUpdated: 2021-11-14
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances
 
+@@||medallia.$domain=medallia.*
+@@||brightspotcdn.com
+@@||cdn-apple.com$domain=apple.com
+@@||oracle.com$domain=oraclecloud.com
 @@||bustle.com
 @@||lteplatform.com
 solar.lowtechmagazine.com##blockquote
