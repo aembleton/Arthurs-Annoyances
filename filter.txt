@@ -1,8 +1,9 @@
 ! Title: Arthur's Annoyances
-! TimeUpdated: 2021-11-17
+! TimeUpdated: 2021-11-19
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances
 
+@@||fbgcdn.com
 @@||randemcommerce.com
 @@||ttwstatic.com$domain=tiktok.com
 @@||medallia.$domain=medallia.*
