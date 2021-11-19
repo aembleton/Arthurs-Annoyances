@@ -288,7 +288,7 @@ telegraph.co.uk##.html-embed
 koreatimes.co.kr##.view_right_div
 @@||androidauthority$domain=androidauthority.*
 @@||msauth.net$domain=microsoftonline.com
-@@||office.net$domain=office.com,microsoft.com
+@@||office.net$domain=office.com|microsoft.com
 @@||atl-paas.net$domain=atlassian.com
 @@||futurecdn.net
 @@||olympus.eu$domain=olympus.*
