@@ -3,6 +3,7 @@
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances
 
+dailymail.co.uk###mobile-content:style(margin-top:0 !important;)
 @@||grammarly.io$domain=grammarly.com
 dailymail.co.uk##.scrollable-content:style(padding-top:0 !important;)
 @@||fbgcdn.com
