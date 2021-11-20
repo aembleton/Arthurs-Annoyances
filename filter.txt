@@ -3,6 +3,7 @@
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances
 
+@@||s-microsoft.com$domain=microsoft.com
 vice.com##.navbar-wrapper
 vice.com##div[style]
 vice.com##.article__header__rubric
