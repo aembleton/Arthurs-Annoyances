@@ -3,6 +3,23 @@
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances
 
+vice.com##.navbar-wrapper
+vice.com##div[style]
+vice.com##.article__header__rubric
+vice.com##.article__header:style(border-top:none !important;)
+vice.com##.article__header__datebar
+vice.com##.main-content > div > .observer > .observer__content > .short-form > .short-form__body > .short-form__body__right-rail
+vice.com##.abc__article_embed
+vice.com##.article-newsletter-signup
+vice.com##.recirc-footer
+vice.com##.inbody-article
+vice.com##.page-footer
+vice.com##.short-form__body:style(display:block !important; max-width:100% !important;)
+vice.com##.short-form__body__article-body:style(max-width:100% !important;)
+vice.com##.article__body-components:style(max-width:100% !important;)
+vice.com##.short-form__body__article-lede-image:style(max-width:100% !important;)
+vice.com##.article__header__dek-contributions:style(width:100% !important; max-width:100% !important;)
+vice.com##.short-form:style(padding:0 !important; width:50% !important;)
 dailymail.co.uk###mobile-content:style(margin-top:0 !important;)
 @@||grammarly.io$domain=grammarly.com
 dailymail.co.uk##.scrollable-content:style(padding-top:0 !important;)
