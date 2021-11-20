@@ -1,8 +1,10 @@
 ! Title: Arthur's Annoyances
-! TimeUpdated: 2021-11-19
+! TimeUpdated: 2021-11-20
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances
 
+@@||grammarly.io$domain=grammarly.com
+dailymail.co.uk##.scrollable-content:style(padding-top:0 !important;)
 @@||fbgcdn.com
 @@||randemcommerce.com
 @@||ttwstatic.com$domain=tiktok.com
