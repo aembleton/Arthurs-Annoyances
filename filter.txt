@@ -3,6 +3,22 @@
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances
 
+theguardian.com##div[id^="sp_message_container_"]
+@@||b-cdn.net
+bigissue.com##.-ad
+bigissue.com###header
+bigissue.com##.polaris__breadcrumb
+bigissue.com##.-article-social-container
+bigissue.com##.polaris__simple-grid--aside
+bigissue.com##.polaris__simple-grid--full
+bigissue.com##.polaris__subscription
+bigissue.com##.-inline:upward(3)
+bigissue.com##.-primary:upward(1)
+bigissue.com##.polaris__article-group:upward(1)
+bigissue.com###footer
+bigissue.com##.polaris__simple-grid:style(display:block !important;)
+bigissue.com##.polaris__simple-grid:style(max-width:800px !important;)
+bigissue.com##.polaris__simple-grid--body-content:style(display:block !important;)
 @@||s-microsoft.com$domain=microsoft.com
 vice.com##.navbar-wrapper
 vice.com##div[style]
@@ -857,7 +873,7 @@ cambrian-news.co.uk##Cloudflare-app
 theverge.com##.c-float-left
 theverge.com##.c-read-more
 threadreaderapp.com##.sharingfooter
-||www.economist.com^$script,1p
+||economist.com^$script,1p
 forbes.com##.video-player
 ||mindtools.com^$script,1p
 ||embed.tawk.to^
