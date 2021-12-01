@@ -1,8 +1,9 @@
 ! Title: Arthur's Annoyances
-! TimeUpdated: 2021-11-30
+! TimeUpdated: 2021-12-01
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances
 
+@@||scene7.com
 news.sky.com##.sdc-site-header
 news.sky.com##.sdc-article-significance
 news.sky.com##.site-share-wrapper
