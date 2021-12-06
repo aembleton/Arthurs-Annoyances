@@ -1,8 +1,10 @@
 ! Title: Arthur's Annoyances
-! TimeUpdated: 2021-12-01
+! TimeUpdated: 2021-12-06
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances
 
+unherd.com##.animated
+@@||maps.google.com
 @@||scene7.com
 news.sky.com##.sdc-site-header
 news.sky.com##.sdc-article-significance
