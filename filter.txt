@@ -3,6 +3,9 @@
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances
 
+@@||wayin.com
+@@||dropboxstatic.com$domain=dropbox.com
+@@||pay.google.com
 unherd.com##.animated
 @@||maps.google.com
 @@||scene7.com
