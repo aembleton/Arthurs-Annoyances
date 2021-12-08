@@ -1,5 +1,5 @@
 ! Title: Arthur's Annoyances
-! TimeUpdated: 2021-12-06
+! TimeUpdated: 2021-12-08
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances
 
@@ -88,7 +88,7 @@ contractoruk.com##.section-1
 manchestermill.co.uk##h4
 manchestermill.co.uk##.subscribe-widget
 manchestermill.co.uk##div > hr
-independent.co.uk##svg:upward(2)
+independent.co.uk##.js-comment-spinner-header:upward(1)
 independent.co.uk##h3
 independent.co.uk##.taboola
 independent.co.uk##amp-twitter:upward(1):style(min-height:0 !important;)
