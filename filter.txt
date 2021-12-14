@@ -1,8 +1,20 @@
 ! Title: Arthur's Annoyances
-! TimeUpdated: 2021-12-08
+! TimeUpdated: 2021-12-14
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances
 
+geeksforgeeks.org##.textBasedMannualAds
+substack.com##.subscribe-widget
+nation.cymru##header
+nation.cymru##.above-content-banner
+nation.cymru##aside
+nation.cymru##.mid-content
+nation.cymru##.sharedaddy
+nation.cymru##.comments
+nation.cymru##.supporters
+nation.cymru##footer
+nation.cymru##.cat-news
+nation.cymru##.content:upward(1):style(flex:100% !important; max-width:800px !important; margin-right:auto !important; margin-left:auto !important;)
 @@||wayin.com
 @@||dropboxstatic.com$domain=dropbox.com
 @@||pay.google.com
