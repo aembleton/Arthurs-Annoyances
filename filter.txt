@@ -3,6 +3,12 @@
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances
 
+thesun.co.uk##.breadcrumbs
+thesun.co.uk##.text-slug
+thesun.co.uk##.article:upward(1):style(width:100% !important;)
+thesun.co.uk##.personalisation-tooltip:upward(1)
+thesun.co.uk##.sun-row:style(max-width:800px !important;)
+thesun.co.uk###main-content:style(padding-top:0 !important;)
 geeksforgeeks.org##.textBasedMannualAds
 substack.com##.subscribe-widget
 nation.cymru##header
