@@ -3,6 +3,12 @@
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances
 
+euronews.com##.js-swip-btn
+euronews.com##.c-article-labels
+euronews.com##.js-responsive-iframes-container:style(width:800px !important)
+euronews.com##.o-article__body:style(max-width:800px !important; margin-left:auto !important; margin-right:auto !important)
+euronews.com##.article-wrapper:style(width:800px !important;)
+euronews.com###enw-main-content:style(margin-top:0 !important)
 thesun.co.uk##.breadcrumbs
 thesun.co.uk##.text-slug
 thesun.co.uk##.article:upward(1):style(width:100% !important;)
