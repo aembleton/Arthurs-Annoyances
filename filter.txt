@@ -3,6 +3,8 @@
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances
 
+news.sky.com###ghost-1
+dailymail.co.uk###top:style(max-width:800px !important;)
 euronews.com##.js-swip-btn
 euronews.com##.c-article-labels
 euronews.com##.js-responsive-iframes-container:style(width:800px !important)
