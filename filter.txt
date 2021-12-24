@@ -1,8 +1,10 @@
 ! Title: Arthur's Annoyances
-! TimeUpdated: 2021-12-17
+! TimeUpdated: 2021-12-24
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances
 
+@@||bauersecure.com
+@@||toyota-europe.com$domain=toyota.*
 news.sky.com###ghost-1
 euronews.com##.js-swip-btn
 euronews.com##.c-article-labels
