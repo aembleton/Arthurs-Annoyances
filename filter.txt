@@ -3,6 +3,7 @@
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances
 
+@@||bing.com
 ft.com##.n-layout__row--header
 ft.com##.o-topper__tags
 ft.com##.share-nav
