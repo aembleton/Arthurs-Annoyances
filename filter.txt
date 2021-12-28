@@ -13,7 +13,7 @@ ft.com##.article-tools
 ft.com##.instant-alert-cta
 ft.com##.article-print
 mirror.co.uk##.lead-content__lead-element
-spiked-online.com##img[src="https://gstatic.com/images/icons/material/system/1x/warning_amber_24dp.png"]:upward(2)
+spiked-online.com##img[src="https://wwww.gstatic.com/images/icons/material/system/1x/warning_amber_24dp.png"]:upward(2)
 spiked-online.com##footer
 spiked-online.com###comments-wrap
 spiked-online.com###sticky-sharing
