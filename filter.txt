@@ -1,8 +1,16 @@
 ! Title: Arthur's Annoyances
-! TimeUpdated: 2021-12-28
+! TimeUpdated: 2022-01-07
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances
 
+grough.co.uk###header
+grough.co.uk###mai-navpath
+grough.co.uk##.options
+grough.co.uk###mai-rtmenu
+grough.co.uk##.article-comments
+grough.co.uk###footer
+amusingplanet.com##.sidebar.col-lg-3
+@@||webflow.com
 @@||bing.com
 ft.com##.n-layout__row--header
 ft.com##.o-topper__tags
