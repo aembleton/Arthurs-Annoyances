@@ -1,8 +1,11 @@
 ! Title: Arthur's Annoyances
-! TimeUpdated: 2022-01-07
+! TimeUpdated: 2022-01-18
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances
 
+@@||dsautomobiles.com$domain=dsautomobiles.*
+@@||google.com/recaptcha/*$script
+@@||salford.gov.uk$domain=mappinggm.org.uk
 grough.co.uk###header
 grough.co.uk###mai-navpath
 grough.co.uk##.options
