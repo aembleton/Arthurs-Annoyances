@@ -3,6 +3,7 @@
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances
 
+@@||sentry.dev$domain=sentry.io
 @@||dsautomobiles.com$domain=dsautomobiles.*
 @@||google.com/recaptcha/*$script
 @@||salford.gov.uk$domain=mappinggm.org.uk
