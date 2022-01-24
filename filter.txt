@@ -3,6 +3,7 @@
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances
 
+deliciousmagazine.co.uk##.main-content:style(margin-top:140px !important;)
 cinch.co.uk##p[data-testid="vehicle-is-reserved"]:upward(3)
 cinch.co.uk##.j5_NX:upward(1)
 thesun.co.uk##.article-carousel-container:style(padding-top:0 !important;)
