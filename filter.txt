@@ -1,8 +1,15 @@
 ! Title: Arthur's Annoyances
-! TimeUpdated: 2022-01-18
+! TimeUpdated: 2022-01-24
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances
 
+cinch.co.uk##p[data-testid="vehicle-is-reserved"]:upward(3)
+cinch.co.uk##.j5_NX:upward(1)
+thesun.co.uk##.article-carousel-container:style(padding-top:0 !important;)
+thesun.co.uk##.sun-row__article-content:style(padding:0 !important;)
+thesun.co.uk##.rail__cluster
+||thesun.co.uk/pollingwidgets/v3/polling$subdocument
+thesun.co.uk##.article-top-mobile:style(padding:0 !important;)
 @@||sentry.dev$domain=sentry.io
 @@||dsautomobiles.com$domain=dsautomobiles.*
 @@||google.com/recaptcha/*$script
