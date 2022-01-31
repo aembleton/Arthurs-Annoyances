@@ -1,8 +1,10 @@
 ! Title: Arthur's Annoyances
-! TimeUpdated: 2022-01-24
+! TimeUpdated: 2022-01-31
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances
 
+@@||c4assets.com$domain=channel4.com
+@@||contentsquare.net
 deliciousmagazine.co.uk##.main-content:style(margin-top:140px !important;)
 cinch.co.uk##p[data-testid="vehicle-is-reserved"]:upward(3)
 cinch.co.uk##.j5_NX:upward(1)
