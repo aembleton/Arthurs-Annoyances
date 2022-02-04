@@ -1,8 +1,13 @@
 ! Title: Arthur's Annoyances
-! TimeUpdated: 2022-01-31
+! TimeUpdated: 2022-02-04
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances
 
+@@||secureservercdn.net
+@@||c4assets.com$domain=channel4.com
+@@||hermescloud.co.uk$domain=hermesparcelreturn.co.uk
+@@||myhermes.co.uk$domain=hermesparcelreturn.co.uk
+@@||co-hire.com$domain=cord.co
 @@||c4assets.com$domain=channel4.com
 @@||contentsquare.net
 deliciousmagazine.co.uk##.main-content:style(margin-top:140px !important;)
