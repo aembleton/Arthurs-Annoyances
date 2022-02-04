@@ -119,7 +119,7 @@ vice.com##.short-form__body__article-body:style(max-width:100% !important;)
 vice.com##.article__body-components:style(max-width:100% !important;)
 vice.com##.short-form__body__article-lede-image:style(max-width:100% !important;)
 vice.com##.article__header__dek-contributions:style(width:100% !important; max-width:100% !important;)
-vice.com##.short-form:style(padding:0 !important; width:50% !important;)
+vice.com##.short-form:style(padding:0 !important; max-width:800px !important;)
 dailymail.co.uk###mobile-content:style(margin-top:0 !important;)
 @@||grammarly.io$domain=grammarly.com
 dailymail.co.uk##.scrollable-content:style(padding-top:0 !important;)
@@ -175,7 +175,7 @@ nknews.org###fake_end_point
 nknews.org##.content-tags
 nknews.org##.col-lg-9:style(max-width:935px !important; margin-right:auto !important; margin-left:auto !important;)
 @@||oppwa.com
-telegraph.co.uk##.grid:style(grid-template-columns:none !important; margin-left:auto !important; margin-right:auto !important; width:960px !important;)
+telegraph.co.uk##.grid:style(grid-template-columns:none !important; margin-left:auto !important; margin-right:auto !important; max-width:960px !important;)
 telegraph.co.uk##.site-header-wrapper
 telegraph.co.uk##.site-footer
 telegraph.co.uk##.article__end-meta
@@ -724,7 +724,7 @@ dzone.com##+js(acis, adtoniqAlertData)
 ||google-analytics.com/analytics.js$script,redirect=google-analytics_analytics.js
 ||google-analytics.com/inpage_linkid.js$script,redirect=google-analytics_inpage_linkid.js
 ||google-analytics.com/cx/api.js$script,redirect=google-analytics_cx_api.js
-||googletagservices.com/gpt.j$script,redirect=googletagservices_gpt.js
+||googletagsers.com/gpt.j$script,redirect=googletagservices_gpt.js
 ||googletagmanager.com/gtm.js$script,redirect=googletagmanager_gtm.js
 ||googlesyndication.com/adsbygoogle.js$script,redirect=googlesyndication_adsbygoogle.js
 ||scorecardresearch.com/beacon.js$script,redirect=scorecardresearch_beacon.js
