@@ -3,6 +3,10 @@
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances
 
+@@||ebay.com$domain=ebay.co.uk
+@@||visitouterhebrides.co.uk
+@@||office.net$domain=live.com
+@@||zara.net$domain=zara.com
 @@||secureservercdn.net
 @@||c4assets.com$domain=channel4.com
 @@||hermescloud.co.uk$domain=hermesparcelreturn.co.uk
