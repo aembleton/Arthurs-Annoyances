@@ -1,8 +1,11 @@
 ! Title: Arthur's Annoyances
-! TimeUpdated: 2022-02-04
+! TimeUpdated: 2022-02-10
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances
 
+@@||tfd.com$domain=thefreedictionary.com
+kimovil.com##.no-price:upward(4)
+@@||maptiler.com
 @@||ebay.com$domain=ebay.co.uk
 @@||visitouterhebrides.co.uk
 @@||office.net$domain=live.com
