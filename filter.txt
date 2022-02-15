@@ -1,8 +1,9 @@
 ! Title: Arthur's Annoyances
-! TimeUpdated: 2022-02-14
+! TimeUpdated: 2022-02-15
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances
 
+@@||cybersource.com
 @@||decathlon.net$domain=decathlon.co.uk
 @@||cookielaw.org
 @@||jspm.io
