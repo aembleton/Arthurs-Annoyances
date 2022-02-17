@@ -1,8 +1,13 @@
 ! Title: Arthur's Annoyances
-! TimeUpdated: 2022-02-15
+! TimeUpdated: 2022-02-17
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances
 
+@@||zohocdn.com$domain=zoho.*
+@@||zohostatic.*$domain=zoho.*
+@@||timberland.*$domain=timberland.*
+@@||maps-api-ssl.google.com
+@@||bookcdn.com
 @@||cybersource.com
 @@||decathlon.net$domain=decathlon.co.uk
 @@||cookielaw.org
@@ -546,7 +551,7 @@ buynothingproject.org##.sidebar-area
 @@||alicdn.com$domain=aliexpress.com
 @@||ordnancesurvey.co.uk
 euronews.com##.advertising
-~etoro.com,*##+js(aeld, touchstart)
+~etoro.com,~easyjet.com,*##+js(aeld, touchstart)
 euronews.com##.js-swiper-button
 euronews.com###js-header:upward(1)
 euronews.com##nav
@@ -577,7 +582,7 @@ express.co.uk##strong:has-text(READ MORE)
 express.co.uk##strong:has-text(DON'T MISS)
 express.co.uk##.viafoura
 theguardian.com###most-viewed-right:upward(3)
-*##+js(rc, sg-popup-builder-content)
+~easyjet.com,*##+js(rc, sg-popup-builder-content)
 reasonstobecheerful.world##header
 reasonstobecheerful.world##.sidebar-social-col
 reasonstobecheerful.world##.sidebar-article-wrap
