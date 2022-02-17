@@ -551,7 +551,7 @@ buynothingproject.org##.sidebar-area
 @@||alicdn.com$domain=aliexpress.com
 @@||ordnancesurvey.co.uk
 euronews.com##.advertising
-~etoro.com,~easyjet.com,*##+js(aeld, touchstart)
+~etoro.com,*##+js(aeld, touchstart)
 euronews.com##.js-swiper-button
 euronews.com###js-header:upward(1)
 euronews.com##nav
@@ -582,7 +582,7 @@ express.co.uk##strong:has-text(READ MORE)
 express.co.uk##strong:has-text(DON'T MISS)
 express.co.uk##.viafoura
 theguardian.com###most-viewed-right:upward(3)
-~easyjet.com,*##+js(rc, sg-popup-builder-content)
+*##+js(rc, sg-popup-builder-content)
 reasonstobecheerful.world##header
 reasonstobecheerful.world##.sidebar-social-col
 reasonstobecheerful.world##.sidebar-article-wrap
