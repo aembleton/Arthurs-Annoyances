@@ -1,8 +1,9 @@
 ! Title: Arthur's Annoyances
-! TimeUpdated: 2022-02-17
+! TimeUpdated: 2022-02-20
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances
 
+@@||google.*$domain=google.*
 @@||zohocdn.com$domain=zoho.*
 @@||zohostatic.*$domain=zoho.*
 @@||timberland.*$domain=timberland.*
