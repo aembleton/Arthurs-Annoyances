@@ -1,8 +1,12 @@
 ! Title: Arthur's Annoyances
-! TimeUpdated: 2022-02-20
+! TimeUpdated: 2022-02-24
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances
 
+@@||cdn-hotels.com$domain=hotels.com
+@@||tildacdn.com
+@@||c-dn.net
+@@||20i.com
 @@||google.*$domain=google.*
 @@||zohocdn.com$domain=zoho.*
 @@||zohostatic.*$domain=zoho.*
