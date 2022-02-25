@@ -1,8 +1,12 @@
 ! Title: Arthur's Annoyances
-! TimeUpdated: 2022-02-24
+! TimeUpdated: 2022-02-25
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances
 
+theverge.com##.scroll-target:upward(1)
+theverge.com##aside:upward(1)
+theverge.com##hr
+standard.co.uk##div:style(border-right:none !important;)
 @@||cdn-hotels.com$domain=hotels.com
 @@||tildacdn.com
 @@||c-dn.net
