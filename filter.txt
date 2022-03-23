@@ -1,8 +1,10 @@
 ! Title: Arthur's Annoyances
-! TimeUpdated: 2022-03-21
+! TimeUpdated: 2022-03-23
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances
 
+@@||dropboxcaptcha.com
+@@||arkoselabs.com
 @@||mastercard.com$domain=mastercard.*
 @@||framerusercontent.com
 @@||szn.cz$domain=mapy.cz
