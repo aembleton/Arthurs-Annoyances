@@ -1,8 +1,12 @@
 ! Title: Arthur's Annoyances
-! TimeUpdated: 2022-03-24
+! TimeUpdated: 2022-03-25
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances
 
+inews.co.uk##.inews__post__category-banner:upward(1)
+inews.co.uk##body:style(padding:0 !important;)
+inews.co.uk##.inews__main__primary__wrapper:style(display:-webkit-box !important;)
+inews.co.uk##.inews__shortcode-readmoreauto
 @@||evbstatic.com$domain=eventbrite.com
 @@||dropboxcaptcha.com
 @@||arkoselabs.com
@@ -421,7 +425,6 @@ spiked-online.com##.article-overflow
 @@||antavo.com
 @@||spatialbuzz.com
 @@||paddle.com
-inews.co.uk##.color-context
 inews.co.uk##.inews__header
 inews.co.uk##.inews__sidebar
 inews.co.uk##.inews__post-share
