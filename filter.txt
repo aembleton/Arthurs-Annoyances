@@ -1,8 +1,9 @@
 ! Title: Arthur's Annoyances
-! TimeUpdated: 2022-03-25
+! TimeUpdated: 2022-03-28
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances
 
+@@||mi-img.com$domain=mi.com
 inews.co.uk##.inews__post__category-banner:upward(1)
 inews.co.uk##body:style(padding:0 !important;)
 inews.co.uk##.inews__main__primary__wrapper:style(display:-webkit-box !important;)
