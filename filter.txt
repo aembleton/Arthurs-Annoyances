@@ -1,8 +1,19 @@
 ! Title: Arthur's Annoyances
-! TimeUpdated: 2022-03-29
+! TimeUpdated: 2022-04-06
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances
 
+@@||ekstatic.net$domain=emirates.com
+theguardian.com##figure > gu-island
+railinsider.co.uk##.td-header-template-wrap
+railinsider.co.uk##.raili-side-mpu-1:upward(3)
+railinsider.co.uk##.raili-test
+railinsider.co.uk##.raili-news-story-position-1
+railinsider.co.uk##.rum_sst_right
+cityam.com##.sidebar-layout:style(display:block !important;)
+cityam.com##.main:style(max-width:1000px !important;)
+cityam.com##aside
+cityam.com##nav
 @@||mi-img.com$domain=mi.com
 inews.co.uk##.inews__post__category-banner:upward(1)
 inews.co.uk##body:style(padding:0 !important;)
