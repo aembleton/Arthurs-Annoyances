@@ -1,8 +1,10 @@
 ! Title: Arthur's Annoyances
-! TimeUpdated: 2022-04-06
+! TimeUpdated: 2022-04-10
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances
 
+latimes.com##.rail
+@@||ideal-postcodes.co.uk
 @@||ekstatic.net$domain=emirates.com
 theguardian.com##figure > gu-island
 railinsider.co.uk##.td-header-template-wrap
