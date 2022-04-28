@@ -1,8 +1,9 @@
 ! Title: Arthur's Annoyances
-! TimeUpdated: 2022-04-13
+! TimeUpdated: 2022-04-28
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances
 
+@@||bookinghound.com
 thesun.co.uk##.read-more-container
 thesun.co.uk##.article-boxout
 forbes.com##.middleRightRail:style(max-width:750px !important;)
