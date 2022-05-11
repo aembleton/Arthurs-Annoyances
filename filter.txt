@@ -1,8 +1,14 @@
 ! Title: Arthur's Annoyances
-! TimeUpdated: 2022-04-28
+! TimeUpdated: 2022-05-11
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances
 
+@@||echocdn.com$domain=echosign.com
+@@||mirostatic.com$domain=miro.com
+@@||oktacdn.com$domain=okta.com
+@@||jotform.com
+@@||jotform.io
+@@||google.com$domain=getclockwise.com
 @@||bookinghound.com
 thesun.co.uk##.read-more-container
 thesun.co.uk##.article-boxout
