@@ -1,8 +1,14 @@
 ! Title: Arthur's Annoyances
-! TimeUpdated: 2022-05-11
+! TimeUpdated: 2022-05-27
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances
 
+@@||oktacdn.com
+atechdaily.com##.col-md-4
+@@||vox-cdn.com$domain=sbnation.com
+@@||mi-img.com$domain=xiaomi.com
+alternativeto.net##div:has-text(You are seeing this message because ad or script blocking software is interfering with this page.)
+@@||klarnacdn.net
 @@||echocdn.com$domain=echosign.com
 @@||mirostatic.com$domain=miro.com
 @@||oktacdn.com$domain=okta.com
