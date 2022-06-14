@@ -1,8 +1,12 @@
 ! Title: Arthur's Annoyances
-! TimeUpdated: 2022-05-27
+! TimeUpdated: 2022-06-14
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances
 
+@@||changelog.life
+@@||skypixel.com$domain=djivideos.com
+grough.co.uk###mai-container:style(background:none !important;)
+grough.co.uk###mai-content:style(background:none !important; width:100% !important;)
 @@||oktacdn.com
 atechdaily.com##.col-md-4
 @@||vox-cdn.com$domain=sbnation.com
