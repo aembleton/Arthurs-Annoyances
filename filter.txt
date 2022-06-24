@@ -1,8 +1,10 @@
 ! Title: Arthur's Annoyances
-! TimeUpdated: 2022-06-14
+! TimeUpdated: 2022-06-24
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances
 
+@@||uri.sh
+@@||geoip-js.com
 @@||changelog.life
 @@||skypixel.com$domain=djivideos.com
 grough.co.uk###mai-container:style(background:none !important;)
