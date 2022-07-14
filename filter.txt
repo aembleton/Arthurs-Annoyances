@@ -1,8 +1,12 @@
 ! Title: Arthur's Annoyances
-! TimeUpdated: 2022-06-30
+! TimeUpdated: 2022-07-14
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances
 
+theblock.co##header
+theblock.co##.fixedHeaderMain
+@@||mytuner.mobi
+reddit.com##button:has-text(Shop Avatars):upward(1)
 @@||easyterra.com$domain=carrentals.co.uk
 @@||smassets.net
 @@||seated.com
