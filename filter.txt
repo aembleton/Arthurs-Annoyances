@@ -1,8 +1,9 @@
 ! Title: Arthur's Annoyances
-! TimeUpdated: 2022-07-14
+! TimeUpdated: 2022-07-15
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances
 
+theguardian.com##div[data-testid='loading-comments']
 theblock.co##header
 theblock.co##.fixedHeaderMain
 @@||mytuner.mobi
