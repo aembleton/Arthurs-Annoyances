@@ -1,8 +1,9 @@
 ! Title: Arthur's Annoyances
-! TimeUpdated: 2022-07-18
+! TimeUpdated: 2022-07-19
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances
 
+@@||substackcdn.com
 @@bnbstatic.com$domain=binance.com
 @@||123formbuilder.com
 theguardian.com##div[data-testid='loading-comments']
