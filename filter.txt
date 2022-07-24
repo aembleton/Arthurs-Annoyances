@@ -1,8 +1,10 @@
 ! Title: Arthur's Annoyances
-! TimeUpdated: 2022-07-21
+! TimeUpdated: 2022-07-24
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances
 
+@@||travel-assets.com$domain=hotels.com
+@@||expedia.com$domain=hotels.com
 @@||wyldcode.com
 @@||substackcdn.com
 @@bnbstatic.com$domain=binance.com
