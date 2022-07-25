@@ -1,8 +1,13 @@
 ! Title: Arthur's Annoyances
-! TimeUpdated: 2022-07-24
+! TimeUpdated: 2022-07-25
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances
 
+autoexpress.co.uk##.polaris__partner-group:upward(1)
+thisismoney.co.uk###sky-left-container
+thisismoney.co.uk###sky-right-container
+thisismoney.co.uk##.alpha:style(width:100% !important; margin-right:0 !important;)
+thisismoney.co.uk##.article-text:style(width:100% !important;)
 @@||travel-assets.com$domain=hotels.com
 @@||expedia.com$domain=hotels.com
 @@||wyldcode.com
