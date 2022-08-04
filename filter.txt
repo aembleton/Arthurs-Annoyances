@@ -1,8 +1,11 @@
 ! Title: Arthur's Annoyances
-! TimeUpdated: 2022-07-25
+! TimeUpdated: 2022-08-04
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances
 
+thisismoney.co.uk##.moduleHalf
+thisismoney.co.uk##div[class^="prevNextButton-"]
+@@||electricitymap.org$domain=electricitymaps.com
 autoexpress.co.uk##.polaris__partner-group:upward(1)
 thisismoney.co.uk###sky-left-container
 thisismoney.co.uk###sky-right-container
