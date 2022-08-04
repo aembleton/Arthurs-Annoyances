@@ -3,6 +3,7 @@
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances
 
+@@||powerapps.com
 thisismoney.co.uk##.moduleHalf
 thisismoney.co.uk##div[class^="prevNextButton-"]
 @@||electricitymap.org$domain=electricitymaps.com
