@@ -3,6 +3,7 @@
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances
 
+theguardian.com##figure[data-spacefinder-type$="NewsletterSignupBlockElement"]
 @@||wordpress.com
 @@||stripecdn.com
 @@||jifo.co
