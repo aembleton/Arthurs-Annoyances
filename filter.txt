@@ -1,8 +1,9 @@
 ! Title: Arthur's Annoyances
-! TimeUpdated: 2022-08-15
+! TimeUpdated: 2022-08-16
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances
 
+@@||cloudinary.com
 @@||typeform.com
 @@||powerapps.com
 thisismoney.co.uk##.moduleHalf
