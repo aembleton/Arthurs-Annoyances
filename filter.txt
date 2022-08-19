@@ -1,8 +1,9 @@
 ! Title: Arthur's Annoyances
-! TimeUpdated: 2022-08-16
+! TimeUpdated: 2022-08-19
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances
 
+@@||consultix.net
 theguardian.com##figure[data-spacefinder-type$="NewsletterSignupBlockElement"]
 @@||wordpress.com
 @@||stripecdn.com
