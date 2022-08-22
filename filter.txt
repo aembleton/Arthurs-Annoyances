@@ -1,8 +1,14 @@
 ! Title: Arthur's Annoyances
-! TimeUpdated: 2022-08-19
+! TimeUpdated: 2022-08-22
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances
 
+whatpub.com##.alert-covid
+@@||gzhls.at$domain=geizhals.*
+@@||picturae.com
+idratherbewriting.com##.inpostComics
+metro.co.uk##aside
+@@||pickystory.com
 @@||consultix.net
 theguardian.com##figure[data-spacefinder-type$="NewsletterSignupBlockElement"]
 @@||wordpress.com
