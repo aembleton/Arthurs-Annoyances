@@ -1,8 +1,9 @@
 ! Title: Arthur's Annoyances
-! TimeUpdated: 2022-08-25
+! TimeUpdated: 2022-08-26
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances
 
+*##+js(acis, Drupal)
 msn.com###header
 @@||blogblog.com
 @@||blogger.com
