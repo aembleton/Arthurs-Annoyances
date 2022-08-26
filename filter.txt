@@ -3,6 +3,7 @@
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances
 
+thesun.co.uk###sim-module
 *##+js(acis, Drupal)
 msn.com###header
 @@||blogblog.com
