@@ -1,8 +1,9 @@
 ! Title: Arthur's Annoyances
-! TimeUpdated: 2022-09-15
+! TimeUpdated: 2022-09-16
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances
 
+@@||rocketcdn.me
 @@||kaleidos.net
 @@||arengu.com
 @@||trustpilot.com
