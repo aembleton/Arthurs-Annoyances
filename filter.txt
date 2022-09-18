@@ -3,6 +3,7 @@
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances
 
+economist.com##audio:upward(2)
 @@||rocketcdn.me
 @@||kaleidos.net
 @@||arengu.com
