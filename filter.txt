@@ -1,8 +1,11 @@
 ! Title: Arthur's Annoyances
-! TimeUpdated: 2022-09-16
+! TimeUpdated: 2022-09-18
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances
 
+economist.com##.styled-masthead
+economist.com##div:style(top:0 !important;)
+economist.com##article>div>div:style(display:block !important; max-width:800px !important;)
 economist.com##audio:upward(2)
 @@||rocketcdn.me
 @@||kaleidos.net
