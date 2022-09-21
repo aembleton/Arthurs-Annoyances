@@ -3,6 +3,7 @@
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances
 
+@@||sancarlo.co.uk$domain=sancarlofumo.co.uk
 @@||downdetector.com$domain=downdetector.*
 economist.com##footer
 economist.com##.ds-section-headline:upward(1)
