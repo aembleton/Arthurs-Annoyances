@@ -1,8 +1,9 @@
 ! Title: Arthur's Annoyances
-! TimeUpdated: 2022-09-21
+! TimeUpdated: 2022-09-29
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances
 
+@@||wayndata.com$domain=lastminute.com
 @@||sancarlo.co.uk$domain=sancarlofumo.co.uk
 @@||downdetector.com$domain=downdetector.*
 economist.com##footer
