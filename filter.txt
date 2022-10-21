@@ -1,15 +1,8 @@
 ! Title: Arthur's Annoyances
-! TimeUpdated: 2022-10-20
+! TimeUpdated: 2022-10-21
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances
 
-@@||evbstatic.com$domain=eventbrite.*
-@@||queue-it.net
-@@||nliven.co
-@@||storepoint.co
-@@||wayndata.com$domain=lastminute.com
-@@||sancarlo.co.uk$domain=sancarlofumo.co.uk
-@@||downdetector.com$domain=downdetector.*
 economist.com##footer
 economist.com##.ds-section-headline:upward(1)
 economist.com##.ds-link-with-arrow-icon:upward(3)
@@ -18,78 +11,33 @@ economist.com##.styled-masthead
 economist.com##div:style(top:0 !important;)
 economist.com##article>div>div:style(display:block !important; max-width:800px !important;)
 economist.com##audio:upward(2)
-@@||rocketcdn.me
-@@||kaleidos.net
-@@||arengu.com
-@@||trustpilot.com
 thesun.co.uk###sim-module
 *##+js(acis, Drupal)
 msn.com###header
-@@||blogblog.com
-@@||blogger.com
 whatpub.com##.alert-covid
-@@||gzhls.at$domain=geizhals.*
-@@||picturae.com
 idratherbewriting.com##.inpostComics
 metro.co.uk##aside
-@@||pickystory.com
-@@||consultix.net
 theguardian.com##figure[data-spacefinder-type$="NewsletterSignupBlockElement"]
-@@||wordpress.com
-@@||stripecdn.com
-@@||jifo.co
-@@||cloudinary.com
-@@||typeform.com
-@@||powerapps.com
 thisismoney.co.uk##.moduleHalf
 thisismoney.co.uk##div[class^="prevNextButton-"]
-@@||electricitymap.org$domain=electricitymaps.com
 autoexpress.co.uk##.polaris__partner-group:upward(1)
 thisismoney.co.uk###sky-left-container
 thisismoney.co.uk###sky-right-container
 thisismoney.co.uk##.alpha:style(width:100% !important; margin-right:0 !important;)
 thisismoney.co.uk##.article-text:style(width:100% !important;)
-@@||travel-assets.com$domain=hotels.com
-@@||expedia.com$domain=hotels.com
-@@||wyldcode.com
-@@||substackcdn.com
-@@bnbstatic.com$domain=binance.com
-@@||123formbuilder.com
 theguardian.com##div[data-testid='loading-comments']
 theblock.co##header
 theblock.co##.fixedHeaderMain
-@@||mytuner.mobi
 reddit.com##button:has-text(Shop Avatars):upward(1)
-@@||easyterra.com$domain=carrentals.co.uk
-@@||smassets.net
-@@||seated.com
-@@||zulipchat.com$domain=zulip.com
-@@||uri.sh
-@@||geoip-js.com
-@@||changelog.life
-@@||skypixel.com$domain=djivideos.com
 grough.co.uk###mai-container:style(background:none !important;)
 grough.co.uk###mai-content:style(background:none !important; width:100% !important;)
-@@||oktacdn.com
 atechdaily.com##.col-md-4
-@@||vox-cdn.com$domain=sbnation.com
-@@||mi-img.com$domain=xiaomi.com
 alternativeto.net##div:has-text(You are seeing this message because ad or script blocking software is interfering with this page.)
-@@||klarnacdn.net
-@@||echocdn.com$domain=echosign.com
-@@||mirostatic.com$domain=miro.com
-@@||oktacdn.com$domain=okta.com
-@@||jotform.com
-@@||jotform.io
-@@||google.com$domain=getclockwise.com
-@@||bookinghound.com
 thesun.co.uk##.read-more-container
 thesun.co.uk##.article-boxout
 forbes.com##.middleRightRail:style(max-width:750px !important;)
 forbes.com##.marketPlace
 latimes.com##.rail
-@@||ideal-postcodes.co.uk
-@@||ekstatic.net$domain=emirates.com
 theguardian.com##figure > gu-island
 railinsider.co.uk##.td-header-template-wrap
 railinsider.co.uk##.raili-side-mpu-1:upward(3)
@@ -100,51 +48,14 @@ cityam.com##.sidebar-layout:style(display:block !important;)
 cityam.com##.main:style(max-width:1000px !important;)
 cityam.com##aside
 cityam.com##nav
-@@||mi-img.com$domain=mi.com
 inews.co.uk##.inews__post__category-banner:upward(1)
 inews.co.uk##body:style(padding:0 !important;)
 inews.co.uk##.inews__main__primary__wrapper:style(display:-webkit-box !important;)
 inews.co.uk##.inews__shortcode-readmoreauto
-@@||evbstatic.com$domain=eventbrite.com
-@@||dropboxcaptcha.com
-@@||arkoselabs.com
-@@||mastercard.com$domain=mastercard.*
-@@||framerusercontent.com
-@@||szn.cz$domain=mapy.cz
-@@||rechargecdn.com
-@@||molsoftapps.com
-@@||quoracdn.net$domain=quora.com
 theverge.com##.scroll-target:upward(1)
 theverge.com##hr
 standard.co.uk##div:style(border-right:none !important;)
-@@||cdn-hotels.com$domain=hotels.com
-@@||tildacdn.com
-@@||c-dn.net
-@@||20i.com
-@@||google.*$domain=google.*
-@@||zohocdn.com$domain=zoho.*
-@@||zohostatic.*$domain=zoho.*
-@@||timberland.*$domain=timberland.*
-@@||maps-api-ssl.google.com
-@@||bookcdn.com
-@@||cybersource.com
-@@||decathlon.net$domain=decathlon.co.uk
-@@||cookielaw.org
-@@||jspm.io
-@@||tfd.com$domain=thefreedictionary.com
 kimovil.com##.no-price:upward(4)
-@@||maptiler.com
-@@||ebay.com$domain=ebay.co.uk
-@@||visitouterhebrides.co.uk
-@@||office.net$domain=live.com
-@@||zara.net$domain=zara.com
-@@||secureservercdn.net
-@@||c4assets.com$domain=channel4.com
-@@||hermescloud.co.uk$domain=hermesparcelreturn.co.uk
-@@||myhermes.co.uk$domain=hermesparcelreturn.co.uk
-@@||co-hire.com$domain=cord.co
-@@||c4assets.com$domain=channel4.com
-@@||contentsquare.net
 deliciousmagazine.co.uk##.main-content:style(margin-top:140px !important;)
 cinch.co.uk##p[data-testid="vehicle-is-reserved"]:upward(3)
 cinch.co.uk##.j5_NX:upward(1)
@@ -153,10 +64,6 @@ thesun.co.uk##.sun-row__article-content:style(padding:0 !important;)
 thesun.co.uk##.rail__cluster
 ||thesun.co.uk/pollingwidgets/v3/polling$subdocument
 thesun.co.uk##.article-top-mobile:style(padding:0 !important;)
-@@||sentry.dev$domain=sentry.io
-@@||dsautomobiles.com$domain=dsautomobiles.*
-@@||google.com/recaptcha/*$script
-@@||salford.gov.uk$domain=mappinggm.org.uk
 grough.co.uk###header
 grough.co.uk###mai-navpath
 grough.co.uk##.options
@@ -164,8 +71,6 @@ grough.co.uk###mai-rtmenu
 grough.co.uk##.article-comments
 grough.co.uk###footer
 amusingplanet.com##.sidebar.col-lg-3
-@@||webflow.com
-@@||bing.com
 ft.com##.n-layout__row--header
 ft.com##.o-topper__tags
 ft.com##.share-nav
@@ -180,8 +85,6 @@ spiked-online.com##img[src="https://wwww.gstatic.com/images/icons/material/syste
 spiked-online.com##footer
 spiked-online.com###comments-wrap
 spiked-online.com###sticky-sharing
-@@||bauersecure.com
-@@||toyota-europe.com$domain=toyota.*
 news.sky.com###ghost-1
 euronews.com##.js-swip-btn
 euronews.com##.c-article-labels
@@ -207,12 +110,7 @@ nation.cymru##.supporters
 nation.cymru##footer
 nation.cymru##.cat-news
 nation.cymru##.content:upward(1):style(flex:100% !important; max-width:800px !important; margin-right:auto !important; margin-left:auto !important;)
-@@||wayin.com
-@@||dropboxstatic.com$domain=dropbox.com
-@@||pay.google.com
 unherd.com##.animated
-@@||maps.google.com
-@@||scene7.com
 news.sky.com##.sdc-site-header
 news.sky.com##.sdc-article-significance
 news.sky.com##.site-share-wrapper
@@ -220,9 +118,7 @@ news.sky.com##.sdc-trust-project
 news.sky.com##.sdc-site-layout__col2
 news.sky.com##.sdc-article-strapline__link:upward(1)
 news.sky.com##.sdc-news-footer
-@@||zdassets.com
 theguardian.com##div[id^="sp_message_container_"]
-@@||b-cdn.net
 bigissue.com##.-ad
 bigissue.com###header
 bigissue.com##.polaris__breadcrumb
@@ -237,7 +133,6 @@ bigissue.com###footer
 bigissue.com##.polaris__simple-grid:style(display:block !important;)
 bigissue.com##.polaris__simple-grid:style(max-width:800px !important;)
 bigissue.com##.polaris__simple-grid--body-content:style(display:block !important;)
-@@||s-microsoft.com$domain=microsoft.com
 vice.com##.navbar-wrapper
 vice.com##div[style]
 vice.com##.article__header__rubric
@@ -256,17 +151,7 @@ vice.com##.short-form__body__article-lede-image:style(max-width:100% !important;
 vice.com##.article__header__dek-contributions:style(width:100% !important; max-width:100% !important;)
 vice.com##.short-form:style(padding:0 !important; max-width:800px !important;)
 dailymail.co.uk###mobile-content:style(margin-top:0 !important;)
-@@||grammarly.io$domain=grammarly.com
 dailymail.co.uk##.scrollable-content:style(padding-top:0 !important;)
-@@||fbgcdn.com
-@@||randemcommerce.com
-@@||ttwstatic.com$domain=tiktok.com
-@@||medallia.$domain=medallia.*
-@@||brightspotcdn.com
-@@||cdn-apple.com$domain=apple.com
-@@||oracle.com$domain=oraclecloud.com
-@@||bustle.com
-@@||lteplatform.com
 solar.lowtechmagazine.com##blockquote
 techradar.com##.dfp-leaderboard-container
 techradar.com##.vid-present
@@ -279,17 +164,9 @@ techradar.com##.onesignal-customlink-container
 radiotimes.com##.widget-newsletter-sign-up:upward(1)
 techradar.com##article:style(max-width:100% !important;)
 techradar.com##.regionRedirectBanner
-@@||trustpilot.net$domain=trustpilot.com
-@@||sentry-cdn.com
-@@||retool-edge.com
-@@||ly200-cdn.com
-@@||comparisoncreator.com
 yifyhdtorrent.com##.direct-link:style(display:none !important;)
 yifyhdtorrent.com##.non-direct:style(display:block !important;)
-@@||media-lab.ai$domain=imgur.com
 accounts.google.com$domain=~google.*|~youtube.com|~gmail.com
-@@||ashbyhq.com
-@@||ashbyprd.com
 contractorcalculator.co.uk##aside
 contractoruk.com##.section-1
 manchestermill.co.uk##h4
@@ -299,8 +176,6 @@ independent.co.uk##.js-comment-spinner-header:upward(1)
 independent.co.uk##h3
 independent.co.uk##.taboola
 independent.co.uk##amp-twitter:upward(1):style(min-height:0 !important;)
-@@||tiktokcdn.com$domain=tiktok.com
-@@||ibytedtos.com$domain=tiktok.com
 nknews.org###post_share
 nknews.org##.hide-on-mobile
 nknews.org###header-top
@@ -309,7 +184,6 @@ nknews.org##.footer
 nknews.org###fake_end_point
 nknews.org##.content-tags
 nknews.org##.col-lg-9:style(max-width:935px !important; margin-right:auto !important; margin-left:auto !important;)
-@@||oppwa.com
 telegraph.co.uk##.grid:style(grid-template-columns:none !important; margin-left:auto !important; margin-right:auto !important; max-width:960px !important;)
 telegraph.co.uk##.site-header-wrapper
 telegraph.co.uk##.site-footer
@@ -327,16 +201,10 @@ cityam.com##.author-meta-upper
 cityam.com##strong:has-text(Also Read:):upward(2)
 cityam.com##.tpd-article-end-social-container
 cityam.com##.footer
-@@||bigcommerce.com
 dailymail.co.uk##.alpha:style(width:100% !important; margin-right:none !important;)
 dailymail.co.uk##.article-text:style(width:100% !important;)
-@@||phncdn.com$domain=pornhub.com
-@@||skyscnr.com$domain=skyscanner.net
-@@||editmysite.com
 standard.co.uk##.video:upward(1)
-@@||aexp-static.com$domain=americanexpress.com
 confidentials.com##header
-@@||xhcdn.com$domain=xhamster.com
 qz.com###marquee-ad:upward(2)
 qz.com##nav
 qz.com##.afUrL:upward(1)
@@ -348,12 +216,6 @@ qz.com##h2:upward(2)
 qz.com##ul:upward(1)
 qz.com##footer
 arcpublishing.com
-@@||g792337340.co
-@@||appmifile.com$domain=mi.com
-@@||zooplus.io
-@@||mediazs.com
-@@||kxcdn.com
-@@||everviz.com
 businessinsider.com##section[class^="content-recommendations"]
 hindustantimes.com##.openAppButton
 hindustantimes.com##.close-btn
@@ -370,62 +232,39 @@ hindustantimes.com##.subscribe
 hindustantimes.com##.trendingSlider
 hindustantimes.com##.section_news
 hindustantimes.com###more-news
-@@||jitsi.net$domain=jit.si
 opendemocracy.net##div[class*="cta"]
 opendemocracy.net##.related-story
 zdnet.com###onetrust-consent-sdk
-@@||meetupstatic.com$domain=meetup.com
 dailymail.co.uk##[data-newsletter-floater]
-@@||twitchcdn.net$domain=twitch.tv
 makeinjava.com##.shareit
 unherd.com###mc_signup:upward(2)
 inews.co.uk##[class$="readmore"]
 inews.co.uk##button
-@@||parkrun.$domain=parkrun.*
 dailydot.com##footer
-@@||targetimg1.com$domain=target.com
 businessinsider.com###formContainer
 businessinsider.com##a[data-e2e-name="inline-read-more-link"]:upward(2)
 businessinsider.com##.post-content-more
-@@||locationiq.com
 express.co.uk##.download-app
-@@||smassets.net$domain=surveymonkey.co.uk
-@@||atomz.com
-@@||tnew-assets.com
 standard.co.uk##aside
 standard.co.uk###header
 standard.co.uk##amp-base-carousel:upward(1)
 standard.co.uk##article>div:nth-of-type(1)
 standard.co.uk##nav
 standard.co.uk##.social-share:upward(1)
-@@||wsimg.com
 theatlantic.com##.subscribeWall
 theatlantic.com##.promo-subscribe
 whathifi.com###sidebar
-@@||tmconst.com$domain=ticketmaster.*
 stylist.co.uk##div[data-widget="fondue"]
-@@||atomz.com
-@@||tnew-assets.com
 genius.com##apple-music-player
-@@||frontapp.com
 scandasia.com##.widget-area
 theprint.in##mybot
-@@||mubicdn.net$domain=mubi.com
-@@||ikea.net$domain=ikea.com
 independent.co.uk##div[data-mpu1]
 independent.co.uk##.gallery-btn:upward(1)
 independent.co.uk###stickyFooterRoot
 independent.co.uk##div[id^="playinc"]:upward(1)
-@@||liveres.co.uk
-@@||wpmucdn.com
 independent.co.uk##h2:has-text(UK news in pictures):upward(3)
 dailymail.co.uk###next-story
-@@||zohowebstatic.com$domain=zoho.com
 pressgazette.co.uk##.article-sidebar-column
-@@||visualwebsiteoptimizer.com
-@@||untappdapi.com
-@@||untappd.com
-@@||ticketweb.com$domain=ticketweb.uk
 express.co.uk##.taboola-above-article
 alternativeto.net##span:has-text(Sponsored):upward(3)
 reddit.com##span:has-text(AutoModerator):upward(7)
@@ -433,59 +272,27 @@ forbes.com##header
 forbes.com##.top-contrib-block
 forbes.com##.top-tweet-quotes
 forbes.com##.article-sharing
-@@||forbesimg.com$domain=forbes.com
 provideocoalition.com###right-sidebar
-@@||xvideos-cdn.com
-@@||powerreviews.com
 petshop.co.uk##div[class*='upsell']
 petshop.co.uk##.order-wizard-freeitems-module
 dailymail.co.uk##.item
 telegraph.co.uk##aside
-@@||shopifycs.com
-@@||cdn-website.com
-@@||r9cdn.net
-@@||skipcdn.net
 dailymail.co.uk##.moduleHalf
 dailymail.co.uk###reader-comments
 dailymail.co.uk###infinite-list
 dailymail.co.uk##.footer
 dailymail.co.uk##.page-footer
 dailymail.co.uk##.and-footer
-@@||polyfill.io
-@@||openlayers.org
 suncalc.org###legendeW
 mooncalc.org###legendeW
-@@||bstatic.com$domain=booking.com
-@@||versus.io$domain=versus.com
-@@||nc-img.com$domain=namecheap.com
-@@||cdnppb.net
-@@||cryptpad.fr$domain=cryptpad.info
 h2-view.com##.sticky
 h2-view.com##.gws-ad-story
-@@||thcdn.com
 farms.com###header-bar
-@@||pressablecdn.com
 theguardian.com##div[data-visuals-hook='article-anniversary-atom']:upward(2)
-@@||kinja-static.com
-@@||ststat.net
-@@||plausible.io
 aliexpress.com##div>div:has-text(Subscribe)
 aliexpress.com##.coupon-poplayer-modal
 circuitbasics.com##div[class*='sidebar']
-@@||imgeng.in
-@@||nexcesscdn.net
-@@||calendly.com
-@@||staticbg.com$domain=banggood.com
-@@||redditmedia.com$domain=reddit.com
-@@||redditstatic.com$domain=redditmedia.com
-@@||djicdn.com$domain=dji.com
-@@||zoocdn.com$domain=zoopla.co.uk
-@@||squarecdn.com$domain=squareup.com
-@@||izettle.com$domain=zettle.com
-@@||arcgis.com
-@@||netlify.app
 genius.com##div[class^="AppleMusic"]
-@@||sstatic.net
 advertiserandtimes.co.uk##.sidebar
 advertiserandtimes.co.uk##.advert
 advertiserandtimes.co.uk##header
@@ -498,7 +305,6 @@ fleetnews.co.uk##.side-bar
 thetimes.co.uk##div[class^="responsiveweb-"]
 thetimes.co.uk##div[class*="AdWrapper"]
 thetimes.co.uk##.Item
-@@||npmcdn.com
 bloomberg.com##aside
 bloomberg.com##footer
 bloomberg.com##.news-designed-for-consumer-media
@@ -510,56 +316,19 @@ bloomberg.com##.eyebrow-v2
 spiked-online.com##.ad-outer
 spiked-online.com##.article-overflow
 spiked-online.com##.article-overflow
-@@||a1.api.bbc.co.uk^$1p
-@@||wigglestatic.com$domain=wiggle.co.uk
-@@||cdnst.net$domain=speedtest.net
-@@||kym-cdn.com$domain=knowyourmeme.com
-@@||fivesquid.com^$script,domain=fivesquid.com
-@@||adobe.com
-@@||huami.com$domain=amazfit.com
-@@||tacdn.com$domain=tripadvisor.*
-@@||segment.com
-@@||antavo.com
-@@||spatialbuzz.com
-@@||paddle.com
 inews.co.uk##.inews__header
 inews.co.uk##.inews__sidebar
 inews.co.uk##.inews__post-share
 inews.co.uk##.inews__email-signup
 inews.co.uk##.wp-block-embed
-@@||pipedream$domain=pipedream.*
-@@||multiscreensite.com
 nytimes.com##+js(cookie-remover,)
-@@||observableusercontent.com$domain=observablehq.com
-@@||static.observableusercontent.com$domain=static.observableusercontent.com
-@@||d3js.org
-@@||fbcdn.net$domain=facebook.com
-@@||scribdassets.com$domain=scribd.com
-@@||opentable.co.uk
-@@||otstatic.com
 telegraph.co.uk##.html-embed
-@@||muscache.com
 koreatimes.co.kr##.view_right_div
-@@||androidauthority$domain=androidauthority.*
-@@||msauth.net$domain=microsoftonline.com
-@@||office.net$domain=office.com|microsoft.com
-@@||atl-paas.net$domain=atlassian.com
-@@||futurecdn.net
-@@||olympus.eu$domain=olympus.*
-@@||fbcdn.net$domain=messenger.com
-@@||scdn.co$domain=spotify.com
-@@||list-manage.com
-@@||simpleanalyticscdn.com
-@@||gigya.com
-@@||jwplayer.com$domain=reuters.com
 dailymail.co.uk##.social
 dailymail.co.uk##.vjs-video-container
 dailymail.co.uk##div[class^="previewWrapper"]:upward(1)
 dailymail.co.uk##nav
 dailymail.co.uk##.puff
-@@||medium.com
-@@||licdn.com$domain=linkedin.com
-@@||auth0.com
 rd.com##.sticky
 rd.com##.main-navigation
 rd.com###mobile-nav-banner
@@ -569,27 +338,9 @@ rd.com###desktop-nav-banner
 rd.com###right-sidebar-container
 rd.com##.social-menu-desktop
 rd.com##.sticky-bottom-ad
-@@||evbstatic.com$domain=eventbrite.co.uk
-@@||braintreegateway.com
-@@||windows.net
-@@||worldpay.com
-@@||experience.tinypass.com
-@@||smassets.net$domain=surveymonkey.com
-@@||wix.com
-@@||msecnd.net
-@@||akamaized.net
 miamiherald.com##+js(nostif,,10)
 medium.com##div[data-test-id="post-sidebar"]
-@@||woosmap.com
-@@||gitlab-static.net$domain=gitlab.com
-@@||awsstatic.com$domain=amazon.com
-@@||kinstacdn.com
-@@||jg-cdn.com$domain=justgiving.com
-@@||vimeocdn.com
-@@||urbanairship.com
-@@||cloudflare.net
 unherd.com##.ref-ar
-@@||etorostatic.com$domain=etoro.com
 newsweek.com##.article-videoplayer
 newsweek.com##.block-nw
 newsweek.com##.category
@@ -601,73 +352,11 @@ newsweek.com##.fA
 newsweek.com##.content-correction
 newsweek.com###block-ibtmedia-dfp-ibtmedia-dfp-belowcontent
 newsweek.com###block-ibtg-footer-ibtg-footer
-@@||ajax.googleapis.com^
-@@||ajax.aspnetcdn.com^
-@@||ajax.microsoft.com^
-@@||cdnjs.cloudflare.com^
-@@||code.jquery.com^
-@@||cdn.jsdelivr.net^
-@@||fonts.googleapis.com^
-@@||yastatic.net^
-@@||yandex.st^
-@@||apps.bdimg.com^
-@@||libs.baidu.com^
-@@||cdn.staticfile.org^
-@@||cdn.bootcss.com^
-@@||mat1.gtimg.com^
-@@||lib.sinaapp.com^
-@@||upcdn.b0.upaiyun.com^
-@@||stackpath.bootstrapcdn.com^
-@@||maxcdn.bootstrapcdn.com^
-@@||netdna.bootstrapcdn.com^
-@@||use.fontawesome.com^
-@@||ajax.cloudflare.com^
-@@||akamai-webcdn.kgstatic.net^
-@@||gitcdn.github.io^
-@@||vjs.zencdn.net^
-@@||cdn.plyr.io^
-@@||cdn.materialdesignicons.com^
-@@||cdn.ravenjs.com^
-@@||sdn.geekzu.org^
-@@||ajax.proxy.ustclug.org^
-@@||unpkg.com^
-@@||pagecdn.io^
-@@||cdn.css.net^
-@@||cdnjs.loli.net^
-@@||ajax.loli.net^
-@@||fonts.loli.net^
-@@||lib.baomitu.com^
-@@||cdn.bootcdn.net^
-@@||craftyclicks.co.uk
-@@||substack.com
-@@||akamaihd.net
-@@||youtube.com
-@@||sndcdn.com$domain=soundcloud.com
-@@||bootstrapcdn.com
-@@||maxcdn.com
-@@||paypal.com
-@@||bcbits.com$domain=bandcamp.com
-@@||cdn-one.com$domain=one.com
 medium.com##.branch-journeys-top:upward(2)
-@@||gstatic.com
 dailymail.co.uk,thisismoney.co.uk##.related-carousel:upward(1)
 dailymail.co.uk,thisismoney.co.uk##.articleAds
 dailymail.co.uk,thisismoney.co.uk##.floating-buttons
-@@||iggcdn.com$domain=indiegogo.com
-@@||rawgit.com
-@@||dailymail.co.uk$domain=thisismoney.co.uk
-@@||shopify.com
-@@||flightcdn.com$domain=flightaware.com
-@@||cnbcfm.com$domain=cnbc.com
-@@||dixons.com$domain=currys.co.uk
-@@||redditstatic.com$domain=reddit.com
-@@||whatsapp.net$domain=whatsapp.com
-@@||discourse-cdn.com
-@@*$cname
 buynothingproject.org##.sidebar-area
-@@||alibabadns.com$domain=aliexpress.com
-@@||alicdn.com$domain=aliexpress.com
-@@||ordnancesurvey.co.uk
 euronews.com##.advertising
 ~etoro.com,*##+js(aeld, touchstart)
 euronews.com##.js-swiper-button
@@ -705,7 +394,6 @@ reasonstobecheerful.world##header
 reasonstobecheerful.world##.sidebar-social-col
 reasonstobecheerful.world##.sidebar-article-wrap
 reasonstobecheerful.world##.subscribe-section
-@@||telegram.org$domain=t.me
 businessinsider.com##header
 businessinsider.com##nav
 businessinsider.com##.live-updates-module-full-width
@@ -721,7 +409,6 @@ newstatesman.com##.tns-modal-wrapper
 newstatesman.com##.site-header
 newstatesman.com##.right-sidebar
 newstatesman.com##.full-height-column
-@@||storefeeder.com
 dailymail.co.uk,thisismoney.co.uk##li[class*="shareIcon-"]:upward(2)
 dailymail.co.uk,thisismoney.co.uk##div[class^="nextBtn"]
 dailymail.co.uk,thisismoney.co.uk###mini-carousel-wrapper
@@ -735,8 +422,6 @@ nytimes.com##div[role="complementary"]
 telegraph.co.uk/martech
 economictimes.com##.adContainer
 ###weebly-footer-signup-container-v3
-@@||website-files.com
-@@||alibabadns.com$domain=aliexpress.com
 indianexpress.com###izmiddle-box
 indianexpress.com###id_newsletter_subscription_popup
 indianexpress.com##.breaking-news
@@ -744,7 +429,6 @@ indianexpress.com##.animate-break
 indianexpress.com##.rightpanel
 indianexpress.com##.pdsc-related-modify
 eetimes.eu##aside
-@@||custhelp.com
 apester.com
 independent.co.uk###header
 independent.co.uk##nav
@@ -758,99 +442,39 @@ independent.co.uk###comments
 independent.co.uk##div[amp-access]
 independent.co.uk##footer
 medium.com##div[id^="lo-highlight-meter"]
-@@||t-msedge.net
 currys.co.uk##.animated-message
-@@||buyitdirect.co.uk
-@@||reevoo.com
 reuters.com##div[class^="RCOMVideo"]
-@@||a-msedge.net$domain=bing.com
-@@||here.com
-@@||awsnre.co.uk$domain=nationalrail.co.uk
-@@||incapdns.net
 reneweconomy.com.au##.sidebar
-@@||akamai.net
-@@||flourish.studio
-@@*yahoo*$domain=yahoo.*
-@@||yimg.com$domain=yahoo.*
-@@||wikimedia.org$domain=wikipedia.org
-@@||facebook.com$domain=instagram.com
-@@||intellij.net$domain=jetbrains.com
-@@||*office*$domain=office365.com,microsoft.com
-@@||slack-edge.com$domain=slack.com
-@@||brightcove.net
-@@||akamaiedge.net
-@@||fastly.net
-@@||nosto.com
-@@||boardgamearena.*$domain=boardgamearena.*
-@@||azureedge.net
 bbcgoodfood.com##.ad-banner
 wired.com##.persistent-bottom
 wired.com##.consumer-marketing-unit--article-mid-content
-@@||hicloud.com$domain=huawei.com
 forbes.com##fbs-embedly
 forbes.com##.seo
 forbes.com##.link-embed
-@@||wistia.com$
-@@||flowplayer.com$
-@@||*ao*$domain=ao.com
 linuxize.com##.ezoic-ad
 independent.co.uk##.video-hero
 news.com.au##.tabbed
 news.com.au##.sticky-show
-@@||nhs.uk$domain=blood.co.uk
-@@||msecnd.net$
 theguardian.com##.css-np6tgl-Row > svg
-@@*aldi*$domain=aldi.*
 thisismoney.co.uk##.beta
 thelondoneconomic.com##.jnews_inline_related_post
-@@||nflxext.com$domain=netflix.com
-@@||bauersecure.com$
-@@||termible.io$
 deccanherald.com##.sticky_footer
-@@||woosmap.com$
-@@||paypal.com$
-@@*pin*$domain=pinterest.*
-@@*hermes*$domain=myhermes.*
 businessinsider.com##.ad
-@@||ordnancesurvey.co.uk$
-@@||surveymonkey.com$script,domain=surveymonkey.*
-@@||myftpupload.com$script
 thesun.co.uk##.social
 cnn.com##.Hero__videoWrapper
 cnn.com##.RelatedArticle__component
 cnn.com##.Article__head
-@@||ipinfo.io$script
-@@||netdna-ssl.com$script
-@@||postcodeanywhere.co.uk$script
 huffingtonpost.co.uk##.top-media
-@@||fsdn.com$domain=sourceforge.net
-@@||macphun.com^$domain=skylum.com
-@@||vimeo.com^$script
-@@||altapaysecure.com^$script
-@@||mapbox.com^$script
-@@||instagram.com^$script
-@@||freetobook.com^$script
 texasmonthly.com##._inline-subscribe-tout
-@@||datatrans.com^$script
-@@||paypalobjects.com^$script
 placenorthwest.co.uk##.ad
-@@*plotaroute*$domain=plotaroute.com
-@@||dslr.net$domain=dslreports.com
 wired.com##.expandable-growler-wrapper
 wired.com##.paywall-container-component
-@@||highcharts.com^$script
-@@||github.com^$script
-@@||virtualearth.net^$script
 nytimes.com##.expanded-dock
 nytimes.com##p:has-text(Advertisement):upward(2)
-@@||squarespace.com$script
-@@*nbcnews*$script,domain=nbcnews.com
-@@||infogram.com^$script
 booking.com##span:has-text(left on our site)
 digitaltrends.com##.dtvideosng-container
 dzone.com###acontainer
 dzone.com##+js(acis, adtoniqAlertData)
-@@wp.com$script
 ||addthis.com/addthis_widget.js$script,redirect=addthis_widget.js
 ||amazon-adsystem.com/aax2/amzn_ads.js$script,redirect=amazon_ads.js
 ||doubleclick.net/instream/ad_status.js$script,redirect=doubleclick_instream_ad_status.js
@@ -864,7 +488,6 @@ dzone.com##+js(acis, adtoniqAlertData)
 ||scorecardresearch.com/beacon.js$script,redirect=scorecardresearch_beacon.js
 ||widgets.outbrain.com/outbrain.js$script,redirect=outbrain-widget.js
 newyorker.com##.persistent-bottom
-@@*imdb*$script,domain=imdb.com
 facebook.com##a[aria-label="Sponsored"]:upward(20)
 genius.com##.u-display_block
 hckrnews.com##a[href*="wsj.com" i]:upward(1)
@@ -873,47 +496,7 @@ yahoo.com##.provider-link
 yahoo.com###YDC-Hero
 yahoo.com##.sticky-outer-wrapper
 yahoo.com##.share-button-group
-@@adis.ws$script
-@@bazaarvoice.com$script
-@@cardinalcommerce.com$script
-@@fontawesome.com$script
-@@yottaa.net$script
-@@*amazon*$script,domain=amazon.*
-@@*dpreview*$script,domain=dpreview.*
-@@*cdn*$1p,script
-@@*static*$1p,script
-@@parastorage.com$script
-@@dragon2000.net$script
-@@storelocatorwidgets.com$script
-@@twitter.com$script
-@@youtube.com$script
-@@ytimg.com$script
-@@*bbc*$script,domain=bbc.*
-@@ampproject.org$script
 bbcgoodfood.com##+js(aopr, Drupal.behaviors.smartBanner)
-@@amazonaws.com$script
-@@hearstapps.com$script
-@@stripe.com$script
-@@||assets.bwbx.io/s3/javelin/public/javelin/js/components/*$script,domain=bloomberg.com
-*$script,redirect=noop.js,3p
-@@guim.co.uk$script,domain=theguardian.com
-@@cloudflare.com$script
-@@jsdelivr.net$script
-@@jquery.com$script
-@@*github*$script,domain=github.com
-@@cloudfront.net$script
-@@*ebay*$script,domain=ebay.*
-@@adobedtm.com$script
-@@facebook.net$domain=facebook.com|fb.com|instagram.com|strava.com
-@@googleapis.com$script
-@@twimg.com$script,domain=twitter.com
-@@*etoro*$script,domain=etoro.com
-@@alipayobjects.com$script,domain=aliexpress.com
-@@alibaba.com$script,domain=aliexpress.com
-@@typekit.net$script
-@@atl-paas.net$script,domain=atlassian.net
-@@unpkg.com$script
-@@datatables.net$script
 kimovil.com##.un:matches-css(display: block):upward(6):has(.item-wrap)
 wired.com##.ad
 nationalpost.com##.sso-btns
@@ -1014,7 +597,6 @@ bbcgoodfood.com###ad-mpu-premium-2-narrow
 bbcgoodfood.com##.section-comments__header
 bbcgoodfood.com##.carousel.editorial-offers-container
 bbcgoodfood.com##.ad-banner-container
-##.ad__block
 theverge.com##.c-float-right
 last.fm##.content-top
 spiked-online.com##.sellWrapper
