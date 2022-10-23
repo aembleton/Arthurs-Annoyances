@@ -4,7 +4,7 @@
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances
 
 euronews.com##.widget--type-related
-@@||minute.ly
+minute.ly
 economist.com##footer
 economist.com##.ds-section-headline:upward(1)
 economist.com##.ds-link-with-arrow-icon:upward(3)
@@ -360,7 +360,6 @@ dailymail.co.uk,thisismoney.co.uk##.articleAds
 dailymail.co.uk,thisismoney.co.uk##.floating-buttons
 buynothingproject.org##.sidebar-area
 euronews.com##.advertising
-~etoro.com,*##+js(aeld, touchstart)
 euronews.com##.js-swiper-button
 euronews.com###js-header:upward(1)
 euronews.com##nav
@@ -370,7 +369,6 @@ euronews.com##.c-social-share:upward(2)
 euronews.com##.c-font-size-switcher
 euronews.com##footer
 euronews.com##aside
-~hotukdeals.com,~etoro.com,~youtube.com,~aliexpress.com,~securedsigning.com,~bbc.co.uk,~sofology.co.uk,~threadreaderapp,~kiwi.com,~forbes.com*##+js(aeld, scroll)
 dailymail.co.uk,thisismoney.co.uk##.beta
 dailymail.co.uk,thisismoney.co.uk##div[class^="previousBtn"]
 thesun.co.uk##div[class*="header"]
@@ -525,7 +523,8 @@ theatlantic.com##.c-nudge__container
 gamefromscratch.com###sidepanel
 hindustantimes.com##.rightSec
 theguardian.com###slot-body-end
-##.js-stickyFooter
+##.
+-stickyFooter
 theguardian.com##.contributions__epic
 theguardian.com##.js-ad-slot
 booking.com##.sr_rooms_left_wrap.only_x_left
