@@ -1156,7 +1156,6 @@ go.com$domain=~go.com
 goadopt.io$domain=~goadopt.io
 godaddy.com$domain=~godaddy.com
 godsave.lgbt$domain=~godsave.lgbt
-google.com$domain=~google.com
 googleadservices.com$domain=~googleadservices.com
 gridsumdissector.com$domain=~gridsumdissector.com
 groovinads.com$domain=~groovinads.com
