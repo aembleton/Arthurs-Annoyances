@@ -525,8 +525,6 @@ theatlantic.com##.c-nudge__container
 gamefromscratch.com###sidepanel
 hindustantimes.com##.rightSec
 theguardian.com###slot-body-end
-##.
--stickyFooter
 theguardian.com##.contributions__epic
 theguardian.com##.js-ad-slot
 booking.com##.sr_rooms_left_wrap.only_x_left
