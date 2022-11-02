@@ -1,8 +1,10 @@
 ! Title: Arthur's Annoyances
-! TimeUpdated: 2022-10-24
+! TimeUpdated: 2022-11-02
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances
 
+autotrader.co.uk##.top-spot
+autotrader.co.uk###js-search-result-adsense-slot
 viafoura.net
 tldw.me
 euronews.com##.widget--type-related
@@ -16,7 +18,6 @@ economist.com##div:style(top:0 !important;)
 economist.com##article>div>div:style(display:block !important; max-width:800px !important;)
 economist.com##audio:upward(2)
 thesun.co.uk###sim-module
-*##+js(acis, Drupal)
 msn.com###header
 whatpub.com##.alert-covid
 idratherbewriting.com##.inpostComics
@@ -391,7 +392,6 @@ express.co.uk##strong:has-text(READ MORE)
 express.co.uk##strong:has-text(DON'T MISS)
 express.co.uk##.viafoura
 theguardian.com###most-viewed-right:upward(3)
-*##+js(rc, sg-popup-builder-content)
 reasonstobecheerful.world##header
 reasonstobecheerful.world##.sidebar-social-col
 reasonstobecheerful.world##.sidebar-article-wrap
@@ -565,10 +565,7 @@ parkers.co.uk##.sp_veil1548165423809
 parkers.co.uk##.clearfix.site-header
 autoexpress.co.uk###sidebar-first
 economictimes.indiatimes.com##.gaDone.article_block > .sideBar.flr
-autotrader.co.uk##.js-standout-listing
 wired.com##.most-popular-side-bar-component
-autotrader.co.uk##.js-standout-listing
-autotrader.co.uk##.search-page__result:nth-of-type(1)
 cpubenchmark.net###blocker
 thesun.co.uk###sidebar
 booking.com##.hprt-price-deal-badge
