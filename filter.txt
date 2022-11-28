@@ -1,5 +1,5 @@
 ! Title: Arthur's Annoyances
-! TimeUpdated: 2022-11-15
+! TimeUpdated: 2022-11-28
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances
 
@@ -1317,7 +1317,7 @@ micpn.com$domain=~micpn.com
 microad.jp$domain=~microad.jp
 microadinc.com$domain=~microadinc.com
 mindbox.ru$domain=~mindbox.ru
-miro.medium.com$domain=~miro.medium.com
+miro.medium.com$domain=~medium.com
 mirror.co.uk$domain=~mirror.co.uk
 mitself.net$domain=~mitself.net
 mixandfun.com$domain=~mixandfun.com
