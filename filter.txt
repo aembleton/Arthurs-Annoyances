@@ -1,8 +1,9 @@
 ! Title: Arthur's Annoyances
-! TimeUpdated: 2022-11-28
+! TimeUpdated: 2022-12-15
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances
 
+*##+js(aeld, visibilitychange)
 ft.com##.article-grid:style(display:flex !important; max-width:700px !important;)
 ft.com##.o-topper:style(display:flex !important; max-width:700px !important;)
 ft.com##.onward-journey
