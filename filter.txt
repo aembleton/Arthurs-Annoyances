@@ -1,8 +1,10 @@
 ! Title: Arthur's Annoyances
-! TimeUpdated: 2022-12-16
+! TimeUpdated: 2022-12-28
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances
 
+deccanherald.com##aside
+deccanherald.com##.in_article_video
 news.ycombinator.com##a[id^="un"]:has-text(unvote):upward(4):style(border-left: 1ch solid green !important; padding-left: 1ch !important;)
 news.ycombinator.com##a[id^="un"]:has-text(undown):upward(4):style(border-left: 1ch dotted red !important; padding-left: 1ch !important;)
 news.ycombinator.com##.votearrow:style(margin-bottom:12px !important;)
