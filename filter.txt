@@ -1,8 +1,18 @@
 ! Title: Arthur's Annoyances
-! TimeUpdated: 2022-12-28
+! TimeUpdated: 2023-01-31
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances
 
+newyorker.com##div[class^="Container"]
+newyorker.com##.stacked-navigation--fixed-header-layout
+newyorker.com##.grid:style(display:block !important; max-width:1000px !important;)
+newyorker.com##div[data-testid='message-banner']
+newyorker.com##aside
+newyorker.com##div[class^='ContentFooterWrapper']
+newyorker.com##div[class*="FooterRow"]
+newyorker.com##div[class^='ContentHeaderLeadAsset']:style(display:block !important;)
+newyorker.com##div[class^='ContentHeaderHedAccreditationWrapper']:style(display:block !important;)
+newyorker.com##div[class^='BasePageWrapper']:style(padding-top:0 !important;)
 deccanherald.com##aside
 deccanherald.com##.in_article_video
 news.ycombinator.com##a[id^="un"]:has-text(unvote):upward(4):style(border-left: 1ch solid green !important; padding-left: 1ch !important;)
