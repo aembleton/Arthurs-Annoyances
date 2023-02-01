@@ -1,8 +1,20 @@
 ! Title: Arthur's Annoyances
-! TimeUpdated: 2023-01-31
+! TimeUpdated: 2023-02-01
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances
 
+newstatesman.com##body>header
+newstatesman.com##aside
+newstatesman.com##.c-sponsored-article
+newstatesman.com##.footer-widgets-container
+newstatesman.com##footer
+newstatesman.com##iframe
+newstatesman.com##main:style(max-width:1000px !important;)
+newstatesman.com##article:style(display:block !important;)
+newstatesman.com##header:style(display:block !important;)
+newstatesman.com##.c-article-header__container:style(border:none !important; margin-left:0 !important;)
+newstatesman.com##section:style(margin-left:0 !important;)
+newstatesman.com##.c-article-header__container::after:style(display:none !important;)
 newyorker.com##div[class^="Container"]
 newyorker.com##.stacked-navigation--fixed-header-layout
 newyorker.com##.grid:style(display:block !important; max-width:1000px !important;)
