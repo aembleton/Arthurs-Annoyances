@@ -1,8 +1,9 @@
 ! Title: Arthur's Annoyances
-! TimeUpdated: 2023-04-17
+! TimeUpdated: 2023-05-11
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances
 
+dailymail.co.uk##.ccox
 momondo.co.uk##div[class$='sponsored']:upward(6)
 momondo.co.uk##div[class$='-text']>span:has-text(Ad):upward(9)
 moneysupermarket.com##.resultFeatured
