@@ -1,5 +1,5 @@
 ! Title: Arthur's Annoyances
-! TimeUpdated: 2023-06-06
+! TimeUpdated: 2023-07-19
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances
 
@@ -1733,7 +1733,7 @@ trendmd.com$domain=~trendmd.com
 tribalfusion.com$domain=~tribalfusion.com
 tribl.io$domain=~tribl.io
 trinitymedia.ai$domain=~trinitymedia.ai
-tripadvisor.com$domain=~tripadvisor.com
+tripadvisor.com$domain=~tripadvisor.*
 trkn.us$domain=~trkn.us
 trs.cn$domain=~trs.cn
 truefitcorp.com$domain=~truefitcorp.com
