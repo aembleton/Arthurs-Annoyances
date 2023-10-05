@@ -1,8 +1,10 @@
 ! Title: Arthur's Annoyances
-! TimeUpdated: 2023-07-22
+! TimeUpdated: 2023-10-05
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances
 
+abacusemedia.com
+fortune.com##.related-video-container
 goinstore.com
 techcrunch.com##.desktop-nav
 techcrunch.com##aside
