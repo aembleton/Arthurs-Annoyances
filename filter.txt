@@ -1,5 +1,5 @@
 ! Title: Arthur's Annoyances
-! TimeUpdated: 2023-10-05
+! TimeUpdated: 2023-12-08
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances
 
@@ -60,7 +60,6 @@ deccanherald.com##.in_article_video
 news.ycombinator.com##a[id^="un"]:has-text(unvote):upward(4):style(border-left: 1ch solid green !important; padding-left: 1ch !important;)
 news.ycombinator.com##a[id^="un"]:has-text(undown):upward(4):style(border-left: 1ch dotted red !important; padding-left: 1ch !important;)
 news.ycombinator.com##.votearrow:style(margin-bottom:12px !important;)
-*##+js(aeld, visibilitychange)
 ft.com##.article-grid:style(display:flex !important; max-width:700px !important;)
 ft.com##.o-topper:style(display:flex !important; max-width:700px !important;)
 ft.com##.onward-journey
