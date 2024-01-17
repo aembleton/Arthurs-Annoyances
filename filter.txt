@@ -1,8 +1,9 @@
 ! Title: Arthur's Annoyances
-! TimeUpdated: 2023-12-08
+! TimeUpdated: 2024-01-17
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances
 
+medium.com##[style="bottom: 0px;"]
 abacusemedia.com
 fortune.com##.related-video-container
 goinstore.com
@@ -1011,10 +1012,6 @@ casalemedia.com$domain=~casalemedia.com
 castle.io$domain=~castle.io
 ccgateway.net$domain=~ccgateway.net
 cctv.com$domain=~cctv.com
-cdn-client.medium.com$domain=~cdn-client.medium.com
-cdn-images-1.medium.com$domain=~cdn-images-1.medium.com
-cdn-net.com$domain=~cdn-net.com
-cdn-static-1.medium.com$domain=~cdn-static-1.medium.com
 cdnwidget.com$domain=~cdnwidget.com
 cdrvrs.com$domain=~cdrvrs.com
 channel.io$domain=~channel.io
