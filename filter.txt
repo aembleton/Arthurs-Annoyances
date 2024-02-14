@@ -1,8 +1,11 @@
 ! Title: Arthur's Annoyances
-! TimeUpdated: 2024-01-17
+! TimeUpdated: 2024-02-14
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances
 
+baeldung.com##.aelzmn
+blog.parkrun.com##.grid-33
+blog.parkrun.com###ad-container-header
 medium.com##[style="bottom: 0px;"]
 abacusemedia.com
 fortune.com##.related-video-container
