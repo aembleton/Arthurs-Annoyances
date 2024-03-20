@@ -1,8 +1,16 @@
 ! Title: Arthur's Annoyances
-! TimeUpdated: 2024-02-14
+! TimeUpdated: 2024-03-20
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances
 
+wired.com##div[class^='StickyBoxWrapper']:upward(1)
+wired.com##div[class^='Persistent']
+wired.com##div[class^='ContentHeaderRubric']
+wired.com##div[class^='Action']
+wired.com##div[class^='ContentFooter']
+wired.com##div[class*='BasePageSite']
+wired.com##figure:style(grid-column:1/-1 !important;)
+wired.com##div[class^=BodyWrapper]:upward(1):style(grid-column:3 / span 8 !important;)
 baeldung.com##.aelzmn
 blog.parkrun.com##.grid-33
 blog.parkrun.com###ad-container-header
