@@ -3,6 +3,7 @@
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances
 
+gizmodo.com##aside
 skyscanner.net##span:has-text(Sponsored):upward(5)
 wired.com##div[class^='StickyBoxWrapper']:upward(1)
 wired.com##div[class^='Persistent']
