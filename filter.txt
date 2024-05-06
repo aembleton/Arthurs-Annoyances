@@ -1,7 +1,7 @@
 ! Title: Arthur's Annoyances
 ! TimeUpdated: 2024-05-06
 ! Expires: 1 day (update frequency)
-! Homepage: https://github.com/aembleton/Arthurs-Annoyances
+! Homepage: https://github.com/aembleton/Arthurs-Annoyances/blob/master/filter.txt
 
 *##+js(nostif, ())return)
 addtoany.com
