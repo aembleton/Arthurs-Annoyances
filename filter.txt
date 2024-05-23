@@ -1,9 +1,8 @@
 ! Title: Arthur's Annoyances
-! TimeUpdated: 2024-05-23
+! TimeUpdated: 2024-05-24
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances/blob/master/filter.txt
 
-inmobi.com
 ~amazon.*,*##+js(nostif, ())return)
 addtoany.com
 impervadns.net
