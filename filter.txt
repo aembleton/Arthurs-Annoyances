@@ -1,8 +1,21 @@
 ! Title: Arthur's Annoyances
-! TimeUpdated: 2024-05-27
+! TimeUpdated: 2024-06-17
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances/blob/master/filter.txt
 
+shetnews.co.uk##.widget_exchange
+shetnews.co.uk###alert-inline-message
+shetnews.co.uk##.widget
+shetnews.co.uk##section
+shetnews.co.uk##.menu-map
+shetnews.co.uk##.support-footer
+standard.co.uk##.video-sticky-video
+standard.co.uk##.teads
+standard.co.uk##h3:has-text('Read More'):upward(2)
+standard.co.uk###footer
+standard.co.uk###frameInner:style(margin:0 !important;)
+tinypass.com
+doubleclick.net
 scientificamerican.com##aside
 ~amazon.*,*##+js(nostif, ())return)
 addtoany.com
