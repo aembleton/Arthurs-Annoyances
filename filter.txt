@@ -1,5 +1,5 @@
 ! Title: Arthur's Annoyances
-! TimeUpdated: 2024-06-17
+! TimeUpdated: 2024-06-24
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances/blob/master/filter.txt
 
@@ -138,7 +138,6 @@ thesun.co.uk##.article-boxout
 forbes.com##.middleRightRail:style(max-width:750px !important;)
 forbes.com##.marketPlace
 latimes.com##.rail
-theguardian.com##figure > gu-island
 railinsider.co.uk##.td-header-template-wrap
 railinsider.co.uk##.raili-side-mpu-1:upward(3)
 railinsider.co.uk##.raili-test
