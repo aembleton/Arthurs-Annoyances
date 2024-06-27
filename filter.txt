@@ -1,8 +1,10 @@
 ! Title: Arthur's Annoyances
-! TimeUpdated: 2024-06-25
+! TimeUpdated: 2024-06-27
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances/blob/master/filter.txt
 
+m.facebook.com##span:has-text(Add to story):upward(10)
+m.facebook.com##.native-text:has-text(People you may know):upward(4)
 mirror.co.uk###remixd-audio-player
 next.io##+js(aeld, DOMContentLoaded)
 next.io##.top-banner__wrapper
