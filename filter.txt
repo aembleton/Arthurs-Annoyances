@@ -3,7 +3,7 @@
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances/blob/master/filter.txt
 
-facebook.com##span:has-text(Add to story):upward(10)
+facebook.com##div.native-text:has-text('Add to story'):upward(9)
 facebook.com##.native-text:has-text(People you may know):upward(4)
 facebook.com##div.native-text:has-text('Follow'):upward(5)
 facebook.com##div.native-text:has-text('Sponsored'):upward(5)
