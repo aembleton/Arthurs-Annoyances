@@ -21,7 +21,6 @@ standard.co.uk###frameInner:style(margin:0 !important;)
 tinypass.com
 doubleclick.net
 scientificamerican.com##aside
-~amazon.*,*##+js(nostif, ())return)
 addtoany.com
 impervadns.net
 outpost.pub
@@ -1875,4 +1874,3 @@ zoominfo.com$domain=~zoominfo.com
 zprk.io$domain=~zprk.io
 ztsrv.com$domain=~ztsrv.com
 zucks.net$domain=~zucks.net
-*##+js(aeld, visibilitychange)
