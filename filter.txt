@@ -3,6 +3,7 @@
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances/blob/master/filter.txt
 
+placenorthwest.co.uk,placenortheast.co.uk,placeyorkshire.co.uk##.site-header__top
 adfirst.media
 mirror.co.uk###remixd-audio-player
 next.io##+js(aeld, DOMContentLoaded)
