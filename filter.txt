@@ -1,8 +1,10 @@
 ! Title: Arthur's Annoyances
-! TimeUpdated: 2024-07-02
+! TimeUpdated: 2024-07-17
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances/blob/master/filter.txt
 
+simplestream.com
+rebelmouse.io
 placenorthwest.co.uk,placenortheast.co.uk,placeyorkshire.co.uk##.site-header__top
 adfirst.media
 mirror.co.uk###remixd-audio-player
