@@ -1,8 +1,9 @@
 ! Title: Arthur's Annoyances
-! TimeUpdated: 2024-07-17
+! TimeUpdated: 2024-07-18
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances/blob/master/filter.txt
 
+parkrun.org.uk##.parkrunadBanner:upward(1)
 simplestream.com
 rebelmouse.io
 placenorthwest.co.uk,placenortheast.co.uk,placeyorkshire.co.uk##.site-header__top
