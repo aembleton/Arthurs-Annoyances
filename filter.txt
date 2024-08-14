@@ -1,8 +1,21 @@
 ! Title: Arthur's Annoyances
-! TimeUpdated: 2024-07-18
+! TimeUpdated: 2024-08-14
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances/blob/master/filter.txt
 
+engageplatform.com
+lrcontent.com
+tm-awx.com
+wayin.com
+||express.co.uk^$script
+express.co.uk###swipe-article-next
+express.co.uk###web-strip-banner
+express.co.uk##.magnifier
+express.co.uk##.cheetah-container
+express.co.uk##.dont-miss
+express.co.uk##.mainFooter
+express.co.uk##.tags-element
+express.co.uk###ad-vip-article
 parkrun.org.uk##.parkrunadBanner:upward(1)
 simplestream.com
 rebelmouse.io
