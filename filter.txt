@@ -3,6 +3,8 @@
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances/blob/master/filter.txt
 
+express.co.uk##[href]:style(pointer-events: none !important; cursor: default !important;)
+express.co.uk##a:style(color: inherit !important;)
 express.co.uk##.single-article:style(width:100% !important;)
 engageplatform.com
 lrcontent.com
