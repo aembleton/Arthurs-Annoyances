@@ -3,6 +3,20 @@
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances/blob/master/filter.txt
 
+msn.com###consumption-feed-common-header
+msauth.net
+msftauth.net
+dailymotion.com$domain=msn.com
+gfx.ms
+msn.com##.consumption-page-gridarea_action
+msn.com##div[role='banner']
+msn.com##.article-slideshow-slot
+msn.com##.articlePageIntraArticleFullWidth
+msn.com##views-right-rail
+msn.com##.consumption-page-feed-wrapper
+msn.com##.consumptionFeed_nextArticle
+prod-streaming-video-msn-com.akamaized.net
+msn.com##.consumption-page-structure:style(grid-template-columns:auto auto 682px auto auto !important;)
 express.co.uk##[href]:style(pointer-events: none !important; cursor: default !important;)
 express.co.uk##a:style(color: inherit !important;)
 express.co.uk##.single-article:style(width:100% !important;)
