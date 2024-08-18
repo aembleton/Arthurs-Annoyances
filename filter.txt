@@ -5,7 +5,7 @@
 
 msn.com##action-tray
 msn.com##mobile-footer
-! msn.com##.consumption-river
+msn.com##.consumption-river
 msn.com##.hide-overflown-content ~ *:style(visibility:visible !important; height:auto !important;)
 msn.com##.continue-reading-slot
 msn.com###consumption-feed-common-header
