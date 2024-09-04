@@ -3,6 +3,8 @@
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances/blob/master/filter.txt
 
+next.io##.modal-background
+next.io##.adv-link
 msn.com##action-tray
 msn.com##mobile-footer
 msn.com##.consumption-river
