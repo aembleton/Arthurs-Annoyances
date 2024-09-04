@@ -1,5 +1,5 @@
 ! Title: Arthur's Annoyances
-! TimeUpdated: 2024-08-15
+! TimeUpdated: 2024-09-04
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances/blob/master/filter.txt
 
@@ -171,7 +171,6 @@ thisismoney.co.uk##.article-text:style(width:100% !important;)
 theguardian.com##div[data-testid='loading-comments']
 theblock.co##header
 theblock.co##.fixedHeaderMain
-reddit.com##button:has-text(Shop Avatars):upward(1)
 grough.co.uk###mai-container:style(background:none !important;)
 grough.co.uk###mai-content:style(background:none !important; width:100% !important;)
 atechdaily.com##.col-md-4
@@ -409,7 +408,6 @@ dailymail.co.uk###next-story
 pressgazette.co.uk##.article-sidebar-column
 express.co.uk##.taboola-above-article
 alternativeto.net##span:has-text(Sponsored):upward(3)
-reddit.com##span:has-text(AutoModerator):upward(7)
 forbes.com##header
 forbes.com##.top-contrib-block
 forbes.com##.top-tweet-quotes
