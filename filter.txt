@@ -1,5 +1,5 @@
 ! Title: Arthur's Annoyances
-! TimeUpdated: 2024-09-04
+! TimeUpdated: 2024-10-14
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances/blob/master/filter.txt
 
@@ -1785,7 +1785,6 @@ thrtle.com$domain=~thrtle.com
 thunderhead.com$domain=~thunderhead.com
 tidaltv.com$domain=~tidaltv.com
 tiktok.com$domain=~tiktok.com
-tildacdn.com$domain=~tildacdn.com
 tmall.ru$domain=~tmall.ru
 tmid.es$domain=~tmid.es
 tns-counter.ru$domain=~tns-counter.ru
