@@ -3,6 +3,7 @@
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances/blob/master/filter.txt
 
+hagerty.com##.article_sidebar
 cnevids.com
 next.io##.modal-background
 next.io##.adv-link
