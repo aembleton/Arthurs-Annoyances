@@ -1,8 +1,10 @@
 ! Title: Arthur's Annoyances
-! TimeUpdated: 2024-10-28
+! TimeUpdated: 2024-10-29
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances/blob/master/filter.txt
 
+elements.video
+spot.im
 hagerty.com##.article_sidebar
 cnevids.com
 next.io##.modal-background
