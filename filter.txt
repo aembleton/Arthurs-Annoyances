@@ -3,6 +3,7 @@
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances/blob/master/filter.txt
 
+@@||sdk.privacy-center.org^$script,domain=edreams.*
 elements.video
 spot.im
 hagerty.com##.article_sidebar
