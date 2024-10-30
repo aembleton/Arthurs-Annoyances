@@ -3,16 +3,9 @@
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances/blob/master/filter.txt
 
-||x.kinja-static.com/assets/new-client/renderGeoContentBlock*.js$script
-gizmodo.com##.video-html5-playlist
-||x.kinja-static.com/assets/new-client/renderExitIntentModal*.js$script
-||x.kinja-static.com/assets/new-client/renderRegwall*.js$script
-gizmodo.com##article[data-commerce-source="streamshare"]
-||x.kinja-static.com/assets/new-client/in-article-selector*.js$script
-||x.kinja-static.com/assets/new-client/renderMoreFromNetworkSidebarBlock*.js$script
-||x.kinja-static.com/assets/new-client/more-below-post*.js$script
-||x.kinja-static.com/assets/new-client/feed-stream-load-more*.js$script
-||vid.kinja.com/prod/*/*.mp4
+||*/x-kinja-static/
+jalopnik.com##.js_suggested-stories
+jalopnik.com##.js_more-below-post
 ||*/wp-content/cache/autoptimize/
 @@||sdk.privacy-center.org^$script,domain=edreams.*
 elements.video
