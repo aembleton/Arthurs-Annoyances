@@ -3,7 +3,7 @@
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances/blob/master/filter.txt
 
-||*/x-kinja-static/
+
 jalopnik.com##.js_suggested-stories
 jalopnik.com##.js_more-below-post
 ||*/wp-content/cache/autoptimize/
