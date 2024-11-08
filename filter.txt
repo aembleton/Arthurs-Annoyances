@@ -1,5 +1,5 @@
 ! Title: Arthur's Annoyances
-! TimeUpdated: 2024-11-05
+! TimeUpdated: 2024-11-08
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances/blob/master/filter.txt
 
@@ -8,7 +8,7 @@ autotrader.co.uk##span[data-testid="GPT_LISTING"]
 jalopnik.com/api/
 jalopnik.com##.js_suggested-stories
 jalopnik.com##.js_more-below-post
-||*/wp-content/cache/autoptimize/
+||*/wp-content/cache/autoptimize/$script
 @@||sdk.privacy-center.org^$script,domain=edreams.*
 elements.video
 spot.im
