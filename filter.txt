@@ -3,6 +3,28 @@
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances/blob/master/filter.txt
 
+gbnews.com##.engbar
+gbnews.com##.custom-field-viously-html
+gbnews.com##.sticky-banner-wrapper
+gbnews.com##.sidebar--column
+gbnews.com##.main-post__middle
+gbnews.com##p>strong
+gbnews.com##small
+gbnews.com##.embed-dontmiss
+gbnews.com##div>ul
+gbnews.com##.embed-mostread
+gbnews.com##.all-related-sections
+gbnews.com##.module-headline__text
+gbnews.com##.footer
+gbnews.com##.content--with--sidebar:style(display:block !important;)
+gbnews.com##.photo-caption:upward(1)
+gbnews.com##.widget__headline:style(max-width:100% !important;)
+gbnews.com##.main:style(max-width:1000px !important;)
+gbnews.com##p>br
+viously.com
+gbnews.com$script
+||storage.googleapis.com^$script,domain=gbnews.com
+gbnews.com##div>img
 petrolprices.com##.advertDiv
 techcrunch.com##header
 autotrader.co.uk##span[data-testid="FEATURED_LISTING"]
