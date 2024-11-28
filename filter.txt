@@ -1,8 +1,12 @@
 ! Title: Arthur's Annoyances
-! TimeUpdated: 2024-11-21
+! TimeUpdated: 2024-11-28
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances/blob/master/filter.txt
 
+||standard.co.uk^$script
+||telegraph.co.uk^$script
+||polyfill-fastly.io^$script,domain=telegraph.co.uk
+*$subdocument,3p,domain=telegraph.co.uk
 gbnews.com##.engbar
 gbnews.com##.custom-field-viously-html
 gbnews.com##.sticky-banner-wrapper
