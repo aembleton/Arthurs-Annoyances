@@ -3,6 +3,12 @@
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances/blob/master/filter.txt
 
+economist.com##footer
+economist.com##.ds-section-headline:upward(1)
+economist.com##.ds-link-with-arrow-icon:upward(3)
+economist.com##div:style(top:0 !important;)
+economist.com##audio:upward(2)
+||economist.com^$script
 grough.co.uk##img:remove-attr(width)
 grough.co.uk##img:remove-attr(height)
 grough.co.uk##img:style(width:100% !important;)
@@ -212,14 +218,6 @@ viafoura.net
 tldw.me
 euronews.com##.widget--type-related
 minute.ly
-economist.com##footer
-economist.com##.ds-section-headline:upward(1)
-economist.com##.ds-link-with-arrow-icon:upward(3)
-economist.com##.ds-actioned-link:upward(5)
-economist.com##.styled-masthead
-economist.com##div:style(top:0 !important;)
-economist.com##article>div>div:style(display:block !important; max-width:800px !important;)
-economist.com##audio:upward(2)
 thesun.co.uk###sim-module
 msn.com###header
 whatpub.com##.alert-covid
@@ -869,7 +867,6 @@ cambrian-news.co.uk##Cloudflare-app
 theverge.com##.c-float-left
 theverge.com##.c-read-more
 threadreaderapp.com##.sharingfooter
-||economist.com^$script,1p
 forbes.com##.video-player
 ||mindtools.com^$script,1p
 ||embed.tawk.to^
