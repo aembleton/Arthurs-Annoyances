@@ -1,8 +1,22 @@
 ! Title: Arthur's Annoyances
-! TimeUpdated: 2024-12-04
+! TimeUpdated: 2024-12-05
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances/blob/master/filter.txt
 
+||the-independent.com^$script
+||independent.co.uk^$script
+the-independent.com##.video:upward(3)
+the-independent.com###header
+the-independent.com##.js-comment-header
+the-independent.com##div[data-mpu1]
+the-independent.com###main>div:has(#taboola-carousel-thumbnails)
+the-independent.com##.related
+the-independent.com###main>div>div.mobile-only
+the-independent.com##nav
+the-independent.com##.show-comments
+the-independent.com###comments
+the-independent.com##footer
+the-independent.com##aside
 independent.co.uk###taboola-carousel-thumbnails:upward(1)
 independent.co.uk##.mobile-only
 ||standard.co.uk^$script
