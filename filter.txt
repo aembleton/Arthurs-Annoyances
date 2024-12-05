@@ -3,6 +3,15 @@
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances/blob/master/filter.txt
 
+grough.co.uk##img:remove-attr(width)
+grough.co.uk##img:remove-attr(height)
+grough.co.uk##img:style(width:100% !important;)
+grough.co.uk##img:upward(1):style(width:none !important; height:none !important; width:none !important; height:none !important;)
+grough.co.uk##.alignleft:style(float:none !important; width:100% !important;)
+grough.co.uk##body:style(font-size:15px !important;)
+grough.co.uk###main:style(border-left:none !important;)
+grough.co.uk###mai-container:style(border-left:none !important;)
+grough.co.uk^$script
 ||the-independent.com^$script
 ||independent.co.uk^$script
 the-independent.com##.video:upward(3)
