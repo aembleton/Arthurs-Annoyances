@@ -3,6 +3,7 @@
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances/blob/master/filter.txt
 
+||dailymail.co.uk^$script
 dailymail.co.uk##.floatRHS
 autotrader.co.uk##span[data-testid]:not([data-testid="trader-seller-listing"]):upward(1)
 economist.com##footer
