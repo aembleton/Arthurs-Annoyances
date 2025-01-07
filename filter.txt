@@ -1,8 +1,9 @@
 ! Title: Arthur's Annoyances
-! TimeUpdated: 2024-12-13
+! TimeUpdated: 2025-01-07
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances/blob/master/filter.txt
 
+decathlon.co.uk##dialog:style(user-select:text !important;)
 ||science.org^$script
 ||dailymail.co.uk^$script
 dailymail.co.uk##.floatRHS
