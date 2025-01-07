@@ -3,7 +3,7 @@
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances/blob/master/filter.txt
 
-decathlon.co.uk##dialog:style(user-select:text !important;)
+decathlon.*##dialog:style(user-select:text !important;)
 ||science.org^$script
 ||dailymail.co.uk^$script
 dailymail.co.uk##.floatRHS
