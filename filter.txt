@@ -3,6 +3,7 @@
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances/blob/master/filter.txt
 
+wired.com##div[class^='SplitScreenContentHeaderLedeBlock']:style(height:100% !important;)
 ||www.wired.com^$script
 wired.com##div[class^='SpaceHolder']
 wired.com##.page:style(padding-top:0 !important;)
