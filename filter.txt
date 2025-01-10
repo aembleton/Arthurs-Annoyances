@@ -1,8 +1,13 @@
 ! Title: Arthur's Annoyances
-! TimeUpdated: 2025-01-07
+! TimeUpdated: 2025-01-10
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances/blob/master/filter.txt
 
+||www.wired.com^$script
+wired.com##div[class^='SpaceHolder']
+wired.com##.page:style(padding-top:0 !important;)
+wired.com##div[class^='GridWrapper']:style(display:block !important; max-width:1000px !important)
+wired.com##h1:style(max-width:1000px !important;)
 decathlon.*##dialog:style(user-select:text !important;)
 ||science.org^$script
 ||dailymail.co.uk^$script
