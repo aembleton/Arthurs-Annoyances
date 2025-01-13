@@ -1,8 +1,9 @@
 ! Title: Arthur's Annoyances
-! TimeUpdated: 2025-01-10
+! TimeUpdated: 2025-01-13
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances/blob/master/filter.txt
 
+telegraph.co.uk##body:style(overflow-x:hidden !important;)
 wired.com##div[class^='SplitScreenContentHeaderLedeBlock']:style(height:100% !important;)
 ||www.wired.com^$script
 wired.com##div[class^='SpaceHolder']
