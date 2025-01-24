@@ -1,8 +1,9 @@
 ! Title: Arthur's Annoyances
-! TimeUpdated: 2025-01-16
+! TimeUpdated: 2025-01-24
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances/blob/master/filter.txt
 
+lbc.co.uk##.row:style(width:100% !important; max-width:680px !important;)
 autotrader.co.uk##li > div > span[data-testid]:not([data-testid="trader-seller-listing"]):upward(2)
 telegraph.co.uk##body:style(overflow-x:hidden !important;)
 wired.com##div[class^='SplitScreenContentHeaderLedeBlock']:style(height:100% !important;)
