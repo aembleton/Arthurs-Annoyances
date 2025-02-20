@@ -3,6 +3,10 @@
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances/blob/master/filter.txt
 
+standard.co.uk##article>div>div>div:style(max-inline-size:100% !important;)
+standard.co.uk##a[data-testid]
+standard.co.uk##span[aria-label="Chevron"]:upward(2)
+standard.co.uk###article-bottom
 ||buzzfeednews.com^$script
 lbc.co.uk##.row:style(width:100% !important; max-width:680px !important;)
 autotrader.co.uk##li > div > span[data-testid]:not([data-testid="trader-seller-listing"]):upward(2)
