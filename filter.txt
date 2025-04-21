@@ -3,6 +3,17 @@
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances/blob/master/filter.txt
 
+metro.co.uk##.header
+metro.co.uk##.sidebar-layout__sidebar
+metro.co.uk##.sidebar-layout__content > .article__content
+metro.co.uk##.after-article-layout
+metro.co.uk##.footer
+metro.co.uk##.factbox
+||metro.co.uk^$script
+metro.co.uk##.sidebar-layout__content:style(max-width:100% !important;)
+metro.co.uk##figure:style(margin:0 !important;)
+metro.co.uk##.article__content__inner:style(margin:0 !important;)
+metro.co.uk##.metro-more-link
 standard.co.uk##article>div>div>div:style(max-inline-size:100% !important;)
 standard.co.uk##a[data-testid]
 standard.co.uk##span[aria-label="Chevron"]:upward(2)
