@@ -1,8 +1,9 @@
 ! Title: Arthur's Annoyances
-! TimeUpdated: 2025-04-21
+! TimeUpdated: 2025-04-24
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances/blob/master/filter.txt
 
+theguardian.com##gu-island[priority='enhancement']
 ||beehiiv-adnetwork-production.s3.amazonaws.com
 ||readbunce.com$script
 ||twitter.com$domain=~x.com
