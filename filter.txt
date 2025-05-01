@@ -1,8 +1,9 @@
 ! Title: Arthur's Annoyances
-! TimeUpdated: 2025-04-30
+! TimeUpdated: 2025-05-01
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances/blob/master/filter.txt
 
+standard.co.uk##.viafoura
 metro.co.uk##.video-player
 metro.co.uk##.metro-more-from
 theguardian.com##gu-island[priority='enhancement']
