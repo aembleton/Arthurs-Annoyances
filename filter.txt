@@ -1,5 +1,5 @@
 ! Title: Arthur's Annoyances
-! TimeUpdated: 2025-05-01
+! TimeUpdated: 2025-06-12
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances/blob/master/filter.txt
 
@@ -40,12 +40,6 @@ decathlon.*##dialog:style(user-select:text !important;)
 ||dailymail.co.uk^$script
 dailymail.co.uk##.floatRHS
 autotrader.co.uk##span[data-testid]:not([data-testid="trader-seller-listing"]):upward(1)
-economist.com##footer
-economist.com##.ds-section-headline:upward(1)
-economist.com##.ds-link-with-arrow-icon:upward(3)
-economist.com##div:style(top:0 !important;)
-economist.com##audio:upward(2)
-||economist.com^$script
 grough.co.uk##img:remove-attr(width)
 grough.co.uk##img:remove-attr(height)
 grough.co.uk##img:style(width:100% !important;)
