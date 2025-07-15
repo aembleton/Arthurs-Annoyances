@@ -3,6 +3,10 @@
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances/blob/master/filter.txt
 
+thesun.co.uk##.read-more-container-placeholder
+thesun.co.uk##.top-banner
+thesun.co.uk##.sub-nav-item-wrapper
+thesun.co.uk##div.sun-row:style(box-shadow:none !important;)
 ||mantis-awx.com$domain=~mantis-awx.com
 ||mantis-intelligence.com$domain=~mantis-intelligence.com
 ||reachgeneric.co.uk$domain=~reachgeneric.co.uk
