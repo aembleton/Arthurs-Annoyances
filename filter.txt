@@ -3,6 +3,9 @@
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances/blob/master/filter.txt
 
+||mantis-awx.com$domain=~mantis-awx.com
+||mantis-intelligence.com$domain=~mantis-intelligence.com
+||reachgeneric.co.uk$domain=~reachgeneric.co.uk
 standard.co.uk##div[data-island-hydrate-component='Twitter']
 standard.co.uk##.viafoura
 metro.co.uk##.video-player
