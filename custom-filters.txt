@@ -4,4 +4,3 @@ https://raw.githubusercontent.com/aembleton/Arthurs-Annoyances/master/filter.txt
 https://www.i-dont-care-about-cookies.eu/abp/
 https://raw.githubusercontent.com/DandelionSprout/adfilt/2f190b4ad6e362edf5e53bee8459d420d82b770c/stayingonbrowser/Staying%20On%20The%20Phone%20Browser
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/BrowseWebsitesWithoutLoggingIn.txt
-https://raw.githubusercontent.com/mig4ng/ublock-origin-filters/main/0-include-all.txt 
