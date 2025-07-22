@@ -1,8 +1,9 @@
 ! Title: Arthur's Annoyances
-! TimeUpdated: 2025-07-20
+! TimeUpdated: 2025-07-22
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances/blob/master/filter.txt
 
+independent.co.uk##.hydrate-root
 thesun.co.uk##.read-more-container-placeholder
 thesun.co.uk##.top-banner
 thesun.co.uk##.sub-nav-item-wrapper
