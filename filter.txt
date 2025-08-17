@@ -1,8 +1,21 @@
 ! Title: Arthur's Annoyances
-! TimeUpdated: 2025-07-22
+! TimeUpdated: 2025-08-17
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances/blob/master/filter.txt
 
+theverge.com##aside
+theverge.com##nav
+theverge.com##body>div>div>div>div:upward(1)
+theverge.com##div[id^='follow-category-breadcrumb-']:upward(4)
+theverge.com##.duet--layout--rail
+theverge.com##span>a[class^=duet--article]:upward(1)
+theverge.com##strong:has-text('Follow topics'):upward(2)
+theverge.com##.duet--layout--article-recirc-color-container
+theverge.com##footer
+theverge.com##.duet--ledes--standard-lede>div:nth-of-type(2)>div:nth-of-type(1)
+theverge.com##.duet--ledes--standard-lede>div:style(max-width:100% !important;)
+theverge.com##.duet--ledes--standard-lede>div>div:style(max-width:100% !important;)
+theverge.com##.duet--layout--entry-body:style(max-width:100% !important;)
 independent.co.uk##.hydrate-root
 thesun.co.uk##.read-more-container-placeholder
 thesun.co.uk##.top-banner
