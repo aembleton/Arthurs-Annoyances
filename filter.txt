@@ -1,8 +1,16 @@
 ! Title: Arthur's Annoyances
-! TimeUpdated: 2025-08-17
+! TimeUpdated: 2025-09-03
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances/blob/master/filter.txt
 
+cnbc.com##.SidebarArticle-sidebar
+cnbc.com###GlobalNavigation
+cnbc.com###GlobalNavigation-Persistent
+cnbc.com##.ArticleHeader-eyebrow
+cnbc.com###MainContentContainer:style(margin-top:0 !important;)
+cnbc.com###RegularArticle-RelatedQuotes
+cnbc.com##.RelatedContent-relatedContent:upward(1)
+cnbc.com##footer
 theverge.com##aside
 theverge.com##nav
 theverge.com##body>div>div>div>div:upward(1)
