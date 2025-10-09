@@ -1,8 +1,11 @@
 ! Title: Arthur's Annoyances
-! TimeUpdated: 2025-09-03
+! TimeUpdated: 2025-10-09
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances/blob/master/filter.txt
 
+||klaviyo.com
+||memberful.com
+||bookfinity.com
 cnbc.com##.SidebarArticle-sidebar
 cnbc.com###GlobalNavigation
 cnbc.com###GlobalNavigation-Persistent
