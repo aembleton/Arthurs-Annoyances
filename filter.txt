@@ -1,8 +1,10 @@
 ! Title: Arthur's Annoyances
-! TimeUpdated: 2025-10-13
+! TimeUpdated: 2025-11-08
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances/blob/master/filter.txt
 
+quasa.io##.media__sidebar
+argos.co.uk/ui-search-api/sresource
 ||klaviyo.com
 ||memberful.com
 ||bookfinity.com
