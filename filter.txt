@@ -1,8 +1,9 @@
 ! Title: Arthur's Annoyances
-! TimeUpdated: 2025-11-08
+! TimeUpdated: 2025-11-22
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances/blob/master/filter.txt
 
+hotukdeals.com##section[class^='idealo-cept']:upward(1)
 quasa.io##.media__sidebar
 argos.co.uk/ui-search-api/sresource
 ||klaviyo.com
