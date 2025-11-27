@@ -1,8 +1,13 @@
 ! Title: Arthur's Annoyances
-! TimeUpdated: 2025-11-22
+! TimeUpdated: 2025-11-27
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances/blob/master/filter.txt
 
+standard.co.uk###next-article-element
+standard.co.uk##div[data-island-hydrate-component='ExcoPlayerHydrated']:upward(1)
+standard.co.uk##div[data-island-hydrate-component='Byline']
+standard.co.uk##h1:upward(1):style(max-inline-size:100% !important;)
+standard.co.uk##h1:upward(2):style(flex-basis:100% !important;)
 hotukdeals.com##section[class^='idealo-cept']:upward(1)
 quasa.io##.media__sidebar
 argos.co.uk/ui-search-api/sresource
