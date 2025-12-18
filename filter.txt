@@ -1,8 +1,10 @@
 ! Title: Arthur's Annoyances
-! TimeUpdated: 2025-12-17
+! TimeUpdated: 2025-12-18
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances/blob/master/filter.txt
 
+wired.com##.CommentingMainContent
+wired.com##header>nav:upward(1)
 aliexpress.com##span:has-text(Bundle for Less):upward(6)
 standard.co.uk###next-article-element
 standard.co.uk##div[data-island-hydrate-component='ExcoPlayerHydrated']:upward(1)
