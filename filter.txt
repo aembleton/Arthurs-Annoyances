@@ -1,5 +1,5 @@
 ! Title: Arthur's Annoyances
-! TimeUpdated: 2026-01-09
+! TimeUpdated: 2026-02-09
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances/blob/master/filter.txt
 
@@ -186,6 +186,8 @@ express.co.uk##.dont-miss
 express.co.uk##.mainFooter
 express.co.uk##.tags-element
 express.co.uk###ad-vip-article
+express.co.uk###dd-placeholder
+express.co.uk##.google-preferred-source
 parkrun.org.uk##.parkrunadBanner:upward(1)
 simplestream.com
 rebelmouse.io
