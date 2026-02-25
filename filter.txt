@@ -3,8 +3,8 @@
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances/blob/master/filter.txt
 
-brandswap.com
-sdiapi.com
+||brandswap.com
+||sdiapi.com
 opentracking.co.uk##.mobilesponsors
 opentracking.co.uk##.sponsors
 opentracking.co.uk##.splashcontainer
