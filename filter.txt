@@ -1,8 +1,13 @@
 ! Title: Arthur's Annoyances
-! TimeUpdated: 2026-03-21
+! TimeUpdated: 2026-05-09
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances/blob/master/filter.txt
 
+bloomberg.com###fortress-container-root
+bbcgoodfood.com##.square-video
+bbcgoodfood.com##.post-header__container--masthead:style(display:flex !important;)
+bbcgoodfood.com##div[data-feature='promotionalWidget']:upward(2)
+bbcgoodfood.com##.ad-placement
 cardealermagazine.co.uk##div[id*='card']
 ||viralize.tv$domain=~viralize.tv
 ||bsky.app$domain=~bsky.app
