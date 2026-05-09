@@ -3,6 +3,7 @@
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances/blob/master/filter.txt
 
+||greenvideo.io$domain=~greenvideo.io
 bloomberg.com###fortress-container-root
 bbcgoodfood.com##.square-video
 bbcgoodfood.com##.post-header__container--masthead:style(display:flex !important;)
