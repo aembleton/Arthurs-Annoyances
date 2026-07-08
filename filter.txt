@@ -1,8 +1,11 @@
 ! Title: Arthur's Annoyances
-! TimeUpdated: 2026-05-09
+! TimeUpdated: 2026-07-08
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances/blob/master/filter.txt
 
+screwfix.com##div[data-qaid='sponsored-label']:upward(4)
+screwfix.com##p:has-text('Sorry, this item is currently out of stock'):upward(6)
+aliexpress.com##.card-out-wrapper>div:has-text('Ad'):upward(3)
 ||greenvideo.io$domain=~greenvideo.io
 bloomberg.com###fortress-container-root
 bbcgoodfood.com##.square-video
