@@ -1,8 +1,13 @@
 ! Title: Arthur's Annoyances
-! TimeUpdated: 2026-10-25
+! TimeUpdated: 2026-11-08
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances/blob/master/filter.txt
 
+dailymail.com##.related-replace-title:upward(2)
+dailymail.com##.mol-factbox-title:upward(1)
+dailymail.com###reader-comments
+dailymail.com###infinite-list
+dailymail.com##div[data-position='header']
 ebay.co.uk##b[style*="0Pjwvc3ZnPg=="]:upward(7)
 ||oofadvanced.com^
 ||html-load.com^
