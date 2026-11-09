@@ -3,6 +3,9 @@
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances/blob/master/filter.txt
 
+*$csp=script-src 'none',domain=dailymail.com
+dailymail.com##header
+dailymail.com##.mol-fe-new-bar-js
 independent.co.uk###deeper-dive-container:upward(1)
 dailymail.com##.related-replace-title:upward(2)
 dailymail.com##.mol-factbox-title:upward(1)
