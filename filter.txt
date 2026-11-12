@@ -3,9 +3,6 @@
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances/blob/master/filter.txt
 
-facebook.com##*:style(user-select: text !important; -webkit-user-select: text !important; -moz-user-select: text !important; -webkit-touch-callout: default !important;)
-facebook.com##+js(aeld, selectstart)
-facebook.com##+js(aeld, contextmenu)
 ||kit.com^
 *##html, body:style(overflow: visible !important; overflow-y: auto !important; position: static !important; max-height: none !important;)
 *$csp=script-src 'none',domain=dailymail.com
