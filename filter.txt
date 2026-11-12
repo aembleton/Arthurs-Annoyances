@@ -3,9 +3,11 @@
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances/blob/master/filter.txt
 
+||ketchjs.com^
+||headliner.link^
 ||kit.com^
 *##html, body:style(overflow: visible !important; overflow-y: auto !important; position: static !important; max-height: none !important;)
-*$csp=script-src 'none',domain=dailymail.com
+*$csp=script-src 'none',domain=dailymail.com,cbsnews.com
 dailymail.com##header
 dailymail.com##.mol-fe-new-bar-js
 independent.co.uk###deeper-dive-container:upward(1)
