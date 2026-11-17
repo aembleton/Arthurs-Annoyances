@@ -1,5 +1,5 @@
 ! Title: Arthur's Annoyances
-! TimeUpdated: 2026-11-12
+! TimeUpdated: 2026-11-17
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances/blob/master/filter.txt
 
@@ -7,7 +7,7 @@
 ||headliner.link^
 ||kit.com^
 ~nist.gov,~gmail.com,~discord.com##html, body:style(overflow: visible !important; overflow-y: auto !important; position: static !important; max-height: none !important;)
-*$csp=script-src 'none',domain=dailymail.com,cbsnews.com
+*$csp=script-src 'none',domain=dailymail.com,cbsnews.com,thesun.co.uk
 dailymail.com##header
 dailymail.com##.mol-fe-new-bar-js
 independent.co.uk###deeper-dive-container:upward(1)
