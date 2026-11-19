@@ -3,6 +3,10 @@
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/aembleton/Arthurs-Annoyances/blob/master/filter.txt
 
+! Block JS
+*$csp=script-src 'none',document,domain=dailymail.com|dailymail.co.uk|cbsnews.com|thesun.co.uk|independent.co.uk
+*$script,domain=dailymail.com|dailymail.co.uk|cbsnews.com|thesun.co.uk|independent.co.uk
+
 independent.co.uk##.video
 independent.co.uk##.upNextVideos
 independent.co.uk##.hero.titlePanel.header
@@ -10,7 +14,6 @@ independent.co.uk##.hero.titlePanel.header
 ||headliner.link^
 ||kit.com^
 ~nist.gov,~gmail.com,~discord.com##html, body:style(overflow: visible !important; overflow-y: auto !important; position: static !important; max-height: none !important;)
-*$csp=script-src 'none',domain=dailymail.com,cbsnews.com,thesun.co.uk,independent.co.uk
 dailymail.com##header
 dailymail.com##.mol-fe-new-bar-js
 independent.co.uk###deeper-dive-container:upward(1)
